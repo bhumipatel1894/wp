@@ -1,0 +1,742 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Portfolio and Projects Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-21 14:20+0000\n"
+"PO-Revision-Date: 2017-03-21 14:20+0000\n"
+"Last-Translator: admin <pratikjain@sptechnolab.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Name of the plugin
+#: wppap-plugin-updater.php:26
+msgid "Portfolio and Projects Pro"
+msgstr ""
+
+#: wppap-plugin-updater.php:26
+msgid "Plugin License"
+msgstr ""
+
+#: wppap-plugin-updater.php:42
+msgid "Portfolio and Projects Pro Lightbox License Options"
+msgstr ""
+
+#: wppap-plugin-updater.php:49 includes/admin/class-wp-pap-admin.php:265
+msgid "Your changes saved successfully."
+msgstr ""
+
+#: wppap-plugin-updater.php:59
+msgid "Plugin license activated successfully"
+msgstr ""
+
+#: wppap-plugin-updater.php:63
+msgid "Please activate plugin license to get automatic update of plugin."
+msgstr ""
+
+#: wppap-plugin-updater.php:71
+msgid "License Key"
+msgstr ""
+
+#: wppap-plugin-updater.php:75
+msgid "Enter plugin license key."
+msgstr ""
+
+#: wppap-plugin-updater.php:81 wppap-plugin-updater.php:89
+msgid "Activate License"
+msgstr ""
+
+#: wppap-plugin-updater.php:86
+msgid "Deactivate License"
+msgstr ""
+
+#: wppap-plugin-updater.php:87
+msgid "Active"
+msgstr ""
+
+#: wppap-plugin-updater.php:200
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: wppap-plugin-updater.php:207
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: wppap-plugin-updater.php:212
+msgid ""
+"Plugin license is invalid. Please be sure you have entered right plugin "
+"license key."
+msgstr ""
+
+#: wppap-plugin-updater.php:218
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: wppap-plugin-updater.php:223
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: wppap-plugin-updater.php:228
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: wppap-plugin-updater.php:233 wppap-plugin-updater.php:293
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: wppap-plugin-updater.php:328
+msgid "Enter valid license key for automatic updates."
+msgstr ""
+
+#: wppap-plugin-updater.php:343
+msgid "Activate Plugin License"
+msgstr ""
+
+#: wppap-plugin-updater.php:343
+msgid "License"
+msgstr ""
+
+#: includes/class-wp-pap-script.php:130
+#: includes/admin/metabox/wp-pap-sett-metabox.php:69
+msgid "Edit Image in Popup"
+msgstr ""
+
+#: includes/class-wp-pap-script.php:131
+#: includes/admin/metabox/wp-pap-sett-metabox.php:70
+#: includes/admin/settings/wp-pap-img-popup-data.php:19
+msgid "Edit Image"
+msgstr ""
+
+#: includes/class-wp-pap-script.php:132
+#: includes/admin/metabox/wp-pap-sett-metabox.php:71
+msgid "Remove Image"
+msgstr ""
+
+#: includes/class-wp-pap-script.php:133
+msgid "Are you sure to remove all images from this gallery!"
+msgstr ""
+
+#: includes/wp-pap-functions.php:202
+#: includes/shortcode/wp-pap-portfolio.php:202
+msgid "Previous"
+msgstr ""
+
+#: includes/wp-pap-functions.php:203
+#: includes/shortcode/wp-pap-portfolio.php:201
+msgid "Next"
+msgstr ""
+
+#: includes/wp-pap-functions.php:218
+msgid "Inline Style"
+msgstr ""
+
+#: includes/wp-pap-functions.php:219
+msgid "Popup Style"
+msgstr ""
+
+#: includes/wp-pap-functions.php:275
+msgid "Design 1"
+msgstr ""
+
+#: includes/wp-pap-functions.php:276
+msgid "Design 2"
+msgstr ""
+
+#: includes/wp-pap-functions.php:277
+msgid "Design 3"
+msgstr ""
+
+#: includes/wp-pap-functions.php:278
+msgid "Design 4"
+msgstr ""
+
+#: includes/wp-pap-functions.php:279
+msgid "Design 5"
+msgstr ""
+
+#: includes/wp-pap-functions.php:280
+msgid "Design 6"
+msgstr ""
+
+#: includes/wp-pap-functions.php:281
+msgid "Design 7"
+msgstr ""
+
+#: includes/wp-pap-functions.php:282
+msgid "Design 8"
+msgstr ""
+
+#: includes/wp-pap-functions.php:283
+msgid "Design 9"
+msgstr ""
+
+#: includes/wp-pap-functions.php:284
+msgid "Design 10"
+msgstr ""
+
+#: includes/wp-pap-functions.php:285
+msgid "Design 11"
+msgstr ""
+
+#: includes/wp-pap-functions.php:286
+msgid "Design 12"
+msgstr ""
+
+#: includes/wp-pap-functions.php:287
+msgid "Design 13"
+msgstr ""
+
+#: includes/wp-pap-functions.php:288
+msgid "Design 14"
+msgstr ""
+
+#: includes/wp-pap-functions.php:289
+msgid "Design 15"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:21
+msgid "Portfolios & Projects"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:22
+msgid "Portfolio"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:23
+msgid "Add Portfolio"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:24
+msgid "Add New Portfolio"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:25
+msgid "Edit Portfolio"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:26
+msgid "New Portfolio"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:27
+msgid "View Portfolio"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:28
+msgid "Search Portfolio"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:29
+msgid "No Portfolio found"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:30
+msgid "No Portfolio found in Trash"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:31
+msgid "Portfolio Pro"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:32
+msgid "Portfolio Cover Image"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:33
+msgid "Set Portfolio Cover Image"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:34
+msgid "Remove Portfolio Cover Image"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:35
+msgid "Use as Portfolio Cover Image"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:70
+msgid "Portfolio Categories"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:71
+msgid "Category"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:72
+msgid "Search Portfolio Category"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:73
+msgid "All Category"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:74
+msgid "Parent Category"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:75
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:76
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:77
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:78
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:79
+msgid "New Category Name"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:80 templates/popup/inline-portfolio.php:79
+#: templates/popup/popup-portfolio.php:76
+msgid "Categories"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:98
+msgid "Portfolio Skills"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:99
+msgid "Skill"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:100
+msgid "Search Portfolio Skills"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:101
+msgid "Popular Skills"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:102
+msgid "All Skills"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:105
+msgid "Edit Portfolio Skill"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:106
+msgid "Update Portfolio Skill"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:107
+msgid "Add New Portfolio Skill"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:108
+msgid "New Skill Name"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:109
+msgid "Separate skills with commas"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:110
+msgid "Add or remove portfolios"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:111
+msgid "Choose from the most used portfolios"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:112 templates/popup/inline-portfolio.php:88
+#: templates/popup/popup-portfolio.php:87
+msgid "Skills"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:142 includes/wp-pap-post-types.php:145
+msgid "Portfolio updated."
+msgstr ""
+
+#: includes/wp-pap-post-types.php:143
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/wp-pap-post-types.php:144
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/wp-pap-post-types.php:146
+#, php-format
+msgid "Image Gallery restored to revision from %s"
+msgstr ""
+
+#: includes/wp-pap-post-types.php:147
+msgid "Portfolio published."
+msgstr ""
+
+#: includes/wp-pap-post-types.php:148
+msgid "Portfolio saved."
+msgstr ""
+
+#: includes/wp-pap-post-types.php:149
+msgid "Portfolio submitted."
+msgstr ""
+
+#: includes/wp-pap-post-types.php:150
+#, php-format
+msgid "Portfolio scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/wp-pap-post-types.php:152
+msgid "Portfolio draft updated."
+msgstr ""
+
+#: includes/admin/class-wp-pap-admin.php:72
+msgid "Portfolio and Projects Pro - Settings"
+msgstr ""
+
+#: includes/admin/class-wp-pap-admin.php:143
+msgid "Number of Photos"
+msgstr ""
+
+#: includes/admin/class-wp-pap-admin.php:144
+msgid "Order"
+msgstr ""
+
+#: includes/admin/class-wp-pap-admin.php:207
+#: includes/admin/class-wp-pap-admin.php:243
+#: includes/admin/class-wp-pap-admin.php:366
+msgid "Sorry, Something happened wrong."
+msgstr ""
+
+#: includes/admin/class-wp-pap-admin.php:223
+msgid "Attachment Found."
+msgstr ""
+
+#: includes/admin/class-wp-pap-admin.php:281
+msgid "Category Shortcode"
+msgstr ""
+
+#: includes/admin/class-wp-pap-admin.php:317
+msgid "Sort Portfolio"
+msgstr ""
+
+#: includes/admin/class-wp-pap-admin.php:350
+msgid "Save Sort Order"
+msgstr ""
+
+#: includes/admin/class-wp-pap-admin.php:393
+msgid "Portfolio order saved successfully."
+msgstr ""
+
+#: includes/admin/class-wp-pap-admin.php:416
+msgid "All Categories"
+msgstr ""
+
+#: includes/admin/class-wp-pap-admin.php:442
+msgid "View Documentation"
+msgstr ""
+
+#: includes/admin/class-wp-pap-admin.php:442
+msgid "Docs"
+msgstr ""
+
+#: includes/admin/class-wp-pap-admin.php:443
+msgid "Visit Customer Support Forum"
+msgstr ""
+
+#: includes/admin/class-wp-pap-admin.php:443
+msgid "Support"
+msgstr ""
+
+#: includes/admin/pap-how-it-work.php:22
+msgid "How it works - Portfolio and Projects Pro"
+msgstr ""
+
+#: includes/admin/pap-how-it-work.php:22 includes/admin/pap-how-it-work.php:117
+msgid "How It Works"
+msgstr ""
+
+#: includes/admin/pap-how-it-work.php:102
+msgid ""
+"There was an error retrieving the data from the server. Please try again "
+"later."
+msgstr ""
+
+#: includes/admin/pap-how-it-work.php:120
+msgid "Our Plugins"
+msgstr ""
+
+#: includes/admin/pap-how-it-work.php:126
+msgid "WPOS Offers"
+msgstr ""
+
+#: includes/admin/pap-how-it-work.php:162
+msgid "How It Works - Display and Shortcode"
+msgstr ""
+
+#: includes/admin/pap-how-it-work.php:170
+msgid "Getting Started with Portfolio Pro"
+msgstr ""
+
+#: includes/admin/pap-how-it-work.php:174
+msgid "Step-1: This plugin creates Portfolio Pro tab in WordPress menu section"
+msgstr ""
+
+#: includes/admin/pap-how-it-work.php:175
+msgid ""
+"Step-2: Go to Projects Pro add new portfoilo add portfoliio images, project "
+"link, portfolio banner and choose your slider setting"
+msgstr ""
+
+#: includes/admin/pap-how-it-work.php:176
+msgid ""
+"Step-3: Now, paste below shortcode in any post or page and your profolio "
+"listing is ready !!!"
+msgstr ""
+
+#: includes/admin/pap-how-it-work.php:183
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/admin/pap-how-it-work.php:186
+msgid "Portfolio Slider inline"
+msgstr ""
+
+#: includes/admin/pap-how-it-work.php:187
+msgid "Portfolio Slider popup"
+msgstr ""
+
+#: includes/admin/pap-how-it-work.php:188
+msgid "Portfolio Grid View"
+msgstr ""
+
+#: includes/admin/pap-how-it-work.php:206
+msgid "Need Support?"
+msgstr ""
+
+#: includes/admin/pap-how-it-work.php:209
+msgid "Check plugin document for shortcode parameters and demo for designs."
+msgstr ""
+
+#: includes/admin/pap-how-it-work.php:210
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/pap-how-it-work.php:211
+msgid "Demo for Designs"
+msgstr ""
+
+#: includes/admin/pap-how-it-work.php:222
+msgid "Need PRO Support?"
+msgstr ""
+
+#: includes/admin/pap-how-it-work.php:225
+msgid "Hire our experts for WordPress website support."
+msgstr ""
+
+#: includes/admin/pap-how-it-work.php:226
+msgid "PRO Support"
+msgstr ""
+
+#: includes/admin/pap-how-it-work.php:237
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/pap-how-it-work.php:240
+msgid "Enjoyed this plugin? You can help by rate this plugin"
+msgstr ""
+
+#: includes/admin/pap-how-it-work.php:240
+msgid "5 stars!"
+msgstr ""
+
+#: includes/shortcode/wp-pap-portfolio-filter.php:57
+msgid "All"
+msgstr ""
+
+#: templates/popup/inline-portfolio.php:97
+#: templates/popup/popup-portfolio.php:98
+msgid "URL"
+msgstr ""
+
+#: templates/popup/inline-portfolio.php:99
+#: templates/popup/popup-portfolio.php:100
+msgid "View Project"
+msgstr ""
+
+#: templates/popup/popup-portfolio.php:44
+#: includes/admin/settings/wp-pap-img-popup.php:17
+#: includes/admin/settings/wp-pap-img-popup.php:17
+msgid "Close (Esc)"
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:44
+msgid "Portfolio Link"
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:48
+msgid "Enter portfolio link."
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:54
+msgid "Choose Portfolio Gallery Images"
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:57
+msgid "Add to Gallery"
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:57
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:57
+msgid "Gallery Images"
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:58
+msgid "Remove Gallery Images"
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:78
+msgid "No Gallery Images"
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:80
+msgid ""
+"Choose your desired images for gallery. Hold Ctrl key to select multiple "
+"images at a time."
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:86
+msgid "Portfolio Gallery Slider Settings"
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:92
+msgid "Slider Arrow"
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:96
+msgid "Check this box to enable gallery slider arrow."
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:102
+msgid "Slider Pagination Dots"
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:106
+msgid "Check this box to enable gallery slider pagination dots."
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:112
+msgid "Slider Autoplay"
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:116
+msgid "Check this box to enable slider autoplay."
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:122
+msgid "Slider Loop"
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:126
+msgid "Check this box to run slider continuously."
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:132
+msgid "Slide to Show"
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:136
+msgid "Enter number of slides to show at a time."
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:142
+msgid "Autoplay Interval"
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:145
+msgid "Milisecond"
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:146
+msgid "Enter slider autoplay interval."
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:152
+msgid "Speed"
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:156
+msgid "Enter slider speed."
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:162
+msgid "Effect"
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:166
+msgid "Slide"
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:167
+msgid "Fade"
+msgstr ""
+
+#: includes/admin/metabox/wp-pap-sett-metabox.php:169
+msgid ""
+"Select slider effect. Note: Slider `fade` effect only works when `Slide to "
+"Show` is set to 1."
+msgstr ""
+
+#: includes/admin/settings/wp-pap-img-popup-data.php:30
+msgid "Edit Image From Attachment Page"
+msgstr ""
+
+#: includes/admin/settings/wp-pap-img-popup-data.php:34
+msgid "Title"
+msgstr ""
+
+#: includes/admin/settings/wp-pap-img-popup-data.php:37
+msgid "Enter image title."
+msgstr ""
+
+#: includes/admin/settings/wp-pap-img-popup-data.php:42
+msgid "Alternative Text"
+msgstr ""
+
+#: includes/admin/settings/wp-pap-img-popup-data.php:45
+msgid "Enter image alternative text."
+msgstr ""
+
+#: includes/admin/settings/wp-pap-img-popup-data.php:54
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin/settings/wp-pap-img-popup-data.php:55
+msgid "Close"
+msgstr ""
+
+#: includes/admin/settings/wp-pap-img-popup.php:22
+msgid "Please Wait"
+msgstr ""
+
+#. Description of the plugin
+msgid "Display Portfolio OR Projects in a grid view."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wponlinesupport.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP Online Support"
+msgstr ""

@@ -1,0 +1,53 @@
+/***** MetaBox Tabs Starts *****/
+.wp-vgp-mb-tabs-wrp ul, .wp-vgp-mb-tabs-wrp li {
+    list-style: none !important;
+}
+.wp-vgp-mb-tabs-wrp ul.wp-vgp-mb-tabs {
+	margin: 12px 0 -1px 0;
+}
+.wp-vgp-mb-tabs-wrp ul.wp-vgp-mb-tabs li.wp-vgp-active, div.wp-vgp-tab-cnt {
+    border-color: #dfdfdf;
+}
+.wp-vgp-mb-tabs-wrp ul.wp-vgp-mb-tabs li {
+	margin: 0;
+	display: inline-block;
+	border-color: #ccc;
+	border-width: 1px;
+	border-style: solid solid none solid;
+	background-color: #dfdfdf;
+}
+.wp-vgp-mb-tabs-wrp .wp-vgp-tab-cnt {
+	background: #fff none repeat scroll 0 0;
+	border-style: solid;
+	border-width: 1px;
+	padding: 0.5em 0.9em;
+	display: none;
+}
+.wp-vgp-mb-tabs-wrp .wp-vgp-mb-tabs a,
+.wp-vgp-mb-tabs-wrp .wp-vgp-mb-tabs a:focus, .wp-vgp-mb-tabs-wrp .wp-vgp-mb-tabs a:active{
+    text-decoration: none;
+    outline: 0 !important;
+    box-shadow: none;
+    padding: 6px 12px;
+    display: inline-block;
+    color: #32373c;
+}
+.wp-vgp-mb-tabs-wrp ul.wp-vgp-mb-tabs .wp-vgp-active a {
+    color: #333;
+}
+.wp-vgp-mb-tabs-wrp ul.wp-vgp-mb-tabs li.wp-vgp-active {
+	border-style: solid solid none solid;
+	border-width: 1px 1px 0 1px;
+	background-color: #fff;
+}
+/***** MetaBox Tabs Ends *****/
+
+.wp-vgp-img-view{max-width: 150px;}
+.wp-vgp-img-view img{
+	padding: 5px;
+	margin: 5px 0;
+	max-width: 150px;
+	border: 1px solid #ccc;
+}
+.wp-list-table .row-actions .wp_vgp_id{color:#999;}
+.wp-vgp-video-notice{background-color: #f2dede; border: 1px solid #ebccd1; border-radius: 4px; color: #a94442; font-weight: 600; padding: 10px;}

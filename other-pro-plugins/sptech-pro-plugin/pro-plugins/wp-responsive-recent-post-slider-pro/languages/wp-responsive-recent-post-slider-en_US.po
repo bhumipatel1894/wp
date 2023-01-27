@@ -1,0 +1,1275 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Responsive Recent Post Slider Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-18 13:42+0000\n"
+"PO-Revision-Date: 2017-04-18 13:42+0000\n"
+"Last-Translator: admin <pratikjain@sptechnolab.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: en_US\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: edd-post-plugin.php:26 edd-post-plugin.php:26
+msgid "Post Slider Plugin License"
+msgstr ""
+
+#: edd-post-plugin.php:42
+msgid "Post Slider Plugin License Options"
+msgstr ""
+
+#: edd-post-plugin.php:49 includes/admin/settings/wprpsp-settings.php:21
+msgid "Your changes saved successfully."
+msgstr ""
+
+#: edd-post-plugin.php:59
+msgid "Plugin license activated successfully"
+msgstr ""
+
+#: edd-post-plugin.php:63
+msgid "Please activate plugin license to get automatic update of plugin."
+msgstr ""
+
+#: edd-post-plugin.php:71
+msgid "License Key"
+msgstr ""
+
+#: edd-post-plugin.php:75
+msgid "Enter your license key."
+msgstr ""
+
+#: edd-post-plugin.php:81
+msgid "Activate License"
+msgstr ""
+
+#: edd-post-plugin.php:188 edd-post-plugin.php:235 edd-post-plugin.php:295
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: edd-post-plugin.php:202
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: edd-post-plugin.php:209
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: edd-post-plugin.php:214
+msgid ""
+"Plugin license is invalid. Please be sure you have entered right plugin "
+"license key."
+msgstr ""
+
+#: edd-post-plugin.php:220
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: edd-post-plugin.php:225
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: edd-post-plugin.php:230
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: edd-post-plugin.php:330
+msgid "Enter valid license key for automatic updates."
+msgstr ""
+
+#: edd-post-plugin.php:345
+msgid "Activate Plugin License"
+msgstr ""
+
+#: edd-post-plugin.php:345
+msgid "License"
+msgstr ""
+
+#: wp-recent-post-slider.php:170
+#, php-format
+msgid "Thank you for activating %s"
+msgstr ""
+
+#: wp-recent-post-slider.php:171
+#, php-format
+msgid ""
+"It looks like you had FREE version %s of this plugin activated. To avoid "
+"conflicts the extra version has been deactivated and we recommend you delete "
+"it."
+msgstr ""
+
+#: includes/wprpsp-functions.php:291
+msgid "Design 1"
+msgstr ""
+
+#: includes/wprpsp-functions.php:292
+msgid "Design 2"
+msgstr ""
+
+#: includes/wprpsp-functions.php:293
+msgid "Design 3"
+msgstr ""
+
+#: includes/wprpsp-functions.php:294
+msgid "Design 4"
+msgstr ""
+
+#: includes/wprpsp-functions.php:295
+msgid "Design 5"
+msgstr ""
+
+#: includes/wprpsp-functions.php:296
+msgid "Design 6"
+msgstr ""
+
+#: includes/wprpsp-functions.php:297
+msgid "Design 17"
+msgstr ""
+
+#: includes/wprpsp-functions.php:298
+msgid "Design 18"
+msgstr ""
+
+#: includes/wprpsp-functions.php:299
+msgid "Design 19"
+msgstr ""
+
+#: includes/wprpsp-functions.php:300
+msgid "Design 20"
+msgstr ""
+
+#: includes/wprpsp-functions.php:301
+msgid "Design 21"
+msgstr ""
+
+#: includes/wprpsp-functions.php:302
+msgid "Design 23"
+msgstr ""
+
+#: includes/wprpsp-functions.php:303
+msgid "Design 24"
+msgstr ""
+
+#: includes/wprpsp-functions.php:304
+msgid "Design 27"
+msgstr ""
+
+#: includes/wprpsp-functions.php:305
+msgid "Design 28"
+msgstr ""
+
+#: includes/wprpsp-functions.php:306
+msgid "Design 29"
+msgstr ""
+
+#: includes/wprpsp-functions.php:307
+msgid "Design 30"
+msgstr ""
+
+#: includes/wprpsp-functions.php:320
+msgid "Design 7"
+msgstr ""
+
+#: includes/wprpsp-functions.php:321
+msgid "Design 8"
+msgstr ""
+
+#: includes/wprpsp-functions.php:322
+msgid "Design 9"
+msgstr ""
+
+#: includes/wprpsp-functions.php:323
+msgid "Design 10"
+msgstr ""
+
+#: includes/wprpsp-functions.php:324
+msgid "Design 11"
+msgstr ""
+
+#: includes/wprpsp-functions.php:325
+msgid "Design 12"
+msgstr ""
+
+#: includes/wprpsp-functions.php:326
+msgid "Design 13"
+msgstr ""
+
+#: includes/wprpsp-functions.php:327
+msgid "Design 14"
+msgstr ""
+
+#: includes/wprpsp-functions.php:328
+msgid "Design 15"
+msgstr ""
+
+#: includes/wprpsp-functions.php:329
+msgid "Design 16"
+msgstr ""
+
+#: includes/wprpsp-functions.php:330
+msgid "Design 22"
+msgstr ""
+
+#: includes/wprpsp-functions.php:331
+msgid "Design 25"
+msgstr ""
+
+#: includes/wprpsp-functions.php:332
+msgid "Design 26"
+msgstr ""
+
+#: templates/design-1.php:18 templates/design-10.php:24
+#: templates/design-11.php:23 templates/design-12.php:19
+#: templates/design-13.php:25 templates/design-14.php:29
+#: templates/design-15.php:24 templates/design-16.php:24
+#: templates/design-17.php:27 templates/design-18.php:17
+#: templates/design-19.php:16 templates/design-2.php:17
+#: templates/design-20.php:24 templates/design-21.php:10
+#: templates/design-22.php:17 templates/design-23.php:26
+#: templates/design-24.php:15 templates/design-25.php:29
+#: templates/design-26.php:19 templates/design-27.php:36
+#: templates/design-28.php:37 templates/design-29.php:47
+#: templates/design-3.php:24 templates/design-30.php:16
+#: templates/design-4.php:31 templates/design-5.php:17
+#: templates/design-6.php:28 templates/design-7.php:22
+#: templates/design-8.php:25 templates/design-9.php:23
+msgid "By"
+msgstr ""
+
+#: templates/design-1.php:42 templates/design-10.php:7
+#: templates/design-11.php:6 templates/design-12.php:6
+#: templates/design-13.php:6 templates/design-14.php:7
+#: templates/design-15.php:6 templates/design-16.php:6
+#: templates/design-17.php:8 templates/design-2.php:38
+#: templates/design-21.php:31 templates/design-22.php:27
+#: templates/design-23.php:7 templates/design-24.php:7
+#: templates/design-25.php:10 templates/design-26.php:10
+#: templates/design-27.php:18 templates/design-28.php:19
+#: templates/design-29.php:29 templates/design-3.php:5
+#: templates/design-30.php:37 templates/design-4.php:10
+#: templates/design-5.php:37 templates/design-6.php:7 templates/design-7.php:5
+#: templates/design-8.php:6 templates/design-9.php:6
+#: includes/widgets/class-wprpsp-post-list-slider.php:307
+#: includes/widgets/class-wprpsp-post-list-slider2.php:285
+#: includes/widgets/class-wprpsp-post-slider.php:315
+msgid "Post Image"
+msgstr ""
+
+#: includes/admin/class-wprpsp-admin.php:74
+msgid "WP Responsive Recent Post Slider Pro - Settings"
+msgstr ""
+
+#: includes/admin/class-wprpsp-admin.php:119
+#: includes/admin/class-wprpsp-admin.php:119
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-wprpsp-admin.php:164
+msgid "Category Shortcode"
+msgstr ""
+
+#: includes/admin/class-wprpsp-admin.php:195
+#: includes/widgets/class-wprpsp-post-slider.php:142
+msgid "Order"
+msgstr ""
+
+#: includes/admin/class-wprpsp-admin.php:235
+msgid "Sort Post"
+msgstr ""
+
+#: includes/admin/class-wprpsp-admin.php:254
+msgid "Save Sort Order"
+msgstr ""
+
+#: includes/admin/class-wprpsp-admin.php:270
+msgid "Sorry, Something happened wrong."
+msgstr ""
+
+#: includes/admin/class-wprpsp-admin.php:297
+msgid "Post order saved successfully."
+msgstr ""
+
+#: includes/admin/class-wprpsp-admin.php:316
+msgid "View Documentation"
+msgstr ""
+
+#: includes/admin/class-wprpsp-admin.php:316
+msgid "Docs"
+msgstr ""
+
+#: includes/admin/class-wprpsp-admin.php:317
+msgid "Visit Customer Support Forum"
+msgstr ""
+
+#: includes/admin/class-wprpsp-admin.php:317
+msgid "Support"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:33
+msgid "Recent Post Slider"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:37 includes/admin/class-wprpsp-vc.php:383
+msgid "Content"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:38
+msgid "Display Post in a slider view."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:44 includes/admin/class-wprpsp-vc.php:390
+msgid "Design"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:47
+msgid "Slider Design 1"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:48
+msgid "Slider Design 2"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:49
+msgid "Slider Design 3"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:50
+msgid "Slider Design 4"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:51
+msgid "Slider Design 5"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:52
+msgid "Slider Design 6"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:53
+msgid "Slider Design 17"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:54
+msgid "Slider Design 18"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:55
+msgid "Slider Design 19"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:56
+msgid "Slider Design 20"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:57
+msgid "Slider Design 21"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:58
+msgid "Slider Design 23"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:59
+msgid "Slider Design 24"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:60
+msgid "Slider Design 27"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:61
+msgid "Slider Design 28"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:62
+msgid "Slider Design 29"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:63
+msgid "Slider Design 30"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:65 includes/admin/class-wprpsp-vc.php:407
+msgid "Choose slider design."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:71 includes/admin/class-wprpsp-vc.php:413
+msgid "Show Date"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:74 includes/admin/class-wprpsp-vc.php:85
+#: includes/admin/class-wprpsp-vc.php:96 includes/admin/class-wprpsp-vc.php:107
+#: includes/admin/class-wprpsp-vc.php:130
+#: includes/admin/class-wprpsp-vc.php:184
+#: includes/admin/class-wprpsp-vc.php:254
+#: includes/admin/class-wprpsp-vc.php:285
+#: includes/admin/class-wprpsp-vc.php:298
+#: includes/admin/class-wprpsp-vc.php:310
+#: includes/admin/class-wprpsp-vc.php:322
+#: includes/admin/class-wprpsp-vc.php:352
+#: includes/admin/class-wprpsp-vc.php:416
+#: includes/admin/class-wprpsp-vc.php:427
+#: includes/admin/class-wprpsp-vc.php:438
+#: includes/admin/class-wprpsp-vc.php:449
+#: includes/admin/class-wprpsp-vc.php:472
+#: includes/admin/class-wprpsp-vc.php:526
+#: includes/admin/class-wprpsp-vc.php:596
+#: includes/admin/class-wprpsp-vc.php:627
+#: includes/admin/class-wprpsp-vc.php:658
+#: includes/admin/class-wprpsp-vc.php:670
+#: includes/admin/class-wprpsp-vc.php:682
+#: includes/admin/class-wprpsp-vc.php:712
+#: includes/widgets/class-wprpsp-post-list-slider.php:190
+#: includes/widgets/class-wprpsp-post-list-slider.php:199
+#: includes/widgets/class-wprpsp-post-list-slider2.php:172
+#: includes/widgets/class-wprpsp-post-list-slider2.php:181
+#: includes/widgets/class-wprpsp-post-slider.php:199
+#: includes/widgets/class-wprpsp-post-slider.php:208
+msgid "True"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:75 includes/admin/class-wprpsp-vc.php:86
+#: includes/admin/class-wprpsp-vc.php:97 includes/admin/class-wprpsp-vc.php:108
+#: includes/admin/class-wprpsp-vc.php:131
+#: includes/admin/class-wprpsp-vc.php:185
+#: includes/admin/class-wprpsp-vc.php:255
+#: includes/admin/class-wprpsp-vc.php:284
+#: includes/admin/class-wprpsp-vc.php:299
+#: includes/admin/class-wprpsp-vc.php:311
+#: includes/admin/class-wprpsp-vc.php:323
+#: includes/admin/class-wprpsp-vc.php:353
+#: includes/admin/class-wprpsp-vc.php:417
+#: includes/admin/class-wprpsp-vc.php:428
+#: includes/admin/class-wprpsp-vc.php:439
+#: includes/admin/class-wprpsp-vc.php:450
+#: includes/admin/class-wprpsp-vc.php:473
+#: includes/admin/class-wprpsp-vc.php:527
+#: includes/admin/class-wprpsp-vc.php:597
+#: includes/admin/class-wprpsp-vc.php:626
+#: includes/admin/class-wprpsp-vc.php:659
+#: includes/admin/class-wprpsp-vc.php:671
+#: includes/admin/class-wprpsp-vc.php:683
+#: includes/admin/class-wprpsp-vc.php:713
+#: includes/widgets/class-wprpsp-post-list-slider.php:191
+#: includes/widgets/class-wprpsp-post-list-slider.php:200
+#: includes/widgets/class-wprpsp-post-list-slider2.php:173
+#: includes/widgets/class-wprpsp-post-list-slider2.php:182
+#: includes/widgets/class-wprpsp-post-slider.php:200
+#: includes/widgets/class-wprpsp-post-slider.php:209
+msgid "False"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:77 includes/admin/class-wprpsp-vc.php:419
+msgid "Display date."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:82 includes/admin/class-wprpsp-vc.php:424
+msgid "Show Category"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:88 includes/admin/class-wprpsp-vc.php:430
+msgid "Display post category."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:93 includes/admin/class-wprpsp-vc.php:435
+msgid "Show Author"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:99 includes/admin/class-wprpsp-vc.php:441
+msgid "Display post author."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:104
+#: includes/admin/class-wprpsp-vc.php:446
+msgid "Display Post Content"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:110
+#: includes/admin/class-wprpsp-vc.php:452
+msgid ""
+"Display post content. Note : Some of the designs does not have post content."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:115
+#: includes/admin/class-wprpsp-vc.php:457
+#: includes/widgets/class-wprpsp-post-list-slider.php:137
+#: includes/widgets/class-wprpsp-post-list-slider2.php:133
+msgid "Content Words Limit"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:118
+#: includes/admin/class-wprpsp-vc.php:460
+msgid "Control post content words limit."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:127
+#: includes/admin/class-wprpsp-vc.php:469
+msgid "Display Read More Button"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:133
+#: includes/admin/class-wprpsp-vc.php:475
+msgid "Display read more button."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:138
+#: includes/admin/class-wprpsp-vc.php:480
+msgid "Read More Button Text"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:141
+#: includes/admin/class-wprpsp-vc.php:483
+msgid "Enter read more button text."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:150
+#: includes/admin/class-wprpsp-vc.php:492
+#: includes/widgets/class-wprpsp-post-list-slider.php:144
+#: includes/widgets/class-wprpsp-post-list-slider2.php:140
+msgid "Content Tail"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:153
+#: includes/admin/class-wprpsp-vc.php:495
+msgid "Display dots after the post content."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:162
+#: includes/admin/class-wprpsp-vc.php:504
+msgid "Link Behaviour"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:165
+#: includes/admin/class-wprpsp-vc.php:507
+msgid "Same Window"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:166
+#: includes/admin/class-wprpsp-vc.php:508
+msgid "New Window"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:168
+#: includes/admin/class-wprpsp-vc.php:510
+msgid "Choose link bahaviour."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:173
+#: includes/admin/class-wprpsp-vc.php:515
+#: includes/widgets/class-wprpsp-post-list-slider.php:165
+#: includes/widgets/class-wprpsp-post-slider.php:165
+msgid "Image Size"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:176
+#: includes/admin/class-wprpsp-vc.php:518
+msgid ""
+"Enter image size which is generated by WordPress. e.g thumbnail, medium, "
+"large, full"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:181
+#: includes/admin/class-wprpsp-vc.php:523
+#: includes/widgets/class-wprpsp-post-list-slider.php:173
+#: includes/widgets/class-wprpsp-post-slider.php:191
+msgid "Image Fit"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:187
+#: includes/admin/class-wprpsp-vc.php:529
+msgid ""
+"Fill the image in a whole container without leaving white or gray space."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:194
+#: includes/admin/class-wprpsp-vc.php:536
+msgid "Total items"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:197
+#: includes/admin/class-wprpsp-vc.php:539
+msgid "Enter number of post to be displayed. Enter -1 to display all."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:198
+#: includes/admin/class-wprpsp-vc.php:216
+#: includes/admin/class-wprpsp-vc.php:228
+#: includes/admin/class-wprpsp-vc.php:237
+#: includes/admin/class-wprpsp-vc.php:246
+#: includes/admin/class-wprpsp-vc.php:258
+#: includes/admin/class-wprpsp-vc.php:267
+#: includes/admin/class-wprpsp-vc.php:276
+#: includes/admin/class-wprpsp-vc.php:288
+#: includes/admin/class-wprpsp-vc.php:540
+#: includes/admin/class-wprpsp-vc.php:558
+#: includes/admin/class-wprpsp-vc.php:570
+#: includes/admin/class-wprpsp-vc.php:579
+#: includes/admin/class-wprpsp-vc.php:588
+#: includes/admin/class-wprpsp-vc.php:600
+#: includes/admin/class-wprpsp-vc.php:609
+#: includes/admin/class-wprpsp-vc.php:618
+#: includes/admin/class-wprpsp-vc.php:630
+msgid "Data Settings"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:203
+#: includes/admin/class-wprpsp-vc.php:545
+#: includes/widgets/class-wprpsp-post-slider.php:127
+msgid "Order By"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:206
+#: includes/admin/class-wprpsp-vc.php:548
+#: includes/widgets/class-wprpsp-post-slider.php:129
+msgid "Post Date"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:207
+#: includes/admin/class-wprpsp-vc.php:549
+msgid "Post ID"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:208
+#: includes/admin/class-wprpsp-vc.php:550
+msgid "Post Author"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:209
+#: includes/admin/class-wprpsp-vc.php:551
+#: includes/widgets/class-wprpsp-post-slider.php:132
+msgid "Post Title"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:210
+#: includes/admin/class-wprpsp-vc.php:552
+msgid "Post Slug"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:211
+#: includes/admin/class-wprpsp-vc.php:553
+msgid "Post Modified Date"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:212
+#: includes/admin/class-wprpsp-vc.php:554
+#: includes/widgets/class-wprpsp-post-slider.php:135
+msgid "Random"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:213
+#: includes/admin/class-wprpsp-vc.php:555
+msgid "Menu Order"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:215
+#: includes/admin/class-wprpsp-vc.php:557
+msgid "Select order type."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:221
+#: includes/admin/class-wprpsp-vc.php:563
+msgid "Sort order"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:224
+#: includes/admin/class-wprpsp-vc.php:566
+#: includes/widgets/class-wprpsp-post-slider.php:145
+msgid "Descending"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:225
+#: includes/admin/class-wprpsp-vc.php:567
+#: includes/widgets/class-wprpsp-post-slider.php:144
+msgid "Ascending"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:227
+#: includes/admin/class-wprpsp-vc.php:569
+msgid "Select sorting order."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:233
+#: includes/admin/class-wprpsp-vc.php:575
+#: includes/widgets/class-wprpsp-post-list-slider.php:151
+#: includes/widgets/class-wprpsp-post-list-slider2.php:147
+#: includes/widgets/class-wprpsp-post-slider.php:113
+msgid "Category"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:236
+#: includes/admin/class-wprpsp-vc.php:578
+msgid "Enter post category id to display post categories wise."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:242
+#: includes/admin/class-wprpsp-vc.php:584
+msgid "Exclude Category"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:245
+#: includes/admin/class-wprpsp-vc.php:587
+msgid "Exclude post category. Works only if `Category` field is empty."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:251
+#: includes/admin/class-wprpsp-vc.php:593
+msgid "Include Category Children"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:257
+#: includes/admin/class-wprpsp-vc.php:599
+msgid "Include category children or not."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:263
+#: includes/admin/class-wprpsp-vc.php:605
+msgid "Display Specific Post"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:266
+#: includes/admin/class-wprpsp-vc.php:608
+msgid "Display specific posts."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:272
+#: includes/admin/class-wprpsp-vc.php:614
+msgid "Exclude Post"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:275
+#: includes/admin/class-wprpsp-vc.php:617
+msgid "Enter post id which you do not want to display."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:281
+#: includes/admin/class-wprpsp-vc.php:623
+#: includes/widgets/class-wprpsp-post-list-slider.php:132
+#: includes/widgets/class-wprpsp-post-list-slider2.php:128
+#: includes/widgets/class-wprpsp-post-slider.php:185
+msgid "Display Sticky Posts"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:287
+#: includes/admin/class-wprpsp-vc.php:629
+msgid "Display sticky posts or not."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:295
+#: includes/admin/class-wprpsp-vc.php:655
+#: includes/widgets/class-wprpsp-post-list-slider.php:188
+#: includes/widgets/class-wprpsp-post-list-slider2.php:170
+msgid "Dots"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:301
+#: includes/admin/class-wprpsp-vc.php:661
+msgid "Show dots indicators."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:302
+#: includes/admin/class-wprpsp-vc.php:314
+#: includes/admin/class-wprpsp-vc.php:326
+#: includes/admin/class-wprpsp-vc.php:335
+#: includes/admin/class-wprpsp-vc.php:344
+#: includes/admin/class-wprpsp-vc.php:356
+#: includes/admin/class-wprpsp-vc.php:365
+#: includes/admin/class-wprpsp-vc.php:641
+#: includes/admin/class-wprpsp-vc.php:650
+#: includes/admin/class-wprpsp-vc.php:662
+#: includes/admin/class-wprpsp-vc.php:674
+#: includes/admin/class-wprpsp-vc.php:686
+#: includes/admin/class-wprpsp-vc.php:695
+#: includes/admin/class-wprpsp-vc.php:704
+#: includes/admin/class-wprpsp-vc.php:716
+msgid "Slider Settings"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:307
+#: includes/admin/class-wprpsp-vc.php:667
+#: includes/widgets/class-wprpsp-post-slider.php:197
+msgid "Arrows"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:313
+#: includes/admin/class-wprpsp-vc.php:673
+msgid "Show Prev - Next arrows."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:319
+#: includes/admin/class-wprpsp-vc.php:679
+msgid "Autoplay"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:325
+#: includes/admin/class-wprpsp-vc.php:685
+msgid "Enable autoplay."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:331
+#: includes/admin/class-wprpsp-vc.php:691
+#: includes/widgets/class-wprpsp-post-list-slider.php:206
+#: includes/widgets/class-wprpsp-post-list-slider2.php:188
+#: includes/widgets/class-wprpsp-post-slider.php:215
+msgid "Autoplay Interval"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:334
+#: includes/admin/class-wprpsp-vc.php:694
+msgid "Enter autoplay speed."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:340
+#: includes/admin/class-wprpsp-vc.php:700
+#: includes/widgets/class-wprpsp-post-list-slider.php:212
+#: includes/widgets/class-wprpsp-post-list-slider2.php:194
+#: includes/widgets/class-wprpsp-post-slider.php:221
+msgid "Speed"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:343
+#: includes/admin/class-wprpsp-vc.php:703
+msgid "Enter slide speed."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:349
+#: includes/admin/class-wprpsp-vc.php:709
+msgid "Infinite"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:355
+#: includes/admin/class-wprpsp-vc.php:715
+msgid "Enable infinite loop sliding."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:361
+msgid "Slider Height"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:364
+msgid "Enter slider height. Leave empty for default. e.g 500"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:379
+msgid "Recent Post Carousel"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:384
+msgid "Display Post in a carousel view."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:393
+msgid "Carousel Design 7"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:394
+msgid "Carousel Design 8"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:395
+msgid "Carousel Design 9"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:396
+msgid "Carousel Design 10"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:397
+msgid "Carousel Design 11"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:398
+msgid "Carousel Design 12"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:399
+msgid "Carousel Design 13"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:400
+msgid "Carousel Design 14"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:401
+msgid "Carousel Design 15"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:402
+msgid "Carousel Design 16"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:403
+msgid "Carousel Design 22"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:404
+msgid "Carousel Design 25"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:405
+msgid "Carousel Design 26"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:637
+#: includes/admin/class-wprpsp-vc.php:646
+msgid "Slides Column"
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:640
+msgid "Enter number of column for carousel."
+msgstr ""
+
+#: includes/admin/class-wprpsp-vc.php:649
+msgid "Enter number of slide to scroll at a time."
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:22
+msgid "How it works - WP Responsive Recent Post Slider Pro"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:22
+msgid "Post Slider - How It Works"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:103
+msgid ""
+"There was an error retrieving the data from the server. Please try again "
+"later."
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:118
+msgid "How It Works"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:121
+msgid "Our Plugins"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:127
+msgid "WPOS Offers"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:163
+msgid "How It Works - Display and shortcode"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:171
+msgid "Getting Started with Post Slider"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:175
+msgid ""
+"Step-1. This plugin create a tab under \"POST--> Post Slider - How it work\"."
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:176
+msgid ""
+"Step-2. This plugin get all the latest POST from WordPress post section with "
+"a simple shortcode"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:177
+msgid ""
+"Step-3. If you need a <b>Featured Post</b> OR <b>Trending/Popular Post</b> "
+"plugin then try our plugins"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:185
+msgid "How Shortcode Works"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:189
+msgid "Step-1. Create a page like Latet Post OR add the shortcode in a page."
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:190
+msgid "Step-2. Put below shortcode as per your need."
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:197
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:200
+msgid "Post slider Shortcode."
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:201
+msgid "Post carousel Shortcode."
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:219
+msgid "Need Support?"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:222
+msgid "Check plugin document for shortcode parameters and demo for designs."
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:223
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:224
+msgid "View PRO Designs "
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:234
+msgid "Need PRO Support?"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:237
+msgid "Hire our experts for WordPress website support."
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:238
+msgid "PRO Support"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:249
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:252
+msgid "Enjoyed this plugin? You can help by rate this plugin"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:252
+msgid "5 stars!"
+msgstr ""
+
+#: includes/shortcode/wprpsp-post-carousel.php:74
+#: includes/shortcode/wprpsp-recent-post-slider.php:70
+msgid "Read More"
+msgstr ""
+
+#: includes/shortcode/wprpsp-recent-post-slider.php:196
+msgid "Post Nav Image"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:28
+msgid "Displayed Latest Post Items in list view OR Slider View"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:29
+#: includes/widgets/class-wprpsp-post-list-slider.php:229
+#: includes/widgets/class-wprpsp-post-list-slider2.php:211
+msgid "Latest Post List/Slider 1"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:101
+#: includes/widgets/class-wprpsp-post-list-slider2.php:97
+#: includes/widgets/class-wprpsp-post-slider.php:101
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:107
+#: includes/widgets/class-wprpsp-post-list-slider2.php:103
+#: includes/widgets/class-wprpsp-post-slider.php:107
+msgid "Number of Items"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:114
+#: includes/widgets/class-wprpsp-post-list-slider2.php:110
+#: includes/widgets/class-wprpsp-post-slider.php:173
+msgid "Display Date"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:120
+#: includes/widgets/class-wprpsp-post-list-slider2.php:116
+#: includes/widgets/class-wprpsp-post-slider.php:179
+msgid "Display Category"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:126
+#: includes/widgets/class-wprpsp-post-list-slider2.php:122
+msgid "Display Content"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:139
+msgid "Enter number of content words to be displayed."
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:146
+msgid "Enter content tail."
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:167
+#: includes/widgets/class-wprpsp-post-slider.php:167
+msgid ""
+"Enter WordPress registered image size e.g. thumbnail, medium, large or full."
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:174
+#: includes/widgets/class-wprpsp-post-slider.php:192
+msgid "Check this box to fill image in a whole div."
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:178
+#: includes/widgets/class-wprpsp-post-list-slider2.php:160
+msgid "Post Slider Setting"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:182
+#: includes/widgets/class-wprpsp-post-list-slider2.php:164
+msgid "Activate Slider"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:183
+#: includes/widgets/class-wprpsp-post-list-slider2.php:165
+msgid "Check this box to display post in slider View."
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:197
+#: includes/widgets/class-wprpsp-post-list-slider2.php:179
+#: includes/widgets/class-wprpsp-post-slider.php:206
+msgid "Auto Play"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider2.php:28
+msgid "Displayed Latest Post Items in a List view OR Slider view"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider2.php:29
+msgid "Latest Post List/Slider 2"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:28
+msgid "Displayed Latest Post Items with slider"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:29
+#: includes/widgets/class-wprpsp-post-slider.php:238
+msgid "Latest Post Slider Widget"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:130
+msgid "Post Updated Date"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:131
+msgid "Post Id"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:133
+msgid "Post URL Slug"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:134
+msgid "Post Comment Count"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:136
+msgid "Menu Order (Sort Order)"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:151
+msgid "Display Specific Posts"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:153
+msgid ""
+"Enter Post id which you want to display. You can enter multiple ids with "
+"comma seperated."
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:158
+msgid "Exclude Posts"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:160
+msgid ""
+"Enter Post id which you do not want to display. You can enter multiple ids "
+"with comma seperated."
+msgstr ""
+
+#: includes/admin/metabox/wprpsp-post-sett-metabox.php:25
+msgid "Read More Link"
+msgstr ""
+
+#: includes/admin/metabox/wprpsp-post-sett-metabox.php:29
+msgid ""
+"If you have different URL then enter read more link for post or Leave empty "
+"for current post URL."
+msgstr ""
+
+#: includes/admin/settings/wprpsp-settings.php:15
+msgid "WP Responsive Recent Post Slider Pro Settings"
+msgstr ""
+
+#: includes/admin/settings/wprpsp-settings.php:43
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin/settings/wprpsp-settings.php:52
+msgid "Default Featured Image"
+msgstr ""
+
+#: includes/admin/settings/wprpsp-settings.php:56
+msgid "Upload Image"
+msgstr ""
+
+#: includes/admin/settings/wprpsp-settings.php:56
+msgid "Choose Logo"
+msgstr ""
+
+#: includes/admin/settings/wprpsp-settings.php:56
+msgid "Insert Logo"
+msgstr ""
+
+#: includes/admin/settings/wprpsp-settings.php:56
+msgid "Clear"
+msgstr ""
+
+#: includes/admin/settings/wprpsp-settings.php:57
+msgid ""
+"Upload default featured image or provide an external URL of image. If your "
+"post does not have featured image then this will be displayed instead of "
+"blank grey box."
+msgstr ""
+
+#: includes/admin/settings/wprpsp-settings.php:69
+#: includes/admin/settings/wprpsp-settings.php:110
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin/settings/wprpsp-settings.php:92
+msgid "Custom CSS Settings"
+msgstr ""
+
+#: includes/admin/settings/wprpsp-settings.php:101
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/admin/settings/wprpsp-settings.php:105
+msgid "Enter custom CSS to override plugin CSS."
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Responsive Recent Post Slider Pro"
+msgstr ""
+
+#. Description of the plugin
+msgid "Easy to add and display Recent Post Slider with multiple pro designs."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wponlinesupport.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP Online Support"
+msgstr ""

@@ -1,0 +1,1283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Featured Content and Slider Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-11 12:29+0000\n"
+"PO-Revision-Date: 2016-11-11 12:29+0000\n"
+"Last-Translator: admin <pratikjain@sptechnolab.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: en_US\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: wp-featured-content-and-slider.php:146
+msgid "Thank you for activating  WP Featured Content and Slider Pro"
+msgstr ""
+
+#: wp-featured-content-and-slider.php:147
+#, php-format
+msgid ""
+"It looks like you had FREE version %s of this plugin activated. To avoid "
+"conflicts the extra version has been deactivated and we recommend you delete "
+"it."
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:229
+msgid "Design 1"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:230
+msgid "Design 2"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:231
+msgid "Design 3"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:232
+msgid "Design 4"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:233
+msgid "Design 5"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:234
+msgid "Design 6"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:235
+msgid "Design 7"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:236
+msgid "Design 22"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:237
+msgid "Design 23"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:238
+msgid "Design 26"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:239
+msgid "Design 27"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:240
+msgid "Design 28"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:241
+msgid "Design 29"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:242
+msgid "Design 30"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:243
+msgid "Design 32"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:244
+msgid "Design 33"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:245
+msgid "Design 35"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:258
+msgid "Design 8"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:259
+msgid "Design 9"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:260
+msgid "Design 20"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:261
+msgid "Design 21"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:262
+msgid "Design 24"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:263
+msgid "Design 25"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:264
+msgid "Design 31"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:265
+msgid "Design 34"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:282 includes/wp-fcasp-functions.php:295
+msgid "Design 10"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:283 includes/wp-fcasp-functions.php:296
+msgid "Design 11"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:284 includes/wp-fcasp-functions.php:297
+msgid "Design 12"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:285
+msgid "Design 13"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:286 includes/wp-fcasp-functions.php:298
+msgid "Design 14"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:287
+msgid "Design 15"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:288 includes/wp-fcasp-functions.php:299
+msgid "Design 16"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:289 includes/wp-fcasp-functions.php:300
+msgid "Design 17"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:290 includes/wp-fcasp-functions.php:301
+msgid "Design 18"
+msgstr ""
+
+#: includes/wp-fcasp-functions.php:291 includes/wp-fcasp-functions.php:302
+msgid "Design 19"
+msgstr ""
+
+#: includes/wp-fcasp-post-types.php:21 includes/wp-fcasp-post-types.php:22
+msgid "Featured Content"
+msgstr ""
+
+#: includes/wp-fcasp-post-types.php:23 includes/wp-fcasp-post-types.php:24
+msgid "Add Featured Content"
+msgstr ""
+
+#: includes/wp-fcasp-post-types.php:25
+msgid "Edit Featured Content"
+msgstr ""
+
+#: includes/wp-fcasp-post-types.php:26
+msgid "New Featured Content"
+msgstr ""
+
+#: includes/wp-fcasp-post-types.php:27
+msgid "All Featured Content"
+msgstr ""
+
+#: includes/wp-fcasp-post-types.php:28
+msgid "View Featured Content"
+msgstr ""
+
+#: includes/wp-fcasp-post-types.php:29
+msgid "Search Featured Content"
+msgstr ""
+
+#: includes/wp-fcasp-post-types.php:30
+msgid "No Featured Content found"
+msgstr ""
+
+#: includes/wp-fcasp-post-types.php:31
+msgid "No Featured Content found in trash"
+msgstr ""
+
+#: includes/wp-fcasp-post-types.php:33
+msgid "Featured Content Pro"
+msgstr ""
+
+#: includes/wp-fcasp-post-types.php:64 includes/wp-fcasp-post-types.php:65
+#: includes/wp-fcasp-post-types.php:74 includes/admin/class-wp-fcasp-vc.php:215
+#: includes/admin/class-wp-fcasp-vc.php:576
+#: includes/admin/class-wp-fcasp-vc.php:928
+msgid "Category"
+msgstr ""
+
+#: includes/wp-fcasp-post-types.php:66
+msgid "Search Category"
+msgstr ""
+
+#: includes/wp-fcasp-post-types.php:67
+msgid "All Category"
+msgstr ""
+
+#: includes/wp-fcasp-post-types.php:68
+msgid "Parent Category"
+msgstr ""
+
+#: includes/wp-fcasp-post-types.php:69
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/wp-fcasp-post-types.php:70
+msgid "Edit Category"
+msgstr ""
+
+#: includes/wp-fcasp-post-types.php:71
+msgid "Update Category"
+msgstr ""
+
+#: includes/wp-fcasp-post-types.php:72
+msgid "Add New Category"
+msgstr ""
+
+#: includes/wp-fcasp-post-types.php:73
+msgid "New Category Name"
+msgstr ""
+
+#: includes/wp-fcasp-post-types.php:106 includes/wp-fcasp-post-types.php:109
+msgid "Featured Content updated."
+msgstr ""
+
+#: includes/wp-fcasp-post-types.php:107
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/wp-fcasp-post-types.php:108
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/wp-fcasp-post-types.php:110
+#, php-format
+msgid "Featured Content restored to revision from %s"
+msgstr ""
+
+#: includes/wp-fcasp-post-types.php:111
+msgid "Featured Content published."
+msgstr ""
+
+#: includes/wp-fcasp-post-types.php:112
+msgid "Featured Content saved."
+msgstr ""
+
+#: includes/wp-fcasp-post-types.php:113
+msgid "Featured Content submitted."
+msgstr ""
+
+#: includes/wp-fcasp-post-types.php:114
+#, php-format
+msgid "Featured Content scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/wp-fcasp-post-types.php:116
+msgid "Featured Content draft updated."
+msgstr ""
+
+#: templates/design-10.php:7 templates/design-10.php:12
+#: templates/design-11.php:5 templates/design-12.php:6
+#: templates/design-12.php:8 templates/design-13.php:8
+#: templates/design-14.php:8 templates/design-15.php:8
+#: templates/design-16.php:8 templates/design-17.php:8
+#: templates/design-18.php:9 templates/design-19.php:8
+#: templates/design-30.php:7 templates/design-32.php:7
+#: templates/design-33.php:7 templates/design-9.php:7
+msgid "Post Image"
+msgstr ""
+
+#: templates/design-20.php:6 templates/design-21.php:7
+#: templates/design-24.php:25 templates/design-25.php:6
+#: templates/design-27.php:8 templates/design-31.php:5
+#: templates/design-34.php:21 templates/design-8.php:6
+msgid "Featured Image"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-admin.php:67
+msgid "Featured Content Settings"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-admin.php:141
+#: includes/admin/class-wp-fcasp-admin.php:141
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-admin.php:162
+msgid "Category Shortcode"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-admin.php:200
+msgid "Sort Featured Content"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-admin.php:213
+msgid "Order"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-admin.php:254
+msgid "All Categories"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-admin.php:283
+msgid "Save Sort Order"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-admin.php:299
+msgid "Sorry, Something happened wrong."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-admin.php:326
+msgid "Featured Content order saved successfully."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-admin.php:345
+msgid "View Documentation"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-admin.php:345
+msgid "Docs"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-admin.php:346
+msgid "Visit Customer Support Forum"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-admin.php:346
+msgid "Support"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-admin.php:363
+msgid "Activate Plugin License"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-admin.php:363
+msgid "License"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:36
+msgid "WPOS - FC With Image"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:40
+#: includes/admin/class-wp-fcasp-vc.php:394
+#: includes/admin/class-wp-fcasp-vc.php:755
+msgid "Content"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:41
+msgid "Display featured content with image."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:47
+#: includes/admin/class-wp-fcasp-vc.php:401
+#: includes/admin/class-wp-fcasp-vc.php:762
+msgid "Display Type"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:50
+#: includes/admin/class-wp-fcasp-vc.php:404
+#: includes/admin/class-wp-fcasp-vc.php:765
+msgid "Grid"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:51
+#: includes/admin/class-wp-fcasp-vc.php:405
+#: includes/admin/class-wp-fcasp-vc.php:766
+msgid "Slider"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:53
+#: includes/admin/class-wp-fcasp-vc.php:407
+#: includes/admin/class-wp-fcasp-vc.php:434
+#: includes/admin/class-wp-fcasp-vc.php:768
+#: includes/admin/class-wp-fcasp-vc.php:786
+msgid "Display featured content in a grid or slider."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:59
+#: includes/admin/class-wp-fcasp-vc.php:413
+#: includes/admin/class-wp-fcasp-vc.php:774
+msgid "Design"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:62
+msgid "FC Image Design 1"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:63
+msgid "FC Image Design 2"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:64
+msgid "FC Image Design 3"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:65
+msgid "FC Image Design 4"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:66
+msgid "FC Image Design 5"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:67
+msgid "FC Image Design 6"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:68
+msgid "FC Image Design 7"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:69
+msgid "FC Image Design 8"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:70
+msgid "FC Image Design 9"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:71
+msgid "FC Image Design 10"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:73
+msgid ""
+"Display featured content in a grid or slider. Note: Design 4 and Design 6 "
+"will not work with slider."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:79
+#: includes/admin/class-wp-fcasp-vc.php:440
+#: includes/admin/class-wp-fcasp-vc.php:792
+msgid "Grid Elements Per Row"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:82
+#: includes/admin/class-wp-fcasp-vc.php:443
+#: includes/admin/class-wp-fcasp-vc.php:795
+msgid "One Column"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:83
+#: includes/admin/class-wp-fcasp-vc.php:444
+#: includes/admin/class-wp-fcasp-vc.php:796
+msgid "Two Column"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:84
+#: includes/admin/class-wp-fcasp-vc.php:445
+#: includes/admin/class-wp-fcasp-vc.php:797
+msgid "Third Column"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:85
+#: includes/admin/class-wp-fcasp-vc.php:446
+#: includes/admin/class-wp-fcasp-vc.php:798
+msgid "Four Column"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:92
+#: includes/admin/class-wp-fcasp-vc.php:453
+#: includes/admin/class-wp-fcasp-vc.php:805
+msgid "Select number of grid elements per row."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:97
+#: includes/admin/class-wp-fcasp-vc.php:458
+#: includes/admin/class-wp-fcasp-vc.php:810
+msgid "Icon Color"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:100
+#: includes/admin/class-wp-fcasp-vc.php:461
+#: includes/admin/class-wp-fcasp-vc.php:813
+msgid "Choose font icon color."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:105
+#: includes/admin/class-wp-fcasp-vc.php:466
+#: includes/admin/class-wp-fcasp-vc.php:818
+msgid "Display Read More Button"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:108
+#: includes/admin/class-wp-fcasp-vc.php:131
+#: includes/admin/class-wp-fcasp-vc.php:282
+#: includes/admin/class-wp-fcasp-vc.php:298
+#: includes/admin/class-wp-fcasp-vc.php:313
+#: includes/admin/class-wp-fcasp-vc.php:352
+#: includes/admin/class-wp-fcasp-vc.php:367
+#: includes/admin/class-wp-fcasp-vc.php:469
+#: includes/admin/class-wp-fcasp-vc.php:492
+#: includes/admin/class-wp-fcasp-vc.php:643
+#: includes/admin/class-wp-fcasp-vc.php:659
+#: includes/admin/class-wp-fcasp-vc.php:674
+#: includes/admin/class-wp-fcasp-vc.php:713
+#: includes/admin/class-wp-fcasp-vc.php:728
+#: includes/admin/class-wp-fcasp-vc.php:821
+#: includes/admin/class-wp-fcasp-vc.php:844
+#: includes/admin/class-wp-fcasp-vc.php:995
+#: includes/admin/class-wp-fcasp-vc.php:1011
+#: includes/admin/class-wp-fcasp-vc.php:1026
+#: includes/admin/class-wp-fcasp-vc.php:1065
+#: includes/admin/class-wp-fcasp-vc.php:1080
+msgid "True"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:109
+#: includes/admin/class-wp-fcasp-vc.php:132
+#: includes/admin/class-wp-fcasp-vc.php:283
+#: includes/admin/class-wp-fcasp-vc.php:299
+#: includes/admin/class-wp-fcasp-vc.php:314
+#: includes/admin/class-wp-fcasp-vc.php:353
+#: includes/admin/class-wp-fcasp-vc.php:368
+#: includes/admin/class-wp-fcasp-vc.php:470
+#: includes/admin/class-wp-fcasp-vc.php:493
+#: includes/admin/class-wp-fcasp-vc.php:644
+#: includes/admin/class-wp-fcasp-vc.php:660
+#: includes/admin/class-wp-fcasp-vc.php:675
+#: includes/admin/class-wp-fcasp-vc.php:714
+#: includes/admin/class-wp-fcasp-vc.php:729
+#: includes/admin/class-wp-fcasp-vc.php:822
+#: includes/admin/class-wp-fcasp-vc.php:845
+#: includes/admin/class-wp-fcasp-vc.php:996
+#: includes/admin/class-wp-fcasp-vc.php:1012
+#: includes/admin/class-wp-fcasp-vc.php:1027
+#: includes/admin/class-wp-fcasp-vc.php:1066
+#: includes/admin/class-wp-fcasp-vc.php:1081
+msgid "False"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:111
+#: includes/admin/class-wp-fcasp-vc.php:472
+#: includes/admin/class-wp-fcasp-vc.php:824
+msgid "Display read more button."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:116
+#: includes/admin/class-wp-fcasp-vc.php:477
+#: includes/admin/class-wp-fcasp-vc.php:829
+msgid "Read More Button Text"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:119
+#: includes/admin/class-wp-fcasp-vc.php:480
+#: includes/admin/class-wp-fcasp-vc.php:832
+msgid "Enter read more button text."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:128
+#: includes/admin/class-wp-fcasp-vc.php:489
+#: includes/admin/class-wp-fcasp-vc.php:841
+msgid "Display Post Content"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:134
+#: includes/admin/class-wp-fcasp-vc.php:495
+#: includes/admin/class-wp-fcasp-vc.php:847
+msgid "Show featured content post content."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:139
+#: includes/admin/class-wp-fcasp-vc.php:500
+#: includes/admin/class-wp-fcasp-vc.php:852
+msgid "Content Words Limit"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:142
+#: includes/admin/class-wp-fcasp-vc.php:503
+#: includes/admin/class-wp-fcasp-vc.php:855
+msgid "Control featured post content words limit."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:151
+#: includes/admin/class-wp-fcasp-vc.php:512
+#: includes/admin/class-wp-fcasp-vc.php:864
+msgid "Content Tail"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:154
+#: includes/admin/class-wp-fcasp-vc.php:515
+#: includes/admin/class-wp-fcasp-vc.php:867
+msgid "Display dots after the post content."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:163
+#: includes/admin/class-wp-fcasp-vc.php:524
+#: includes/admin/class-wp-fcasp-vc.php:876
+msgid "Link Behaviour"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:166
+#: includes/admin/class-wp-fcasp-vc.php:527
+#: includes/admin/class-wp-fcasp-vc.php:879
+msgid "Same Window"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:167
+#: includes/admin/class-wp-fcasp-vc.php:528
+#: includes/admin/class-wp-fcasp-vc.php:880
+msgid "New Window"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:169
+#: includes/admin/class-wp-fcasp-vc.php:530
+#: includes/admin/class-wp-fcasp-vc.php:882
+msgid "Choose link bahaviour."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:176
+#: includes/admin/class-wp-fcasp-vc.php:537
+#: includes/admin/class-wp-fcasp-vc.php:889
+msgid "Total items"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:179
+#: includes/admin/class-wp-fcasp-vc.php:540
+#: includes/admin/class-wp-fcasp-vc.php:892
+msgid ""
+"Enter number of featured content post to be displayed. Enter -1 to display "
+"all."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:180
+#: includes/admin/class-wp-fcasp-vc.php:198
+#: includes/admin/class-wp-fcasp-vc.php:210
+#: includes/admin/class-wp-fcasp-vc.php:219
+#: includes/admin/class-wp-fcasp-vc.php:228
+#: includes/admin/class-wp-fcasp-vc.php:237
+#: includes/admin/class-wp-fcasp-vc.php:246
+#: includes/admin/class-wp-fcasp-vc.php:541
+#: includes/admin/class-wp-fcasp-vc.php:559
+#: includes/admin/class-wp-fcasp-vc.php:571
+#: includes/admin/class-wp-fcasp-vc.php:580
+#: includes/admin/class-wp-fcasp-vc.php:589
+#: includes/admin/class-wp-fcasp-vc.php:598
+#: includes/admin/class-wp-fcasp-vc.php:607
+#: includes/admin/class-wp-fcasp-vc.php:893
+#: includes/admin/class-wp-fcasp-vc.php:911
+#: includes/admin/class-wp-fcasp-vc.php:923
+#: includes/admin/class-wp-fcasp-vc.php:932
+#: includes/admin/class-wp-fcasp-vc.php:941
+#: includes/admin/class-wp-fcasp-vc.php:950
+#: includes/admin/class-wp-fcasp-vc.php:959
+msgid "Data Settings"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:185
+#: includes/admin/class-wp-fcasp-vc.php:546
+#: includes/admin/class-wp-fcasp-vc.php:898
+msgid "Order By"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:188
+#: includes/admin/class-wp-fcasp-vc.php:549
+#: includes/admin/class-wp-fcasp-vc.php:901
+msgid "Post Date"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:189
+#: includes/admin/class-wp-fcasp-vc.php:550
+#: includes/admin/class-wp-fcasp-vc.php:902
+msgid "Post ID"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:190
+#: includes/admin/class-wp-fcasp-vc.php:551
+#: includes/admin/class-wp-fcasp-vc.php:903
+msgid "Post Author"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:191
+#: includes/admin/class-wp-fcasp-vc.php:552
+#: includes/admin/class-wp-fcasp-vc.php:904
+msgid "Post Title"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:192
+#: includes/admin/class-wp-fcasp-vc.php:553
+#: includes/admin/class-wp-fcasp-vc.php:905
+msgid "Post Slug"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:193
+#: includes/admin/class-wp-fcasp-vc.php:554
+#: includes/admin/class-wp-fcasp-vc.php:906
+msgid "Post Modified Date"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:194
+#: includes/admin/class-wp-fcasp-vc.php:555
+#: includes/admin/class-wp-fcasp-vc.php:907
+msgid "Random"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:195
+#: includes/admin/class-wp-fcasp-vc.php:556
+#: includes/admin/class-wp-fcasp-vc.php:908
+msgid "Menu Order"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:197
+#: includes/admin/class-wp-fcasp-vc.php:558
+#: includes/admin/class-wp-fcasp-vc.php:910
+msgid "Select order type."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:203
+#: includes/admin/class-wp-fcasp-vc.php:564
+#: includes/admin/class-wp-fcasp-vc.php:916
+msgid "Sort order"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:206
+#: includes/admin/class-wp-fcasp-vc.php:567
+#: includes/admin/class-wp-fcasp-vc.php:919
+msgid "Descending"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:207
+#: includes/admin/class-wp-fcasp-vc.php:568
+#: includes/admin/class-wp-fcasp-vc.php:920
+msgid "Ascending"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:209
+#: includes/admin/class-wp-fcasp-vc.php:570
+#: includes/admin/class-wp-fcasp-vc.php:922
+msgid "Select sorting order."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:218
+#: includes/admin/class-wp-fcasp-vc.php:579
+#: includes/admin/class-wp-fcasp-vc.php:931
+msgid ""
+"Enter featured content category id to display featured post categories wise."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:224
+#: includes/admin/class-wp-fcasp-vc.php:585
+#: includes/admin/class-wp-fcasp-vc.php:937
+msgid "Exclude Category"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:227
+#: includes/admin/class-wp-fcasp-vc.php:588
+#: includes/admin/class-wp-fcasp-vc.php:940
+msgid ""
+"Exclude featured content post category. Works only if `Category` field is "
+"empty."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:233
+#: includes/admin/class-wp-fcasp-vc.php:594
+#: includes/admin/class-wp-fcasp-vc.php:946
+msgid "Display Specific Post"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:236
+#: includes/admin/class-wp-fcasp-vc.php:597
+#: includes/admin/class-wp-fcasp-vc.php:949
+msgid "Display specific featured content posts."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:242
+#: includes/admin/class-wp-fcasp-vc.php:603
+#: includes/admin/class-wp-fcasp-vc.php:955
+msgid "Exclude Post"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:245
+#: includes/admin/class-wp-fcasp-vc.php:606
+#: includes/admin/class-wp-fcasp-vc.php:958
+msgid "Enter featured content post id which you do not want to display."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:253
+#: includes/admin/class-wp-fcasp-vc.php:614
+#: includes/admin/class-wp-fcasp-vc.php:966
+msgid "Slider Column"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:256
+#: includes/admin/class-wp-fcasp-vc.php:617
+#: includes/admin/class-wp-fcasp-vc.php:969
+msgid "Enter slider column."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:257
+#: includes/admin/class-wp-fcasp-vc.php:270
+#: includes/admin/class-wp-fcasp-vc.php:286
+#: includes/admin/class-wp-fcasp-vc.php:302
+#: includes/admin/class-wp-fcasp-vc.php:317
+#: includes/admin/class-wp-fcasp-vc.php:329
+#: includes/admin/class-wp-fcasp-vc.php:341
+#: includes/admin/class-wp-fcasp-vc.php:356
+#: includes/admin/class-wp-fcasp-vc.php:372
+#: includes/admin/class-wp-fcasp-vc.php:618
+#: includes/admin/class-wp-fcasp-vc.php:631
+#: includes/admin/class-wp-fcasp-vc.php:647
+#: includes/admin/class-wp-fcasp-vc.php:663
+#: includes/admin/class-wp-fcasp-vc.php:678
+#: includes/admin/class-wp-fcasp-vc.php:690
+#: includes/admin/class-wp-fcasp-vc.php:702
+#: includes/admin/class-wp-fcasp-vc.php:717
+#: includes/admin/class-wp-fcasp-vc.php:733
+#: includes/admin/class-wp-fcasp-vc.php:970
+#: includes/admin/class-wp-fcasp-vc.php:983
+#: includes/admin/class-wp-fcasp-vc.php:999
+#: includes/admin/class-wp-fcasp-vc.php:1015
+#: includes/admin/class-wp-fcasp-vc.php:1030
+#: includes/admin/class-wp-fcasp-vc.php:1042
+#: includes/admin/class-wp-fcasp-vc.php:1054
+#: includes/admin/class-wp-fcasp-vc.php:1069
+#: includes/admin/class-wp-fcasp-vc.php:1085
+msgid "Slider Settings"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:266
+#: includes/admin/class-wp-fcasp-vc.php:627
+#: includes/admin/class-wp-fcasp-vc.php:979
+msgid "Slides to Scroll"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:269
+#: includes/admin/class-wp-fcasp-vc.php:630
+#: includes/admin/class-wp-fcasp-vc.php:982
+msgid "Enter number of slides to scroll."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:279
+#: includes/admin/class-wp-fcasp-vc.php:640
+#: includes/admin/class-wp-fcasp-vc.php:992
+msgid "Dots"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:285
+#: includes/admin/class-wp-fcasp-vc.php:646
+#: includes/admin/class-wp-fcasp-vc.php:998
+msgid "Show dots indicators."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:295
+#: includes/admin/class-wp-fcasp-vc.php:656
+#: includes/admin/class-wp-fcasp-vc.php:1008
+msgid "Arrows"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:301
+#: includes/admin/class-wp-fcasp-vc.php:662
+#: includes/admin/class-wp-fcasp-vc.php:1014
+msgid "Show Prev - Next arrows."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:310
+#: includes/admin/class-wp-fcasp-vc.php:671
+#: includes/admin/class-wp-fcasp-vc.php:1023
+msgid "Autoplay"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:316
+#: includes/admin/class-wp-fcasp-vc.php:677
+#: includes/admin/class-wp-fcasp-vc.php:1029
+msgid "Enable autoplay."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:325
+#: includes/admin/class-wp-fcasp-vc.php:686
+#: includes/admin/class-wp-fcasp-vc.php:1038
+msgid "Autoplay Interval"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:328
+#: includes/admin/class-wp-fcasp-vc.php:689
+#: includes/admin/class-wp-fcasp-vc.php:1041
+msgid "Enter autoplay speed."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:337
+#: includes/admin/class-wp-fcasp-vc.php:698
+#: includes/admin/class-wp-fcasp-vc.php:1050
+msgid "Speed"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:340
+#: includes/admin/class-wp-fcasp-vc.php:701
+#: includes/admin/class-wp-fcasp-vc.php:1053
+msgid "Enter slide speed."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:349
+#: includes/admin/class-wp-fcasp-vc.php:710
+#: includes/admin/class-wp-fcasp-vc.php:1062
+msgid "Infinite"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:355
+#: includes/admin/class-wp-fcasp-vc.php:716
+#: includes/admin/class-wp-fcasp-vc.php:1068
+msgid "Enable infinite loop sliding."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:364
+#: includes/admin/class-wp-fcasp-vc.php:725
+#: includes/admin/class-wp-fcasp-vc.php:1077
+msgid "Center Mode"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:371
+#: includes/admin/class-wp-fcasp-vc.php:732
+#: includes/admin/class-wp-fcasp-vc.php:1084
+msgid ""
+"Enable centered view with partial prev/next slides. Use with odd numbered "
+"`Slides to Scroll` and `Slider Column` counts."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:390
+msgid "WPOS - FC With Icon"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:395
+msgid "Display featured content with font awesome icon."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:416
+msgid "FC Icon Design 1"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:417
+msgid "FC Icon Design 2"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:418
+msgid "FC Icon Design 3"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:419
+msgid "FC Icon Design 4"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:420
+msgid "FC Icon Design 5"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:421
+msgid "FC Icon Design 6"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:422
+msgid "FC Icon Design 7"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:423
+msgid "FC Icon Design 8"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:424
+msgid "FC Icon Design 9"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:425
+msgid "FC Icon Design 10"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:426
+msgid "FC Icon Design 11"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:427
+msgid "FC Icon Design 12"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:428
+msgid "FC Icon Design 13"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:429
+msgid "FC Icon Design 14"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:430
+msgid "FC Icon Design 15"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:431
+msgid "FC Icon Design 16"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:432
+msgid "FC Icon Design 17"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:751
+msgid "WPOS - FC With Icon & Image"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:756
+msgid "Display featured content with icon and image."
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:777
+msgid "FC Icon & Design - 1"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:778
+msgid "FC Icon & Design - 2"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:779
+msgid "FC Icon & Design - 3"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:780
+msgid "FC Icon & Design - 4"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:781
+msgid "FC Icon & Design - 5"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:782
+msgid "FC Icon & Design - 6"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:783
+msgid "FC Icon & Design - 7"
+msgstr ""
+
+#: includes/admin/class-wp-fcasp-vc.php:784
+msgid "FC Icon & Design - 8"
+msgstr ""
+
+#: includes/admin/wp-fcasp-how-it-work.php:22
+msgid "How it works - WP Featured Content and Slider Pro"
+msgstr ""
+
+#: includes/admin/wp-fcasp-how-it-work.php:22
+#: includes/admin/wp-fcasp-how-it-work.php:118
+msgid "How It Works"
+msgstr ""
+
+#: includes/admin/wp-fcasp-how-it-work.php:103
+msgid ""
+"There was an error retrieving the data from the server. Please try again "
+"later."
+msgstr ""
+
+#: includes/admin/wp-fcasp-how-it-work.php:121
+msgid "Our Plugins"
+msgstr ""
+
+#: includes/admin/wp-fcasp-how-it-work.php:127
+msgid "WPOS Offers"
+msgstr ""
+
+#: includes/admin/wp-fcasp-how-it-work.php:163
+msgid "How It Works - Display and shortcode"
+msgstr ""
+
+#: includes/admin/wp-fcasp-how-it-work.php:171
+msgid "Getting Started with Featured Content Pro"
+msgstr ""
+
+#: includes/admin/wp-fcasp-how-it-work.php:175
+msgid "Step-1. Go to \"Featured Content Pro --> Add Featured content\"."
+msgstr ""
+
+#: includes/admin/wp-fcasp-how-it-work.php:176
+msgid ""
+"Step-2. Add Title, description and image as a featured image OR Add Font "
+"Awesome (If not adding Featured Image)."
+msgstr ""
+
+#: includes/admin/wp-fcasp-how-it-work.php:177
+msgid ""
+"Step-3. To display multiple, Create category under \"Featured Content Pro -->"
+" Category\" and add Featured Content to respective categories."
+msgstr ""
+
+#: includes/admin/wp-fcasp-how-it-work.php:178
+msgid ""
+"Step-4. Use category shortcode under \"Featured Content Pro --> Category\""
+msgstr ""
+
+#: includes/admin/wp-fcasp-how-it-work.php:179
+msgid "Step-5. Plugin also work with custom post type"
+msgstr ""
+
+#: includes/admin/wp-fcasp-how-it-work.php:186
+msgid "How Shortcode Works"
+msgstr ""
+
+#: includes/admin/wp-fcasp-how-it-work.php:190
+msgid ""
+"Step-1. Create a page like Featured Content OR add the shortcode in a page."
+msgstr ""
+
+#: includes/admin/wp-fcasp-how-it-work.php:191
+msgid "Step-2. Put below shortcode as per your need."
+msgstr ""
+
+#: includes/admin/wp-fcasp-how-it-work.php:198
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/admin/wp-fcasp-how-it-work.php:201
+msgid "Featured Content with icon Design"
+msgstr ""
+
+#: includes/admin/wp-fcasp-how-it-work.php:202
+msgid "Featured Content with image Design"
+msgstr ""
+
+#: includes/admin/wp-fcasp-how-it-work.php:203
+msgid "Featured Content with icon and image Design"
+msgstr ""
+
+#: includes/admin/wp-fcasp-how-it-work.php:204
+msgid "Shortcode also work with custom post type"
+msgstr ""
+
+#: includes/admin/wp-fcasp-how-it-work.php:223
+msgid "Need Support?"
+msgstr ""
+
+#: includes/admin/wp-fcasp-how-it-work.php:226
+msgid "Check plugin document for shortcode parameters and demo for designs."
+msgstr ""
+
+#: includes/admin/wp-fcasp-how-it-work.php:227
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/wp-fcasp-how-it-work.php:228
+msgid "View PRO Designs"
+msgstr ""
+
+#: includes/admin/wp-fcasp-how-it-work.php:239
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/wp-fcasp-how-it-work.php:242
+msgid "Enjoyed this plugin? You can help by rate this plugin"
+msgstr ""
+
+#: includes/shortcode/wp-fcasp-fc-icon-image.php:89
+#: includes/shortcode/wp-fcasp-fc-icon.php:91
+#: includes/shortcode/wp-fcasp-fc-image.php:91
+msgid "Read More"
+msgstr ""
+
+#: includes/admin/metabox/wp-fcasp-post-sett-metabox.php:26
+msgid "Featured Content Icon"
+msgstr ""
+
+#: includes/admin/metabox/wp-fcasp-post-sett-metabox.php:30
+msgid "For example : fa fa-bluetooth-b"
+msgstr ""
+
+#: includes/admin/metabox/wp-fcasp-post-sett-metabox.php:31
+msgid ""
+"Get icon class details : <a href=\"https://fortawesome.github.io/Font-"
+"Awesome/icons/\" target=\"_blank\"> Font Awesome</a>"
+msgstr ""
+
+#: includes/admin/metabox/wp-fcasp-post-sett-metabox.php:37
+msgid "Read More Link"
+msgstr ""
+
+#: includes/admin/metabox/wp-fcasp-post-sett-metabox.php:41
+msgid ""
+"Enter read more link. You can add external link also. ie http://www.google."
+"com"
+msgstr ""
+
+#: includes/admin/settings/wp-fcasp-settings.php:15
+msgid "WP Featured Content and Slider Pro Settings"
+msgstr ""
+
+#: includes/admin/settings/wp-fcasp-settings.php:22
+msgid "Your changes saved successfully."
+msgstr ""
+
+#: includes/admin/settings/wp-fcasp-settings.php:44
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin/settings/wp-fcasp-settings.php:53
+msgid "Default Featured Image"
+msgstr ""
+
+#: includes/admin/settings/wp-fcasp-settings.php:57
+msgid "Upload Image"
+msgstr ""
+
+#: includes/admin/settings/wp-fcasp-settings.php:57
+msgid "Choose Logo"
+msgstr ""
+
+#: includes/admin/settings/wp-fcasp-settings.php:57
+msgid "Insert Logo"
+msgstr ""
+
+#: includes/admin/settings/wp-fcasp-settings.php:57
+msgid "Clear"
+msgstr ""
+
+#: includes/admin/settings/wp-fcasp-settings.php:58
+msgid ""
+"Upload default featured image or provide an external URL of image. If your "
+"post does not have featured image then this will be displayed instead of "
+"grey blank box."
+msgstr ""
+
+#: includes/admin/settings/wp-fcasp-settings.php:70
+#: includes/admin/settings/wp-fcasp-settings.php:111
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin/settings/wp-fcasp-settings.php:93
+msgid "Custom CSS Settings"
+msgstr ""
+
+#: includes/admin/settings/wp-fcasp-settings.php:102
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/admin/settings/wp-fcasp-settings.php:106
+msgid "Enter custom CSS to override plugin CSS."
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Featured Content and Slider Pro"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Easy to add and display what features your company, product or service "
+"offers, using our shortcode OR template code."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.wponlinesupport.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP Online Support"
+msgstr ""

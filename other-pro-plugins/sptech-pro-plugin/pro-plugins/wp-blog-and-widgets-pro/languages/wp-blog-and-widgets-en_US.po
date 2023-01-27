@@ -1,0 +1,1503 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Blog and Widgets Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-09 12:37+0000\n"
+"PO-Revision-Date: 2017-01-09 12:37+0000\n"
+"Last-Translator: admin <pratikjain@sptechnolab.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: en_US\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: edd-blog-plugin.php:319
+msgid "Enter valid license key for automatic updates."
+msgstr ""
+
+#: edd-blog-plugin.php:334
+msgid "Activate Plugin License"
+msgstr ""
+
+#: edd-blog-plugin.php:334
+msgid "License"
+msgstr ""
+
+#: wp-blog-and-widgets.php:167
+#, php-format
+msgid "Thank you for activating %s"
+msgstr ""
+
+#: wp-blog-and-widgets.php:168
+#, php-format
+msgid ""
+"It looks like you had FREE version %s of this plugin activated. To avoid "
+"conflicts the extra version has been deactivated and we recommend you delete "
+"it."
+msgstr ""
+
+#: includes/wpbaw-functions.php:351
+msgid "« Previous"
+msgstr ""
+
+#: includes/wpbaw-functions.php:352
+msgid "Next »"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:22 includes/wpbaw-post-types.php:23
+msgid "Blog"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:24
+msgid "Add Blog"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:25
+msgid "Add New Blog"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:26
+msgid "Edit Blog"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:27
+msgid "New Blog"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:28
+msgid "View Blog"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:29
+msgid "Search Blog"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:30
+msgid "No Blog Items found"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:31
+msgid "No Blog Items found in Trash"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:33
+msgid "Blog Pro"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:34
+msgid "Blog Image"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:35
+msgid "Set Blog Image"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:36
+msgid "Remove blog image"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:37
+msgid "Use as blog image"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:77 includes/wpbaw-post-types.php:78
+#: includes/admin/class-wpbaw-vc.php:286 includes/admin/class-wpbaw-vc.php:579
+#: includes/admin/class-wpbaw-vc.php:849
+msgid "Category"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:79
+msgid "Search Category"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:80
+msgid "All Category"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:81
+msgid "Parent Category"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:82
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:83
+msgid "Edit Category"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:84
+msgid "Update Category"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:85
+msgid "Add New Category"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:86
+msgid "New Category Name"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:87
+msgid "Blog Category"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:117
+#, php-format
+msgid "Blog updated. <a href=\"%s\">View Blog</a>"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:118
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/wpbaw-post-types.php:119
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/wpbaw-post-types.php:120
+msgid "Blog updated."
+msgstr ""
+
+#: includes/wpbaw-post-types.php:121
+#, php-format
+msgid "Blog restored to revision from %s"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:122
+#, php-format
+msgid "Blog published. <a href=\"%s\">View Blog</a>"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:123
+msgid "Blog saved."
+msgstr ""
+
+#: includes/wpbaw-post-types.php:124
+#, php-format
+msgid "Blog submitted. <a target=\"_blank\" href=\"%s\">Preview Blog</a>"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:125
+#, php-format
+msgid ""
+"Blog scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview Blog</a>"
+msgstr ""
+
+#: includes/wpbaw-post-types.php:127
+#, php-format
+msgid "Blog draft updated. <a target=\"_blank\" href=\"%s\">Preview Blog</a>"
+msgstr ""
+
+#: templates/design-1.php:17 templates/design-10.php:28
+#: templates/design-11.php:25 templates/design-12.php:20
+#: templates/design-13.php:27 templates/design-14.php:33
+#: templates/design-15.php:27 templates/design-16.php:38
+#: templates/design-17.php:41 templates/design-18.php:39
+#: templates/design-19.php:36 templates/design-2.php:23
+#: templates/design-20.php:42 templates/design-21.php:42
+#: templates/design-22.php:39 templates/design-23.php:25
+#: templates/design-24.php:32 templates/design-24.php:77
+#: templates/design-25.php:40 templates/design-25.php:80
+#: templates/design-26.php:30 templates/design-27.php:30
+#: templates/design-28.php:26 templates/design-28.php:63
+#: templates/design-29.php:25 templates/design-29.php:77
+#: templates/design-3.php:27 templates/design-30.php:41
+#: templates/design-30.php:73 templates/design-31.php:27
+#: templates/design-31.php:71 templates/design-32.php:27
+#: templates/design-33.php:23 templates/design-34.php:40
+#: templates/design-35.php:41 templates/design-36.php:10
+#: templates/design-37.php:38 templates/design-38.php:18
+#: templates/design-39.php:28 templates/design-4.php:19
+#: templates/design-40.php:35 templates/design-41.php:36
+#: templates/design-42.php:41 templates/design-43.php:18
+#: templates/design-44.php:40 templates/design-45.php:30
+#: templates/design-46.php:49 templates/design-47.php:46
+#: templates/design-48.php:46 templates/design-49.php:31
+#: templates/design-5.php:17 templates/design-50.php:32
+#: templates/design-6.php:26 templates/design-7.php:25
+#: templates/design-8.php:28 templates/design-9.php:25
+msgid "By"
+msgstr ""
+
+#: templates/design-15.php:64
+msgid "By "
+msgstr ""
+
+#: includes/admin/class-wpbaw-admin.php:67
+msgid "Blog Settings"
+msgstr ""
+
+#: includes/admin/class-wpbaw-admin.php:112
+#: includes/admin/class-wpbaw-admin.php:112
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-wpbaw-admin.php:157
+msgid "Blog Category Shortcode"
+msgstr ""
+
+#: includes/admin/class-wpbaw-admin.php:225
+msgid "Sort Blog"
+msgstr ""
+
+#: includes/admin/class-wpbaw-admin.php:238
+#: includes/admin/class-wpbaw-vc.php:274 includes/admin/class-wpbaw-vc.php:567
+#: includes/admin/class-wpbaw-vc.php:837
+msgid "Order"
+msgstr ""
+
+#: includes/admin/class-wpbaw-admin.php:278
+msgid "Save Sort Order"
+msgstr ""
+
+#: includes/admin/class-wpbaw-admin.php:294
+msgid "Sorry, Something happened wrong."
+msgstr ""
+
+#: includes/admin/class-wpbaw-admin.php:321
+msgid "Blog order saves successfully."
+msgstr ""
+
+#: includes/admin/class-wpbaw-admin.php:353
+msgid "View Documentation"
+msgstr ""
+
+#: includes/admin/class-wpbaw-admin.php:353
+msgid "Docs"
+msgstr ""
+
+#: includes/admin/class-wpbaw-admin.php:354
+msgid "Visit Customer Support Forum"
+msgstr ""
+
+#: includes/admin/class-wpbaw-admin.php:354
+msgid "Support"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:37
+msgid "WPOS - Blog Grid"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:41 includes/admin/class-wpbaw-vc.php:124
+#: includes/admin/class-wpbaw-vc.php:346 includes/admin/class-wpbaw-vc.php:443
+#: includes/admin/class-wpbaw-vc.php:639 includes/admin/class-wpbaw-vc.php:713
+msgid "Content"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:42
+msgid "Display blog grid."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:48 includes/admin/class-wpbaw-vc.php:354
+#: includes/admin/class-wpbaw-vc.php:646
+msgid "Design"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:51
+msgid "Grid Design 16"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:52
+msgid "Grid Design 17"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:53
+msgid "Grid Design 18"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:54
+msgid "Grid Design 19"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:55
+msgid "Grid Design 20"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:56
+msgid "Grid Design 21"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:57
+msgid "Grid Design 22"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:58
+msgid "Grid Design 24"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:59
+msgid "Grid Design 25"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:60
+msgid "Grid Design 26"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:61
+msgid "Grid Design 27"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:62
+msgid "Grid Design 30"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:63
+msgid "Grid Design 34"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:64
+msgid "Grid Design 35"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:65
+msgid "Grid Design 36"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:66
+msgid "Grid Design 37"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:67
+msgid "Grid Design 42"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:68
+msgid "Grid Design 44"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:69
+msgid "Grid Design 45"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:70
+msgid "Grid Design 48"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:72 includes/admin/class-wpbaw-vc.php:382
+msgid "Choose blog grid design."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:78 includes/admin/class-wpbaw-vc.php:388
+msgid "Grid"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:81 includes/admin/class-wpbaw-vc.php:391
+msgid "Grid 1"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:82 includes/admin/class-wpbaw-vc.php:392
+msgid "Grid 2"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:83 includes/admin/class-wpbaw-vc.php:393
+msgid "Grid 3"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:84 includes/admin/class-wpbaw-vc.php:394
+msgid "Grid 4"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:86
+msgid "Choose number of grid for blog to display."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:91 includes/admin/class-wpbaw-vc.php:410
+#: includes/admin/class-wpbaw-vc.php:680
+msgid "Author"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:94 includes/admin/class-wpbaw-vc.php:105
+#: includes/admin/class-wpbaw-vc.php:116 includes/admin/class-wpbaw-vc.php:127
+#: includes/admin/class-wpbaw-vc.php:139 includes/admin/class-wpbaw-vc.php:177
+#: includes/admin/class-wpbaw-vc.php:204 includes/admin/class-wpbaw-vc.php:413
+#: includes/admin/class-wpbaw-vc.php:424 includes/admin/class-wpbaw-vc.php:435
+#: includes/admin/class-wpbaw-vc.php:446 includes/admin/class-wpbaw-vc.php:458
+#: includes/admin/class-wpbaw-vc.php:496 includes/admin/class-wpbaw-vc.php:683
+#: includes/admin/class-wpbaw-vc.php:694 includes/admin/class-wpbaw-vc.php:705
+#: includes/admin/class-wpbaw-vc.php:716 includes/admin/class-wpbaw-vc.php:728
+#: includes/admin/class-wpbaw-vc.php:766 includes/admin/class-wpbaw-vc.php:921
+#: includes/admin/class-wpbaw-vc.php:933 includes/admin/class-wpbaw-vc.php:945
+#: includes/admin/class-wpbaw-vc.php:979
+#: includes/widgets/class-wpbaw-latest-blog-list-slider.php:134
+#: includes/widgets/class-wpbaw-latest-blog-list-slider.php:143
+#: includes/widgets/class-wpbaw-latest-blog-list-slider2.php:134
+#: includes/widgets/class-wpbaw-latest-blog-list-slider2.php:143
+#: includes/widgets/class-wpbaw-latest-blog-slider.php:117
+#: includes/widgets/class-wpbaw-latest-blog-slider.php:126
+msgid "True"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:95 includes/admin/class-wpbaw-vc.php:106
+#: includes/admin/class-wpbaw-vc.php:117 includes/admin/class-wpbaw-vc.php:128
+#: includes/admin/class-wpbaw-vc.php:138 includes/admin/class-wpbaw-vc.php:178
+#: includes/admin/class-wpbaw-vc.php:205 includes/admin/class-wpbaw-vc.php:414
+#: includes/admin/class-wpbaw-vc.php:425 includes/admin/class-wpbaw-vc.php:436
+#: includes/admin/class-wpbaw-vc.php:447 includes/admin/class-wpbaw-vc.php:457
+#: includes/admin/class-wpbaw-vc.php:497 includes/admin/class-wpbaw-vc.php:684
+#: includes/admin/class-wpbaw-vc.php:695 includes/admin/class-wpbaw-vc.php:706
+#: includes/admin/class-wpbaw-vc.php:717 includes/admin/class-wpbaw-vc.php:727
+#: includes/admin/class-wpbaw-vc.php:767 includes/admin/class-wpbaw-vc.php:922
+#: includes/admin/class-wpbaw-vc.php:934 includes/admin/class-wpbaw-vc.php:946
+#: includes/admin/class-wpbaw-vc.php:980
+#: includes/widgets/class-wpbaw-latest-blog-list-slider.php:135
+#: includes/widgets/class-wpbaw-latest-blog-list-slider.php:144
+#: includes/widgets/class-wpbaw-latest-blog-list-slider2.php:135
+#: includes/widgets/class-wpbaw-latest-blog-list-slider2.php:144
+#: includes/widgets/class-wpbaw-latest-blog-slider.php:118
+#: includes/widgets/class-wpbaw-latest-blog-slider.php:127
+msgid "False"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:97 includes/admin/class-wpbaw-vc.php:416
+#: includes/admin/class-wpbaw-vc.php:686
+msgid "Display blog author."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:102 includes/admin/class-wpbaw-vc.php:421
+#: includes/admin/class-wpbaw-vc.php:691
+msgid "Date"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:108 includes/admin/class-wpbaw-vc.php:427
+#: includes/admin/class-wpbaw-vc.php:697
+msgid "Display blog date."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:113
+msgid "Show Category"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:119 includes/admin/class-wpbaw-vc.php:438
+#: includes/admin/class-wpbaw-vc.php:708
+msgid "Display category name."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:130 includes/admin/class-wpbaw-vc.php:449
+#: includes/admin/class-wpbaw-vc.php:719
+msgid "Display blog content."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:135 includes/admin/class-wpbaw-vc.php:454
+#: includes/admin/class-wpbaw-vc.php:724
+msgid "Full Content"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:141 includes/admin/class-wpbaw-vc.php:460
+#: includes/admin/class-wpbaw-vc.php:730
+msgid "Display full blog content."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:150 includes/admin/class-wpbaw-vc.php:469
+#: includes/admin/class-wpbaw-vc.php:739
+msgid "Content Word Limit"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:153 includes/admin/class-wpbaw-vc.php:472
+#: includes/admin/class-wpbaw-vc.php:742
+msgid "Enter blog content word limit."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:162 includes/admin/class-wpbaw-vc.php:481
+#: includes/admin/class-wpbaw-vc.php:751
+msgid "Content Tail"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:165 includes/admin/class-wpbaw-vc.php:484
+#: includes/admin/class-wpbaw-vc.php:754
+msgid "Display dots after the post content as continue reading."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:174 includes/admin/class-wpbaw-vc.php:493
+#: includes/admin/class-wpbaw-vc.php:763
+#: includes/shortcode/wpbaw-blog-shortcode.php:61
+#: includes/shortcode/wpbaw-recent-blog-slider.php:70
+#: includes/shortcode/wpbaw-recent-blog.php:59
+msgid "Read More"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:180 includes/admin/class-wpbaw-vc.php:499
+#: includes/admin/class-wpbaw-vc.php:769
+msgid "Display read more button."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:189 includes/admin/class-wpbaw-vc.php:508
+#: includes/admin/class-wpbaw-vc.php:778
+msgid "Read More Text"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:192 includes/admin/class-wpbaw-vc.php:511
+#: includes/admin/class-wpbaw-vc.php:781
+msgid "Enter read more button text."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:201
+msgid "Pagination"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:207
+msgid "Enable pagination."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:212
+msgid "Pagination Type"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:215
+msgid "Numeric"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:216
+msgid "Next-Prev"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:218
+msgid "Choose pagination type."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:227 includes/admin/class-wpbaw-vc.php:520
+#: includes/admin/class-wpbaw-vc.php:790
+msgid "Link Behavior"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:230 includes/admin/class-wpbaw-vc.php:523
+#: includes/admin/class-wpbaw-vc.php:793
+msgid "Self"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:231 includes/admin/class-wpbaw-vc.php:524
+#: includes/admin/class-wpbaw-vc.php:794
+msgid "blank"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:233 includes/admin/class-wpbaw-vc.php:526
+#: includes/admin/class-wpbaw-vc.php:796
+msgid "Choose link behaviour whether to open in a new tab or not."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:238 includes/admin/class-wpbaw-vc.php:531
+#: includes/admin/class-wpbaw-vc.php:801
+msgid "Image Height"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:241 includes/admin/class-wpbaw-vc.php:534
+#: includes/admin/class-wpbaw-vc.php:804
+msgid ""
+"Control height of the blog. You can enter any numeric number. e.g 500. Leave "
+"empty for default height."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:248 includes/admin/class-wpbaw-vc.php:541
+msgid "Total Items"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:251 includes/admin/class-wpbaw-vc.php:814
+msgid "Enter number of post to be displayed. Enter -1 to display all."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:252 includes/admin/class-wpbaw-vc.php:269
+#: includes/admin/class-wpbaw-vc.php:281 includes/admin/class-wpbaw-vc.php:290
+#: includes/admin/class-wpbaw-vc.php:299 includes/admin/class-wpbaw-vc.php:308
+#: includes/admin/class-wpbaw-vc.php:317 includes/admin/class-wpbaw-vc.php:326
+#: includes/admin/class-wpbaw-vc.php:545 includes/admin/class-wpbaw-vc.php:562
+#: includes/admin/class-wpbaw-vc.php:574 includes/admin/class-wpbaw-vc.php:583
+#: includes/admin/class-wpbaw-vc.php:592 includes/admin/class-wpbaw-vc.php:601
+#: includes/admin/class-wpbaw-vc.php:610 includes/admin/class-wpbaw-vc.php:619
+#: includes/admin/class-wpbaw-vc.php:815 includes/admin/class-wpbaw-vc.php:832
+#: includes/admin/class-wpbaw-vc.php:844 includes/admin/class-wpbaw-vc.php:853
+#: includes/admin/class-wpbaw-vc.php:862 includes/admin/class-wpbaw-vc.php:871
+#: includes/admin/class-wpbaw-vc.php:880 includes/admin/class-wpbaw-vc.php:889
+msgid "Data Settings"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:257 includes/admin/class-wpbaw-vc.php:550
+#: includes/admin/class-wpbaw-vc.php:820
+msgid "Post Order By"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:260 includes/admin/class-wpbaw-vc.php:553
+#: includes/admin/class-wpbaw-vc.php:823
+msgid "Post Date"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:261 includes/admin/class-wpbaw-vc.php:554
+#: includes/admin/class-wpbaw-vc.php:824
+msgid "Post ID"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:262 includes/admin/class-wpbaw-vc.php:555
+#: includes/admin/class-wpbaw-vc.php:825
+msgid "Post Author"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:263 includes/admin/class-wpbaw-vc.php:556
+#: includes/admin/class-wpbaw-vc.php:826
+msgid "Post Title"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:264 includes/admin/class-wpbaw-vc.php:557
+#: includes/admin/class-wpbaw-vc.php:827
+msgid "Post Modified Date"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:265 includes/admin/class-wpbaw-vc.php:558
+#: includes/admin/class-wpbaw-vc.php:828
+msgid "Random"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:266 includes/admin/class-wpbaw-vc.php:559
+#: includes/admin/class-wpbaw-vc.php:829
+msgid "Menu Order (Sort Order)"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:268 includes/admin/class-wpbaw-vc.php:561
+#: includes/admin/class-wpbaw-vc.php:831
+msgid "Select order type."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:277 includes/admin/class-wpbaw-vc.php:570
+#: includes/admin/class-wpbaw-vc.php:840
+msgid "Descending"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:278 includes/admin/class-wpbaw-vc.php:571
+#: includes/admin/class-wpbaw-vc.php:841
+msgid "Ascending"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:280 includes/admin/class-wpbaw-vc.php:843
+msgid "Select sorting order."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:289 includes/admin/class-wpbaw-vc.php:582
+#, php-format
+msgid ""
+"Enter category id to display Posts categories wise. You can find id at "
+"listing <a href=\"%1$s\" target=\"_blank\">page</a>. You can pass multiple "
+"ids with comma seperated."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:295 includes/admin/class-wpbaw-vc.php:588
+#: includes/admin/class-wpbaw-vc.php:858
+msgid "Exclude Category"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:298 includes/admin/class-wpbaw-vc.php:591
+#, php-format
+msgid ""
+"Exclude post category. Works only if `Category` field is empty. You can find "
+"id at listing <a href=\"%1$s\" target=\"_blank\">page</a>. You can pass "
+"multiple ids with comma seperated."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:304 includes/admin/class-wpbaw-vc.php:597
+msgid "Display Specific Posts"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:307 includes/admin/class-wpbaw-vc.php:600
+#: includes/admin/class-wpbaw-vc.php:870
+#, php-format
+msgid ""
+"Enter id of the post which you want to display. You can find id at listing "
+"<a href=\"%1$s\" target=\"_blank\">page</a>. You can pass multiple ids with "
+"comma seperated."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:313 includes/admin/class-wpbaw-vc.php:606
+#: includes/admin/class-wpbaw-vc.php:876
+msgid "Exclude Post"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:316 includes/admin/class-wpbaw-vc.php:609
+#: includes/admin/class-wpbaw-vc.php:879
+#, php-format
+msgid ""
+"Enter id of the post which you do not want to display. You can find id at "
+"listing <a href=\"%1$s\" target=\"_blank\">page</a>. You can pass multiple "
+"ids with comma seperated."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:322 includes/admin/class-wpbaw-vc.php:615
+#: includes/admin/class-wpbaw-vc.php:885
+msgid "Query Offset"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:325 includes/admin/class-wpbaw-vc.php:618
+#: includes/admin/class-wpbaw-vc.php:888
+msgid ""
+"Exclude some blog post from starting. e.g if you pass 5 then it will skip "
+"first five post. Note: Do not use limit=\"-1\" and pagination=\"true\" with "
+"this."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:342
+msgid "WPOS - Recent Blog Grid"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:347
+msgid "Display recent blog grid."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:357
+msgid "Recent Design 16"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:358
+msgid "Recent Design 17"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:359
+msgid "Recent Design 18"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:360
+msgid "Recent Design 19"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:361
+msgid "Recent Design 20"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:362
+msgid "Recent Design 21"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:363
+msgid "Recent Design 22"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:364
+msgid "Recent Design 23"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:365
+msgid "Recent Design 25"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:366
+msgid "Recent Design 26"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:367
+msgid "Recent Design 27"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:368
+msgid "Recent Design 28"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:369
+msgid "Recent Design 29"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:370
+msgid "Recent Design 31"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:371
+msgid "Recent Design 34"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:372
+msgid "Recent Design 35"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:373
+msgid "Recent Design 37"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:374
+msgid "Recent Design 42"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:375
+msgid "Recent Design 44"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:376
+msgid "Recent Design 45"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:377
+msgid "Recent Design 47"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:378
+msgid "Recent Design 48"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:379
+msgid "Recent Design 49"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:380
+msgid "Recent Design 50"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:397
+msgid "Choose number of grid for post to display."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:402
+msgid "Blog Heading"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:405
+msgid "Enter blog heading."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:432 includes/admin/class-wpbaw-vc.php:702
+msgid "Show Category Name"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:544
+msgid "Enter number to be display post at a time. Enter -1 to display all."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:573
+msgid "Post Order."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:635
+msgid "WPOS - Blog Slider"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:640
+msgid "Display blog slider."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:649
+msgid "Slider Design 1"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:650
+msgid "Slider Design 2"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:651
+msgid "Slider Design 3"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:652
+msgid "Slider Design 4"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:653
+msgid "Slider Design 5"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:654
+msgid "Slider Design 6"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:655
+msgid "Slider Design 7"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:656
+msgid "Slider Design 8"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:657
+msgid "Slider Design 9"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:658
+msgid "Slider Design 10"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:659
+msgid "Slider Design 11"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:660
+msgid "Slider Design 12"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:661
+msgid "Slider Design 13"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:662
+msgid "Slider Design 14"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:663
+msgid "Slider Design 15"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:664
+msgid "Slider Design 32"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:665
+msgid "Slider Design 33"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:666
+msgid "Slider Design 38"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:667
+msgid "Slider Design 39"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:668
+msgid "Slider Design 40"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:669
+msgid "Slider Design 41"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:670
+msgid "Slider Design 43"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:671
+msgid "Slider Design 46"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:673
+msgid "Choose blog slider design."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:811
+msgid "Total items"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:852
+#, php-format
+msgid ""
+"Enter category id to display blog categories wise. You can find id at "
+"listing <a href=\"%1$s\" target=\"_blank\">page</a>. You can pass multiple "
+"ids with comma seperated."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:861
+#, php-format
+msgid ""
+"Exclude post category. Works only if `Category` field is empty. You can pass "
+"multiple ids with comma seperated. You can find id at listing <a "
+"href=\"%1$s\" target=\"_blank\">page</a>."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:867
+msgid "Display Specific Post"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:896
+msgid "Slide To Show"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:899
+msgid "Enter number of column for slider."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:900 includes/admin/class-wpbaw-vc.php:913
+#: includes/admin/class-wpbaw-vc.php:925 includes/admin/class-wpbaw-vc.php:937
+#: includes/admin/class-wpbaw-vc.php:949 includes/admin/class-wpbaw-vc.php:958
+#: includes/admin/class-wpbaw-vc.php:967 includes/admin/class-wpbaw-vc.php:983
+msgid "Slider Settings"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:909
+msgid "Slide To Scroll"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:912
+msgid "Enter number of slides to scroll at a time."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:918
+msgid "Dots"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:924
+msgid "Show dots indicators."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:930
+msgid "Arrows"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:936
+msgid "Show Prev - Next arrows."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:942
+msgid "Autoplay"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:948
+msgid "Enable slider autoplay."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:954
+msgid "Speed"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:957
+msgid "Enter slider speed."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:963
+msgid "Autoplay Interval"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:966
+msgid "Enter autoplay speed."
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:976
+msgid "Loop"
+msgstr ""
+
+#: includes/admin/class-wpbaw-vc.php:982
+msgid "Enable infinite loop sliding."
+msgstr ""
+
+#: includes/admin/wpbaw-how-it-work.php:22
+msgid "How it works, our plugins and offers"
+msgstr ""
+
+#: includes/admin/wpbaw-how-it-work.php:22
+#: includes/admin/wpbaw-how-it-work.php:118
+msgid "How It Works"
+msgstr ""
+
+#: includes/admin/wpbaw-how-it-work.php:103
+msgid ""
+"There was an error retrieving the data from the server. Please try again "
+"later."
+msgstr ""
+
+#: includes/admin/wpbaw-how-it-work.php:121
+msgid "Our Plugins"
+msgstr ""
+
+#: includes/admin/wpbaw-how-it-work.php:127
+msgid "WPOS Offers"
+msgstr ""
+
+#: includes/admin/wpbaw-how-it-work.php:163
+msgid "How It Works - Display and shortcode"
+msgstr ""
+
+#: includes/admin/wpbaw-how-it-work.php:171
+msgid "Getting Started with Blog and widget Pro"
+msgstr ""
+
+#: includes/admin/wpbaw-how-it-work.php:175
+msgid ""
+"Step-1: This plugin create a BLOG Pro menu tab in WordPress menu with custom "
+"post type.\"."
+msgstr ""
+
+#: includes/admin/wpbaw-how-it-work.php:176
+msgid "Step-2: Go to \"Blog Pro --> Add blog tab\"."
+msgstr ""
+
+#: includes/admin/wpbaw-how-it-work.php:177
+msgid ""
+"Step-3: Add blog title, description, category, and images as featured image."
+msgstr ""
+
+#: includes/admin/wpbaw-how-it-work.php:178
+msgid ""
+"Step-4: <b>NOTE</b> :- If you want to create a blog page with WordPress "
+"existing POST section then try our other plugin --"
+msgstr ""
+
+#: includes/admin/wpbaw-how-it-work.php:185
+msgid "How Shortcode Works"
+msgstr ""
+
+#: includes/admin/wpbaw-how-it-work.php:189
+msgid "Step-1. Create a page like Blog OR Our Blog."
+msgstr ""
+
+#: includes/admin/wpbaw-how-it-work.php:190
+msgid "Step-2. Put below shortcode as per your need."
+msgstr ""
+
+#: includes/admin/wpbaw-how-it-work.php:197
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/admin/wpbaw-how-it-work.php:200
+msgid "Blog in Grid View"
+msgstr ""
+
+#: includes/admin/wpbaw-how-it-work.php:201
+msgid "Display Recent blog post in Grid View"
+msgstr ""
+
+#: includes/admin/wpbaw-how-it-work.php:202
+msgid "Display Recent blog post in Slider/Carousel"
+msgstr ""
+
+#: includes/admin/wpbaw-how-it-work.php:221
+msgid "Need Support?"
+msgstr ""
+
+#: includes/admin/wpbaw-how-it-work.php:224
+msgid "Check plugin document for shortcode parameters and demo for designs."
+msgstr ""
+
+#: includes/admin/wpbaw-how-it-work.php:225
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/wpbaw-how-it-work.php:226
+msgid "View PRO Designs"
+msgstr ""
+
+#: includes/admin/wpbaw-how-it-work.php:237
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/wpbaw-how-it-work.php:240
+msgid "Enjoyed this plugin? You can help by rate this plugin"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-archive.php:34
+msgid "Display archive of your Blog Posts."
+msgstr ""
+
+#: includes/widgets/class-wpbaw-archive.php:36
+msgid "Blog Archives"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-archive.php:70
+msgid "Archives"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-archive.php:102
+msgid "Select Year"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-archive.php:105
+msgid "Select Month"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-archive.php:108
+msgid "Select Day"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-archive.php:111
+msgid "Select Week"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-archive.php:114
+msgid "Select Post"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-archive.php:170
+#: includes/widgets/class-wpbaw-latest-blog-list-slider.php:83
+#: includes/widgets/class-wpbaw-latest-blog-list-slider2.php:84
+#: includes/widgets/class-wpbaw-latest-blog-scrolling.php:81
+#: includes/widgets/class-wpbaw-latest-blog-slider.php:87
+#: includes/widgets/class-wpbaw-latest-blog.php:72
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-archive.php:176
+msgid "Archive Type:"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-archive.php:178
+msgid "Yearly"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-archive.php:179
+msgid "Monthly"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-archive.php:180
+msgid "Daily"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-archive.php:181
+msgid "Weekly"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-archive.php:187
+msgid "Order:"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-archive.php:189
+msgid "DESC"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-archive.php:190
+msgid "ASC"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-archive.php:196
+msgid "Limit:"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-archive.php:201
+msgid "Display as dropdown"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-archive.php:203
+msgid "Show post counts"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-cat-widget.php:31
+msgid "A list or dropdown of blog categories."
+msgstr ""
+
+#: includes/widgets/class-wpbaw-cat-widget.php:32
+#: includes/widgets/class-wpbaw-cat-widget.php:45
+msgid "Blog Categories"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-cat-widget.php:69
+msgid "Select Category"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-latest-blog-list-slider.php:29
+#: includes/widgets/class-wpbaw-latest-blog-list-slider2.php:30
+msgid "Display Latest Blog Items in list view OR in Slider."
+msgstr ""
+
+#: includes/widgets/class-wpbaw-latest-blog-list-slider.php:30
+#: includes/widgets/class-wpbaw-latest-blog-list-slider.php:172
+msgid "Latest Blog List/Slider 1"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-latest-blog-list-slider.php:89
+#: includes/widgets/class-wpbaw-latest-blog-list-slider2.php:90
+#: includes/widgets/class-wpbaw-latest-blog-scrolling.php:87
+#: includes/widgets/class-wpbaw-latest-blog-slider.php:93
+#: includes/widgets/class-wpbaw-latest-blog.php:78
+msgid "Number of Items:"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-latest-blog-list-slider.php:95
+#: includes/widgets/class-wpbaw-latest-blog-list-slider2.php:96
+#: includes/widgets/class-wpbaw-latest-blog-scrolling.php:111
+#: includes/widgets/class-wpbaw-latest-blog-slider.php:99
+#: includes/widgets/class-wpbaw-latest-blog.php:84
+msgid "Category:"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-latest-blog-list-slider.php:100
+#: includes/widgets/class-wpbaw-latest-blog-list-slider2.php:101
+#: includes/widgets/class-wpbaw-latest-blog-scrolling.php:116
+#: includes/widgets/class-wpbaw-latest-blog-slider.php:104
+#: includes/widgets/class-wpbaw-latest-blog.php:89
+msgid "All"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-latest-blog-list-slider.php:112
+#: includes/widgets/class-wpbaw-latest-blog-list-slider2.php:113
+#: includes/widgets/class-wpbaw-latest-blog-scrolling.php:94
+#: includes/widgets/class-wpbaw-latest-blog-slider.php:146
+#: includes/widgets/class-wpbaw-latest-blog.php:101
+msgid "Display Date"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-latest-blog-list-slider.php:118
+#: includes/widgets/class-wpbaw-latest-blog-list-slider2.php:119
+#: includes/widgets/class-wpbaw-latest-blog-scrolling.php:100
+#: includes/widgets/class-wpbaw-latest-blog-slider.php:152
+#: includes/widgets/class-wpbaw-latest-blog.php:107
+msgid "Display Category"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-latest-blog-list-slider.php:123
+#: includes/widgets/class-wpbaw-latest-blog-list-slider2.php:124
+msgid "Blog Slider Setting:"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-latest-blog-list-slider.php:126
+msgid "Check this box to Display blog in Slider View."
+msgstr ""
+
+#: includes/widgets/class-wpbaw-latest-blog-list-slider.php:127
+msgid "By default blog Display in List View."
+msgstr ""
+
+#: includes/widgets/class-wpbaw-latest-blog-list-slider.php:132
+#: includes/widgets/class-wpbaw-latest-blog-list-slider2.php:132
+msgid "Dots:"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-latest-blog-list-slider.php:141
+#: includes/widgets/class-wpbaw-latest-blog-list-slider2.php:141
+#: includes/widgets/class-wpbaw-latest-blog-slider.php:124
+msgid "Auto Play:"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-latest-blog-list-slider.php:150
+#: includes/widgets/class-wpbaw-latest-blog-list-slider2.php:150
+#: includes/widgets/class-wpbaw-latest-blog-slider.php:133
+msgid "Autoplay Interval:"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-latest-blog-list-slider.php:156
+#: includes/widgets/class-wpbaw-latest-blog-list-slider2.php:156
+#: includes/widgets/class-wpbaw-latest-blog-scrolling.php:139
+#: includes/widgets/class-wpbaw-latest-blog-slider.php:139
+msgid "Speed:"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-latest-blog-list-slider.php:256
+#: includes/widgets/class-wpbaw-latest-blog-list-slider2.php:259
+#: includes/widgets/class-wpbaw-latest-blog-slider.php:251
+msgid "Post Image"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-latest-blog-list-slider2.php:31
+#: includes/widgets/class-wpbaw-latest-blog-list-slider2.php:172
+msgid "Latest Blog List/Slider 2"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-latest-blog-list-slider2.php:127
+msgid ""
+"<b>Check this box to Display blog in Slider View.</b> <br /><em>By default "
+"blog Display in List View</em>"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-latest-blog-scrolling.php:29
+msgid "Display Latest Blog items from the blog with vertical slider."
+msgstr ""
+
+#: includes/widgets/class-wpbaw-latest-blog-scrolling.php:30
+msgid "Latest Blog Scrolling Widget"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-latest-blog-scrolling.php:106
+msgid ""
+"<strong>Check this box to display Thumbnail in left side<br /></strong><em>"
+"By default display without Thumbnail </em>"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-latest-blog-scrolling.php:127
+msgid "Height:"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-latest-blog-scrolling.php:133
+msgid "Pause:"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-latest-blog-scrolling.php:155
+#: includes/widgets/class-wpbaw-latest-blog-slider.php:36
+#: includes/widgets/class-wpbaw-latest-blog-slider.php:167
+msgid "Latest Blog Slider Widget"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-latest-blog-slider.php:35
+msgid "Display Latest Blog Items with slider."
+msgstr ""
+
+#: includes/widgets/class-wpbaw-latest-blog-slider.php:115
+msgid "Arrows:"
+msgstr ""
+
+#: includes/widgets/class-wpbaw-latest-blog.php:28
+msgid "Display Latest Blog Items from the Blog in a sidebar."
+msgstr ""
+
+#: includes/widgets/class-wpbaw-latest-blog.php:29
+#: includes/widgets/class-wpbaw-latest-blog.php:125
+msgid "Latest Blog Widget"
+msgstr ""
+
+#: includes/admin/metabox/wpbaw-post-sett-metabox.php:25
+msgid "Read More Link"
+msgstr ""
+
+#: includes/admin/metabox/wpbaw-post-sett-metabox.php:29
+msgid ""
+"If you have different URL then enter read more link for post or Leave empty "
+"for current post URL."
+msgstr ""
+
+#: includes/admin/settings/wpbaw-settings.php:15
+msgid "WP Blog and Widgets Pro Settings"
+msgstr ""
+
+#: includes/admin/settings/wpbaw-settings.php:22
+msgid "Your changes saved successfully."
+msgstr ""
+
+#: includes/admin/settings/wpbaw-settings.php:44
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin/settings/wpbaw-settings.php:53
+msgid "Default Featured Image"
+msgstr ""
+
+#: includes/admin/settings/wpbaw-settings.php:57
+msgid "Upload Image"
+msgstr ""
+
+#: includes/admin/settings/wpbaw-settings.php:57
+msgid "Choose Logo"
+msgstr ""
+
+#: includes/admin/settings/wpbaw-settings.php:57
+msgid "Insert Logo"
+msgstr ""
+
+#: includes/admin/settings/wpbaw-settings.php:57
+msgid "Clear"
+msgstr ""
+
+#: includes/admin/settings/wpbaw-settings.php:58
+msgid ""
+"Upload default featured image or provide an external URL of image. If your "
+"post does not have featured image then this will be displayed instead of "
+"grey blank box."
+msgstr ""
+
+#: includes/admin/settings/wpbaw-settings.php:70
+#: includes/admin/settings/wpbaw-settings.php:111
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin/settings/wpbaw-settings.php:93
+msgid "Custom CSS Settings"
+msgstr ""
+
+#: includes/admin/settings/wpbaw-settings.php:102
+msgid "Custom Css"
+msgstr ""
+
+#: includes/admin/settings/wpbaw-settings.php:106
+msgid "Enter custom CSS to override plugin CSS."
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Blog and Widgets Pro"
+msgstr ""
+
+#. Description of the plugin
+msgid "Display Blog on your website with PRO designs."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.wponlinesupport.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP Online Support"
+msgstr ""

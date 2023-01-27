@@ -1,0 +1,886 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP News and Five Widgets Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Tue Aug 16 2016 10:40:23 GMT+0530 (IST)\n"
+"PO-Revision-Date: Tue Aug 16 2016 10:45:00 GMT+0530 (IST)\n"
+"Last-Translator: plugin <janak@sptechnolab.com>\n"
+"Language-Team: \n"
+"Language: Czech\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: cs_CZ\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "WP News and Five Widgets Pro"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A simple PRO News and Five widgets plugin. Display News posts with various "
+"designs."
+msgstr ""
+
+#. Author of the plugin
+msgid "WP Online Support"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.wponlinesupport.com"
+msgstr ""
+
+#: ../EDD_SL_Plugin_Updater.php:181
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" "
+"class=\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
+
+#: ../EDD_SL_Plugin_Updater.php:188
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" "
+"class=\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a "
+"href=\"%4$s\">update now</a>."
+msgstr ""
+
+#: ../EDD_SL_Plugin_Updater.php:326
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: ../EDD_SL_Plugin_Updater.php:326
+msgid "Error"
+msgstr ""
+
+#: ../edd-news-plugin.php:10
+msgid "News Plugin License"
+msgstr ""
+
+#: ../edd-news-plugin.php:10
+msgid "Plugin License"
+msgstr ""
+
+#: ../edd-news-plugin.php:19
+msgid "News Plugin License Options"
+msgstr ""
+
+#: ../edd-news-plugin.php:28
+msgid "License Key"
+msgstr ""
+
+#: ../edd-news-plugin.php:32
+msgid "Enter your license key"
+msgstr ""
+
+#: ../edd-news-plugin.php:38 ../edd-news-plugin.php:47
+msgid "Activate License"
+msgstr ""
+
+#: ../edd-news-plugin.php:42
+msgid "active"
+msgstr ""
+
+#: ../edd-news-plugin.php:44
+msgid "Deactivate License"
+msgstr ""
+
+#: ../includes/wpnw-post-types.php:22 ../includes/wpnw-post-types.php:23
+msgid "News"
+msgstr "Zprávy"
+
+#: ../includes/wpnw-post-types.php:24
+msgid "Add News Item"
+msgstr "Přidat novinka"
+
+#: ../includes/wpnw-post-types.php:25
+msgid "Add New News Item"
+msgstr ""
+
+#: ../includes/wpnw-post-types.php:26
+msgid "Edit News Item"
+msgstr ""
+
+#: ../includes/wpnw-post-types.php:27
+msgid "New News Item"
+msgstr ""
+
+#: ../includes/wpnw-post-types.php:28
+msgid "View News Item"
+msgstr ""
+
+#: ../includes/wpnw-post-types.php:29
+msgid "Search  News Items"
+msgstr ""
+
+#: ../includes/wpnw-post-types.php:30
+msgid "No News Items found"
+msgstr ""
+
+#: ../includes/wpnw-post-types.php:31
+msgid "No  News Items found in Trash"
+msgstr ""
+
+#: ../includes/wpnw-post-types.php:34
+msgid "News Pro"
+msgstr "Zprávy pro"
+
+#: ../includes/wpnw-post-types.php:74 ../includes/wpnw-post-types.php:75
+msgid "Category"
+msgstr "Kategorie"
+
+#: ../includes/wpnw-post-types.php:76
+msgid "Search Category"
+msgstr ""
+
+#: ../includes/wpnw-post-types.php:77
+msgid "All Category"
+msgstr ""
+
+#: ../includes/wpnw-post-types.php:78
+msgid "Parent Category"
+msgstr ""
+
+#: ../includes/wpnw-post-types.php:79
+msgid "Parent Category:"
+msgstr ""
+
+#: ../includes/wpnw-post-types.php:80
+msgid "Edit Category"
+msgstr ""
+
+#: ../includes/wpnw-post-types.php:81
+msgid "Update Category"
+msgstr ""
+
+#: ../includes/wpnw-post-types.php:82
+msgid "Add New Category"
+msgstr ""
+
+#: ../includes/wpnw-post-types.php:83
+msgid "New Category Name"
+msgstr ""
+
+#: ../includes/wpnw-post-types.php:84
+msgid "News Category"
+msgstr "Zprávy Kategorie"
+
+#: ../includes/wpnw-post-types.php:115
+#, php-format
+msgid "News updated. <a href=\"%s\">View News</a>"
+msgstr ""
+
+#: ../includes/wpnw-post-types.php:116
+msgid "Custom field updated."
+msgstr ""
+
+#: ../includes/wpnw-post-types.php:117
+msgid "Custom field deleted."
+msgstr ""
+
+#: ../includes/wpnw-post-types.php:118
+msgid "News updated."
+msgstr ""
+
+#: ../includes/wpnw-post-types.php:119
+#, php-format
+msgid "News restored to revision from %s"
+msgstr ""
+
+#: ../includes/wpnw-post-types.php:120
+#, php-format
+msgid "News published. <a href=\"%s\">View News</a>"
+msgstr ""
+
+#: ../includes/wpnw-post-types.php:121
+msgid "News saved."
+msgstr ""
+
+#: ../includes/wpnw-post-types.php:122
+#, php-format
+msgid "News submitted. <a target=\"_blank\" href=\"%s\">Preview News</a>"
+msgstr ""
+
+#: ../includes/wpnw-post-types.php:123
+#, php-format
+msgid ""
+"News scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview News</a>"
+msgstr ""
+
+#: ../includes/wpnw-post-types.php:124
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ../includes/wpnw-post-types.php:125
+#, php-format
+msgid "News draft updated. <a target=\"_blank\" href=\"%s\">Preview News</a>"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:221
+msgid "Design 16"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:222
+msgid "Design 17"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:223
+msgid "Design 18"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:224
+msgid "Design 19"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:225
+msgid "Design 20"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:226
+msgid "Design 21"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:227
+msgid "Design 22"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:228
+msgid "Design 23"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:229
+msgid "Design 24"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:230
+msgid "Design 25"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:231
+msgid "Design 26"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:232
+msgid "Design 27"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:233
+msgid "Design 28"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:234
+msgid "Design 29"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:235
+msgid "Design 30"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:236
+msgid "Design 31"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:237
+msgid "Design 34"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:238
+msgid "Design 35"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:239
+msgid "Design 36"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:240
+msgid "Design 37"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:241
+msgid "Design 44"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:242
+msgid "Design 45"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:243
+msgid "Design 46"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:244
+msgid "Design 47"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:245
+msgid "Design 48"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:246
+msgid "Design 49"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:247
+msgid "Design 50"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:260
+msgid "Design 1"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:261
+msgid "Design 2"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:262
+msgid "Design 3"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:263
+msgid "Design 4"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:264
+msgid "Design 5"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:265
+msgid "Design 6"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:266
+msgid "Design 7"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:267
+msgid "Design 8"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:268
+msgid "Design 9"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:269
+msgid "Design 10"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:270
+msgid "Design 11"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:271
+msgid "Design 12"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:272
+msgid "Design 13"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:273
+msgid "Design 14"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:274
+msgid "Design 15"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:275
+msgid "Design 32"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:276
+msgid "Design 33"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:277
+msgid "Design 38"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:278
+msgid "Design 39"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:279
+msgid "Design 40"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:280
+msgid "Design 41"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:281
+msgid "Design 42"
+msgstr ""
+
+#: ../includes/wpnw-functions.php:282
+msgid "Design 43"
+msgstr ""
+
+#: ../includes/shortcode/wpnw-news-slider-shortcode.php:53 ..
+#: /includes/shortcode/wpnw-news-shortcode.php:64
+msgid "Read More"
+msgstr ""
+
+#: ../includes/shortcode/wpnw-news-shortcode.php:201
+msgid "Next >>"
+msgstr ""
+
+#: ../includes/shortcode/wpnw-news-shortcode.php:202
+msgid "<< Previous"
+msgstr ""
+
+#: ../includes/admin/class-wpnw-admin.php:68
+msgid "News Settings"
+msgstr ""
+
+#: ../includes/admin/class-wpnw-admin.php:113 ../includes/admin/class-wpnw-admin.
+#: php:113
+msgid "Settings"
+msgstr ""
+
+#: ../includes/admin/class-wpnw-admin.php:165
+msgid "All Categories"
+msgstr ""
+
+#: ../includes/admin/class-wpnw-admin.php:188
+msgid "News Category Shortcode"
+msgstr ""
+
+#: ../includes/admin/class-wpnw-admin.php:225
+msgid "Sort News"
+msgstr ""
+
+#: ../includes/admin/class-wpnw-admin.php:253
+msgid "Order"
+msgstr ""
+
+#: ../includes/admin/class-wpnw-admin.php:293
+msgid "Save Sort Order"
+msgstr ""
+
+#: ../includes/admin/class-wpnw-admin.php:309
+msgid "Sorry, Something happened wrong."
+msgstr ""
+
+#: ../includes/admin/class-wpnw-admin.php:336
+msgid "News order saved successfully."
+msgstr ""
+
+#: ../includes/admin/class-wpnw-admin.php:355
+msgid "View Documentation"
+msgstr ""
+
+#: ../includes/admin/class-wpnw-admin.php:355
+msgid "Docs"
+msgstr ""
+
+#: ../includes/admin/class-wpnw-admin.php:356
+msgid "Visit Customer Support Forum"
+msgstr ""
+
+#: ../includes/admin/class-wpnw-admin.php:356
+msgid "Support"
+msgstr ""
+
+#: ../includes/admin/class-wpnw-admin.php:373
+msgid "Activate Plugin License"
+msgstr ""
+
+#: ../includes/admin/class-wpnw-admin.php:373
+msgid "License"
+msgstr ""
+
+#: ../includes/admin/wpnw-pro-plugin-designs.php:16 ../includes/admin/wpnw-pro-
+#: plugin-designs.php:16
+msgid "News Designs"
+msgstr ""
+
+#: ../includes/admin/wpnw-pro-plugin-designs.php:28
+msgid "Plugin Designs"
+msgstr ""
+
+#: ../includes/admin/wpnw-pro-plugin-designs.php:29
+msgid "Our Plugins"
+msgstr ""
+
+#: ../includes/admin/wpnw-pro-plugin-designs.php:98
+msgid ""
+"There was an error retrieving the data from the server. Please try again "
+"later."
+msgstr ""
+
+#: ../includes/admin/metabox/wpnw-post-sett-metabox.php:25
+msgid "Read More Link"
+msgstr ""
+
+#: ../includes/admin/metabox/wpnw-post-sett-metabox.php:29
+msgid ""
+"If you have different URL then enter read more link for post or Leave empty "
+"for current post URL. e.g http://www.google.co.in"
+msgstr ""
+
+#: ../includes/admin/settings/wpnw-settings.php:15
+msgid "WP News and Five Widgets Settings"
+msgstr ""
+
+#: ../includes/admin/settings/wpnw-settings.php:21
+msgid "Your changes saved successfully."
+msgstr ""
+
+#: ../includes/admin/settings/wpnw-settings.php:43
+msgid "General Settings"
+msgstr ""
+
+#: ../includes/admin/settings/wpnw-settings.php:52
+msgid "Default Featured Image"
+msgstr ""
+
+#: ../includes/admin/settings/wpnw-settings.php:56
+msgid "Upload Image"
+msgstr ""
+
+#: ../includes/admin/settings/wpnw-settings.php:56
+msgid "Choose Logo"
+msgstr ""
+
+#: ../includes/admin/settings/wpnw-settings.php:56
+msgid "Insert Logo"
+msgstr ""
+
+#: ../includes/admin/settings/wpnw-settings.php:56
+msgid "Clear"
+msgstr ""
+
+#: ../includes/admin/settings/wpnw-settings.php:57
+msgid ""
+"Upload default featured image or provide an external URL of image. If your "
+"post does not have featured image then this will be displayed instead of "
+"blank grey box."
+msgstr ""
+
+#: ../includes/admin/settings/wpnw-settings.php:69 ..
+#: /includes/admin/settings/wpnw-settings.php:110
+msgid "Save Changes"
+msgstr ""
+
+#: ../includes/admin/settings/wpnw-settings.php:92
+msgid "Custom CSS Settings"
+msgstr ""
+
+#: ../includes/admin/settings/wpnw-settings.php:101
+msgid "Custom Css"
+msgstr ""
+
+#: ../includes/admin/settings/wpnw-settings.php:105
+msgid "Enter custom CSS to override plugin CSS."
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-archive.php:34
+msgid "Display archive of your News Posts."
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-archive.php:36
+msgid "News Archives"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-archive.php:70
+msgid "Archives"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-archive.php:102
+msgid "Select Year"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-archive.php:105
+msgid "Select Month"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-archive.php:108
+msgid "Select Day"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-archive.php:111
+msgid "Select Week"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-archive.php:114
+msgid "Select Post"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-archive.php:170 ../includes/widgets/class-wpnw-
+#: latest-news.php:76 ../includes/widgets/class-wpnw-cat-widget.php:151 ..
+#: /includes/widgets/class-wpnw-latest-news-slider.php:84 ..
+#: /includes/widgets/class-wpnw-latest-news-list-slider.php:85 ..
+#: /includes/widgets/class-wpnw-latest-news-list-slider2.php:86 ..
+#: /includes/widgets/class-wpnw-latest-news-scrolling.php:84
+msgid "Title:"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-archive.php:176
+msgid "Archive Type:"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-archive.php:178
+msgid "Yearly"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-archive.php:179
+msgid "Monthly"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-archive.php:180
+msgid "Daily"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-archive.php:181
+msgid "Weekly"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-archive.php:187
+msgid "Order:"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-archive.php:189
+msgid "DESC"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-archive.php:190
+msgid "ASC"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-archive.php:196
+msgid "Limit:"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-archive.php:201 ../includes/widgets/class-wpnw-
+#: cat-widget.php:155
+msgid "Display as dropdown"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-archive.php:203 ../includes/widgets/class-wpnw-
+#: cat-widget.php:158
+msgid "Show post counts"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news.php:29
+msgid "Display Latest News Items from the News  in a sidebar."
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news.php:30 ../includes/widgets/class-
+#: wpnw-latest-news.php:141
+msgid "Latest News Widget"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news.php:82 ../includes/widgets/class-
+#: wpnw-latest-news-slider.php:106 ../includes/widgets/class-wpnw-latest-news-
+#: list-slider.php:107 ../includes/widgets/class-wpnw-latest-news-list-slider2.
+#: php:108 ../includes/widgets/class-wpnw-latest-news-scrolling.php:106
+msgid "Number of Items:"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news.php:88 ../includes/widgets/class-
+#: wpnw-latest-news-slider.php:90 ../includes/widgets/class-wpnw-latest-news-list-
+#: slider.php:91 ../includes/widgets/class-wpnw-latest-news-list-slider2.php:92 ..
+#: /includes/widgets/class-wpnw-latest-news-scrolling.php:90
+msgid "Category:"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news.php:93 ../includes/widgets/class-
+#: wpnw-latest-news-slider.php:95 ../includes/widgets/class-wpnw-latest-news-list-
+#: slider.php:96 ../includes/widgets/class-wpnw-latest-news-list-slider2.php:97 ..
+#: /includes/widgets/class-wpnw-latest-news-scrolling.php:95
+msgid "All"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news.php:104 ../includes/widgets/class-
+#: wpnw-latest-news-slider.php:112 ../includes/widgets/class-wpnw-latest-news-
+#: list-slider.php:113 ../includes/widgets/class-wpnw-latest-news-list-slider2.
+#: php:114 ../includes/widgets/class-wpnw-latest-news-scrolling.php:112
+msgid "Query Offset:"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news.php:106 ../includes/widgets/class-
+#: wpnw-latest-news-slider.php:114 ../includes/widgets/class-wpnw-latest-news-
+#: list-slider.php:115 ../includes/widgets/class-wpnw-latest-news-list-slider2.
+#: php:116 ../includes/widgets/class-wpnw-latest-news-scrolling.php:114
+msgid "Query `offset` parameter to exclude number of post. Leave empty for default."
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news.php:107 ../includes/widgets/class-
+#: wpnw-latest-news-slider.php:115 ../includes/widgets/class-wpnw-latest-news-
+#: list-slider.php:116 ../includes/widgets/class-wpnw-latest-news-list-slider2.
+#: php:117 ../includes/widgets/class-wpnw-latest-news-scrolling.php:115
+msgid "Note: This parameter will not work when Number of Items is set to -1."
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news.php:113 ../includes/widgets/class-
+#: wpnw-latest-news-slider.php:121 ../includes/widgets/class-wpnw-latest-news-
+#: list-slider.php:122 ../includes/widgets/class-wpnw-latest-news-list-slider2.
+#: php:123 ../includes/widgets/class-wpnw-latest-news-scrolling.php:121
+msgid "Display Date"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news.php:119 ../includes/widgets/class-
+#: wpnw-latest-news-slider.php:127 ../includes/widgets/class-wpnw-latest-news-
+#: list-slider.php:128 ../includes/widgets/class-wpnw-latest-news-list-slider2.
+#: php:129 ../includes/widgets/class-wpnw-latest-news-scrolling.php:127
+msgid "Display Category"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news.php:125 ../includes/widgets/class-
+#: wpnw-latest-news-slider.php:133 ../includes/widgets/class-wpnw-latest-news-
+#: list-slider.php:134 ../includes/widgets/class-wpnw-latest-news-list-slider2.
+#: php:135 ../includes/widgets/class-wpnw-latest-news-scrolling.php:139
+msgid "Open Link in a New Tab"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-cat-widget.php:31
+msgid "A list or dropdown of news categories."
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-cat-widget.php:32 ../includes/widgets/class-
+#: wpnw-cat-widget.php:45
+msgid "News Categories"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-cat-widget.php:69
+msgid "Select Category"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-cat-widget.php:161
+msgid "Show hierarchy"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news-slider.php:29
+msgid "Display Latest News Items with slider."
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news-slider.php:30
+msgid "Latest News Slider Widget"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news-slider.php:138
+msgid "Arrows:"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news-slider.php:140 ..
+#: /includes/widgets/class-wpnw-latest-news-slider.php:149 ..
+#: /includes/widgets/class-wpnw-latest-news-list-slider.php:150 ..
+#: /includes/widgets/class-wpnw-latest-news-list-slider.php:159 ..
+#: /includes/widgets/class-wpnw-latest-news-list-slider2.php:151 ..
+#: /includes/widgets/class-wpnw-latest-news-list-slider2.php:160
+msgid "True"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news-slider.php:141 ..
+#: /includes/widgets/class-wpnw-latest-news-slider.php:150 ..
+#: /includes/widgets/class-wpnw-latest-news-list-slider.php:151 ..
+#: /includes/widgets/class-wpnw-latest-news-list-slider.php:160 ..
+#: /includes/widgets/class-wpnw-latest-news-list-slider2.php:152 ..
+#: /includes/widgets/class-wpnw-latest-news-list-slider2.php:161
+msgid "False"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news-slider.php:147 ..
+#: /includes/widgets/class-wpnw-latest-news-list-slider.php:157 ..
+#: /includes/widgets/class-wpnw-latest-news-list-slider2.php:158
+msgid "Auto Play:"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news-slider.php:156 ..
+#: /includes/widgets/class-wpnw-latest-news-list-slider.php:166 ..
+#: /includes/widgets/class-wpnw-latest-news-list-slider2.php:167
+msgid "Autoplay Interval:"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news-slider.php:162 ..
+#: /includes/widgets/class-wpnw-latest-news-list-slider.php:172 ..
+#: /includes/widgets/class-wpnw-latest-news-list-slider2.php:173 ..
+#: /includes/widgets/class-wpnw-latest-news-scrolling.php:156
+msgid "Speed:"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news-slider.php:178 ..
+#: /includes/widgets/class-wpnw-latest-news-list-slider.php:30 ..
+#: /includes/widgets/class-wpnw-latest-news-list-slider.php:188 ..
+#: /includes/widgets/class-wpnw-latest-news-scrolling.php:172
+msgid "Latest News List/Slider 1"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news-list-slider.php:29 ..
+#: /includes/widgets/class-wpnw-latest-news-list-slider2.php:29
+msgid "Display Latest News Items in list view OR in Slider."
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news-list-slider.php:139 ..
+#: /includes/widgets/class-wpnw-latest-news-list-slider2.php:140
+msgid "News Slider Setting:"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news-list-slider.php:142 ..
+#: /includes/widgets/class-wpnw-latest-news-list-slider2.php:143
+msgid "Check this box to Display News in Slider View."
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news-list-slider.php:143 ..
+#: /includes/widgets/class-wpnw-latest-news-list-slider2.php:144
+msgid "By default News Display in List View"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news-list-slider.php:148 ..
+#: /includes/widgets/class-wpnw-latest-news-list-slider2.php:149
+msgid "Dots:"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news-list-slider2.php:30 ..
+#: /includes/widgets/class-wpnw-latest-news-list-slider2.php:189
+msgid "Latest News List/Slider 2"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news-scrolling.php:29
+msgid "Display Latest News Items from the News in a sidebar."
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news-scrolling.php:30
+msgid "Latest News Scrolling Widget"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news-scrolling.php:133
+msgid "Display Thumbnail in left side"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news-scrolling.php:144
+msgid "Height:"
+msgstr ""
+
+#: ../includes/widgets/class-wpnw-latest-news-scrolling.php:150
+msgid "Pause:"
+msgstr ""
+
+#: ../templates/design-37.php:21 ../templates/design-17.php:21 ..
+#: /templates/design-19.php:20 ../templates/design-21.php:22 ../templates/design-
+#: 23.php:7 ../templates/design-32.php:8 ../templates/design-26.php:8 ..
+#: /templates/design-18.php:20 ../templates/design-20.php:21 ../templates/design-
+#: 7.php:7 ../templates/design-34.php:21 ../templates/design-10.php:8 ..
+#: /templates/design-8.php:7 ../templates/design-27.php:8 ../templates/design-24.
+#: php:11 ../templates/design-24.php:98 ../templates/design-9.php:7 ..
+#: /templates/design-36.php:28 ../templates/design-12.php:7 ../templates/design-
+#: 35.php:20 ../templates/design-30.php:23 ../templates/design-30.php:94 ..
+#: /templates/design-31.php:6 ../templates/design-31.php:43 ../templates/design-
+#: 28.php:10 ../templates/design-33.php:7 ../templates/design-16.php:21 ..
+#: /templates/design-22.php:20 ../templates/design-25.php:20 ../templates/design-
+#: 6.php:6 ../templates/design-29.php:8 ../templates/design-29.php:54
+msgid "Post Image"
+msgstr ""

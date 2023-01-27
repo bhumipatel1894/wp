@@ -1,0 +1,7 @@
+.iscwp-settings-form-general-sett-tbl td b{float:left;}
+.iscwp-ajax-btn-wrap input.iscwp-crl-cache{float:left;}
+.iscwp-ajax-btn-wrap span.spinner{float: left;}
+.iscwp-cache-user{max-height:300px;overflow-y:auto;}
+.iscwp-msg-wrap{position: fixed; max-width:300px; width: 100%; box-sizing: border-box; right:0; left:0; bottom: 0px; margin:auto; background-color:#5cb85c; color:#fff; border-radius:3px; font-weight:600; padding: 10px 10px; text-align: left; z-index:22; text-align: center;}
+.iscwp-msg-err{background-color: #d9534f;}
+.iscwp-user-hide{display:none;}

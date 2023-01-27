@@ -1,0 +1,1500 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Logo Showcase Responsive Slider Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-11 13:43+0000\n"
+"PO-Revision-Date: 2016-11-11 13:43+0000\n"
+"Last-Translator: admin <pratikjain@sptechnolab.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: en_US\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: includes/wpls-functions.php:179 includes/admin/class-wpls-vc.php:84
+#: includes/admin/class-wpls-vc.php:327 includes/admin/class-wpls-vc.php:672
+msgid "Original"
+msgstr ""
+
+#: includes/wpls-functions.php:180 includes/admin/class-wpls-vc.php:85
+#: includes/admin/class-wpls-vc.php:328 includes/admin/class-wpls-vc.php:673
+msgid "Large"
+msgstr ""
+
+#: includes/wpls-functions.php:181 includes/admin/class-wpls-vc.php:86
+#: includes/admin/class-wpls-vc.php:329 includes/admin/class-wpls-vc.php:674
+msgid "Medium"
+msgstr ""
+
+#: includes/wpls-functions.php:182 includes/admin/class-wpls-vc.php:87
+#: includes/admin/class-wpls-vc.php:330 includes/admin/class-wpls-vc.php:675
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/wpls-functions.php:263
+msgid "Design 1"
+msgstr ""
+
+#: includes/wpls-functions.php:267
+msgid "Design 2"
+msgstr ""
+
+#: includes/wpls-functions.php:271
+msgid "Design 3"
+msgstr ""
+
+#: includes/wpls-functions.php:275
+msgid "Design 4"
+msgstr ""
+
+#: includes/wpls-functions.php:279
+msgid "Design 5"
+msgstr ""
+
+#: includes/wpls-functions.php:283
+msgid "Design 6"
+msgstr ""
+
+#: includes/wpls-functions.php:287
+msgid "Design 7"
+msgstr ""
+
+#: includes/wpls-functions.php:291
+msgid "Design 8"
+msgstr ""
+
+#: includes/wpls-functions.php:295
+msgid "Design 9"
+msgstr ""
+
+#: includes/wpls-functions.php:299
+msgid "Design 10"
+msgstr ""
+
+#: includes/wpls-functions.php:303
+msgid "Design 11"
+msgstr ""
+
+#: includes/wpls-functions.php:307
+msgid "Design 12"
+msgstr ""
+
+#: includes/wpls-functions.php:311
+msgid "Design 13"
+msgstr ""
+
+#: includes/wpls-functions.php:315
+msgid "Design 14"
+msgstr ""
+
+#: includes/wpls-functions.php:319
+msgid "Design 15"
+msgstr ""
+
+#: includes/wpls-functions.php:323
+msgid "Design 16"
+msgstr ""
+
+#: includes/wpls-post-types.php:21 includes/wpls-post-types.php:22
+#: includes/wpls-post-types.php:33
+#: includes/widgets/class-wpls-logo-grid-widget.php:298
+msgid "Logo Showcase"
+msgstr ""
+
+#: includes/wpls-post-types.php:23
+msgid "Add New"
+msgstr ""
+
+#: includes/wpls-post-types.php:24
+msgid "Add New Logo Showcase"
+msgstr ""
+
+#: includes/wpls-post-types.php:25
+msgid "Edit Logo Showcase"
+msgstr ""
+
+#: includes/wpls-post-types.php:26
+msgid "New Logo Showcase"
+msgstr ""
+
+#: includes/wpls-post-types.php:27
+msgid "All Logo Showcase"
+msgstr ""
+
+#: includes/wpls-post-types.php:28
+msgid "View Logo Showcase"
+msgstr ""
+
+#: includes/wpls-post-types.php:29
+msgid "Search Logo Showcase"
+msgstr ""
+
+#: includes/wpls-post-types.php:30
+msgid "No Logo Showcase found"
+msgstr ""
+
+#: includes/wpls-post-types.php:31
+msgid "No Logo Showcase found in Trash"
+msgstr ""
+
+#: includes/wpls-post-types.php:34 templates/design-1.php:19
+#: templates/design-1.php:24 templates/design-4.php:21
+#: templates/design-4.php:26
+msgid "Logo Image"
+msgstr ""
+
+#: includes/wpls-post-types.php:35
+msgid "Set Logo Image"
+msgstr ""
+
+#: includes/wpls-post-types.php:36
+msgid "Remove logo image"
+msgstr ""
+
+#: includes/wpls-post-types.php:37
+msgid "Use as logo image"
+msgstr ""
+
+#: includes/wpls-post-types.php:68 includes/wpls-post-types.php:78
+msgid "Logo Category"
+msgstr ""
+
+#: includes/wpls-post-types.php:69
+msgid "Lofo Category"
+msgstr ""
+
+#: includes/wpls-post-types.php:70
+msgid "Search Category"
+msgstr ""
+
+#: includes/wpls-post-types.php:71
+msgid "All Category"
+msgstr ""
+
+#: includes/wpls-post-types.php:72
+msgid "Parent Category"
+msgstr ""
+
+#: includes/wpls-post-types.php:73
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/wpls-post-types.php:74
+msgid "Edit Category"
+msgstr ""
+
+#: includes/wpls-post-types.php:75
+msgid "Update Category"
+msgstr ""
+
+#: includes/wpls-post-types.php:76
+msgid "Add New Category"
+msgstr ""
+
+#: includes/wpls-post-types.php:77
+msgid "New Category Name"
+msgstr ""
+
+#: includes/wpls-post-types.php:110 includes/wpls-post-types.php:113
+msgid "Logo Showcase updated."
+msgstr ""
+
+#: includes/wpls-post-types.php:111
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/wpls-post-types.php:112
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/wpls-post-types.php:114
+#, php-format
+msgid "Logo Showcase restored to revision from %s"
+msgstr ""
+
+#: includes/wpls-post-types.php:115
+msgid "Logo Showcase published."
+msgstr ""
+
+#: includes/wpls-post-types.php:116
+msgid "Logo Showcase saved."
+msgstr ""
+
+#: includes/wpls-post-types.php:117
+msgid "Logo Showcase submitted."
+msgstr ""
+
+#: includes/wpls-post-types.php:118
+#, php-format
+msgid "Logo Showcase scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/wpls-post-types.php:120
+msgid "Logo Showcase draft updated."
+msgstr ""
+
+#: includes/admin/class-wpls-admin.php:65
+msgid "WP Logo Showcase Responsive Slider Pro - Settings"
+msgstr ""
+
+#: includes/admin/class-wpls-admin.php:113
+#: includes/admin/class-wpls-admin.php:113
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-wpls-admin.php:158
+msgid "Logo Category Shortcode"
+msgstr ""
+
+#: includes/admin/class-wpls-admin.php:189
+msgid "Image"
+msgstr ""
+
+#: includes/admin/class-wpls-admin.php:190
+msgid "Order"
+msgstr ""
+
+#: includes/admin/class-wpls-admin.php:240
+msgid "Sort Logo"
+msgstr ""
+
+#: includes/admin/class-wpls-admin.php:260
+msgid "All Categories"
+msgstr ""
+
+#: includes/admin/class-wpls-admin.php:290
+msgid "Save Sort Order"
+msgstr ""
+
+#: includes/admin/class-wpls-admin.php:306
+msgid "Sorry, Something happened wrong."
+msgstr ""
+
+#: includes/admin/class-wpls-admin.php:333
+msgid "Logo order saved successfully."
+msgstr ""
+
+#: includes/admin/class-wpls-admin.php:351
+msgid "View Documentation"
+msgstr ""
+
+#: includes/admin/class-wpls-admin.php:351
+msgid "Docs"
+msgstr ""
+
+#: includes/admin/class-wpls-admin.php:352
+msgid "Visit Customer Support Forum"
+msgstr ""
+
+#: includes/admin/class-wpls-admin.php:352
+msgid "Support"
+msgstr ""
+
+#: includes/admin/class-wpls-admin.php:369
+msgid "Activate Plugin License"
+msgstr ""
+
+#: includes/admin/class-wpls-admin.php:369
+msgid "License"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:36
+msgid "WPOS - Logo Showcase Grid"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:40 includes/admin/class-wpls-vc.php:283
+#: includes/admin/class-wpls-vc.php:628
+msgid "Content"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:41
+msgid "Display logo in a grid view."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:47 includes/admin/class-wpls-vc.php:290
+#: includes/admin/class-wpls-vc.php:635
+msgid "Title"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:50 includes/admin/class-wpls-vc.php:293
+#: includes/admin/class-wpls-vc.php:638
+msgid "Display title above logo showcase."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:55 includes/admin/class-wpls-vc.php:298
+#: includes/admin/class-wpls-vc.php:643
+#: includes/widgets/class-wpls-logo-grid-widget.php:125
+#: includes/widgets/class-wpls-logo-grid-widget.php:130
+#: includes/widgets/class-wpls-logo-slider-widget.php:143
+#: includes/widgets/class-wpls-logo-slider-widget.php:148
+msgid "Design"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:58
+msgid "Grid Design 1"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:59
+msgid "Grid Design 2"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:60
+msgid "Grid Design 3"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:61
+msgid "Grid Design 4"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:62
+msgid "Grid Design 5"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:63
+msgid "Grid Design 6"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:64
+msgid "Grid Design 7"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:65
+msgid "Grid Design 8"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:66
+msgid "Grid Design 9"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:67
+msgid "Grid Design 10"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:68
+msgid "Grid Design 11"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:69
+msgid "Grid Design 12"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:70
+msgid "Grid Design 13"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:71
+msgid "Grid Design 14"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:72
+msgid "Grid Design 15"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:73
+msgid "Grid Design 16"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:75 includes/admin/class-wpls-vc.php:318
+msgid "Choose grid design."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:81 includes/admin/class-wpls-vc.php:324
+#: includes/admin/class-wpls-vc.php:669
+msgid "Image Size"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:89 includes/admin/class-wpls-vc.php:332
+#: includes/admin/class-wpls-vc.php:677
+msgid "Choose logo image size."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:94 includes/admin/class-wpls-vc.php:337
+msgid "Animation Effect"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:112 includes/admin/class-wpls-vc.php:355
+msgid "Choose logo animation effect."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:117 includes/admin/class-wpls-vc.php:682
+msgid "Logo Columns Grid"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:120 includes/admin/class-wpls-vc.php:685
+msgid "Control logo columns. Maximum grid is up to 12."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:125 includes/admin/class-wpls-vc.php:360
+#: includes/admin/class-wpls-vc.php:690
+msgid "Link Behaviour"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:128 includes/admin/class-wpls-vc.php:363
+#: includes/admin/class-wpls-vc.php:693
+msgid "Same Window"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:129 includes/admin/class-wpls-vc.php:364
+#: includes/admin/class-wpls-vc.php:694
+msgid "New Window"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:131 includes/admin/class-wpls-vc.php:366
+#: includes/admin/class-wpls-vc.php:696
+msgid "Choose link bahaviour."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:136 includes/admin/class-wpls-vc.php:371
+#: includes/admin/class-wpls-vc.php:701
+#: includes/widgets/class-wpls-logo-grid-widget.php:185
+#: includes/widgets/class-wpls-logo-slider-widget.php:197
+msgid "Show Title"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:139 includes/admin/class-wpls-vc.php:151
+#: includes/admin/class-wpls-vc.php:243 includes/admin/class-wpls-vc.php:374
+#: includes/admin/class-wpls-vc.php:385 includes/admin/class-wpls-vc.php:478
+#: includes/admin/class-wpls-vc.php:528 includes/admin/class-wpls-vc.php:540
+#: includes/admin/class-wpls-vc.php:552 includes/admin/class-wpls-vc.php:582
+#: includes/admin/class-wpls-vc.php:594 includes/admin/class-wpls-vc.php:606
+#: includes/admin/class-wpls-vc.php:704 includes/admin/class-wpls-vc.php:715
+#: includes/admin/class-wpls-vc.php:841
+#: includes/widgets/class-wpls-logo-slider-widget.php:318
+#: includes/widgets/class-wpls-logo-slider-widget.php:328
+#: includes/widgets/class-wpls-logo-slider-widget.php:338
+#: includes/widgets/class-wpls-logo-slider-widget.php:348
+#: includes/widgets/class-wpls-logo-slider-widget.php:358
+msgid "True"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:140 includes/admin/class-wpls-vc.php:150
+#: includes/admin/class-wpls-vc.php:244 includes/admin/class-wpls-vc.php:375
+#: includes/admin/class-wpls-vc.php:386 includes/admin/class-wpls-vc.php:479
+#: includes/admin/class-wpls-vc.php:529 includes/admin/class-wpls-vc.php:541
+#: includes/admin/class-wpls-vc.php:553 includes/admin/class-wpls-vc.php:583
+#: includes/admin/class-wpls-vc.php:595 includes/admin/class-wpls-vc.php:607
+#: includes/admin/class-wpls-vc.php:705 includes/admin/class-wpls-vc.php:716
+#: includes/admin/class-wpls-vc.php:842
+#: includes/widgets/class-wpls-logo-slider-widget.php:319
+#: includes/widgets/class-wpls-logo-slider-widget.php:329
+#: includes/widgets/class-wpls-logo-slider-widget.php:339
+#: includes/widgets/class-wpls-logo-slider-widget.php:349
+#: includes/widgets/class-wpls-logo-slider-widget.php:359
+msgid "False"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:142 includes/admin/class-wpls-vc.php:377
+#: includes/admin/class-wpls-vc.php:707
+msgid "Display logo with title."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:147 includes/admin/class-wpls-vc.php:382
+#: includes/admin/class-wpls-vc.php:712
+#: includes/widgets/class-wpls-logo-grid-widget.php:191
+#: includes/widgets/class-wpls-logo-slider-widget.php:203
+msgid "Show Tooltip"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:153 includes/admin/class-wpls-vc.php:388
+#: includes/admin/class-wpls-vc.php:718
+msgid "Display tooltip."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:158 includes/admin/class-wpls-vc.php:393
+#: includes/admin/class-wpls-vc.php:723
+msgid "Content Words Limit"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:161 includes/admin/class-wpls-vc.php:396
+#: includes/admin/class-wpls-vc.php:726
+msgid "Control post content words limit."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:170 includes/admin/class-wpls-vc.php:405
+#: includes/admin/class-wpls-vc.php:735
+msgid "Content Tail"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:173 includes/admin/class-wpls-vc.php:408
+#: includes/admin/class-wpls-vc.php:738
+msgid "Display dots after the post content."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:184 includes/admin/class-wpls-vc.php:419
+#: includes/admin/class-wpls-vc.php:757
+msgid "Total items"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:187 includes/admin/class-wpls-vc.php:422
+#: includes/admin/class-wpls-vc.php:760
+msgid "Enter number of logo to be displayed. Enter -1 to display all."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:188 includes/admin/class-wpls-vc.php:205
+#: includes/admin/class-wpls-vc.php:217 includes/admin/class-wpls-vc.php:226
+#: includes/admin/class-wpls-vc.php:235 includes/admin/class-wpls-vc.php:247
+#: includes/admin/class-wpls-vc.php:256 includes/admin/class-wpls-vc.php:265
+#: includes/admin/class-wpls-vc.php:423 includes/admin/class-wpls-vc.php:440
+#: includes/admin/class-wpls-vc.php:452 includes/admin/class-wpls-vc.php:461
+#: includes/admin/class-wpls-vc.php:470 includes/admin/class-wpls-vc.php:482
+#: includes/admin/class-wpls-vc.php:491 includes/admin/class-wpls-vc.php:500
+#: includes/admin/class-wpls-vc.php:761 includes/admin/class-wpls-vc.php:778
+#: includes/admin/class-wpls-vc.php:790 includes/admin/class-wpls-vc.php:803
+#: includes/admin/class-wpls-vc.php:815 includes/admin/class-wpls-vc.php:824
+#: includes/admin/class-wpls-vc.php:833 includes/admin/class-wpls-vc.php:845
+msgid "Data Settings"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:193 includes/admin/class-wpls-vc.php:428
+msgid "Order By"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:196 includes/admin/class-wpls-vc.php:431
+#: includes/admin/class-wpls-vc.php:769
+#: includes/widgets/class-wpls-logo-grid-widget.php:225
+#: includes/widgets/class-wpls-logo-slider-widget.php:237
+msgid "Post Date"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:197 includes/admin/class-wpls-vc.php:432
+#: includes/admin/class-wpls-vc.php:770
+msgid "Post ID"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:198 includes/admin/class-wpls-vc.php:433
+#: includes/admin/class-wpls-vc.php:771
+msgid "Post Author"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:199 includes/admin/class-wpls-vc.php:434
+#: includes/admin/class-wpls-vc.php:772
+#: includes/widgets/class-wpls-logo-grid-widget.php:228
+#: includes/widgets/class-wpls-logo-slider-widget.php:240
+msgid "Post Title"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:200 includes/admin/class-wpls-vc.php:435
+#: includes/admin/class-wpls-vc.php:773
+msgid "Post Modified Date"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:201 includes/admin/class-wpls-vc.php:436
+#: includes/admin/class-wpls-vc.php:774
+#: includes/widgets/class-wpls-logo-grid-widget.php:229
+#: includes/widgets/class-wpls-logo-slider-widget.php:241
+msgid "Random"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:202 includes/admin/class-wpls-vc.php:437
+#: includes/admin/class-wpls-vc.php:775
+msgid "Menu Order"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:204 includes/admin/class-wpls-vc.php:439
+#: includes/admin/class-wpls-vc.php:777
+msgid "Select order type."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:210 includes/admin/class-wpls-vc.php:445
+msgid "Sort order"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:213 includes/admin/class-wpls-vc.php:448
+#: includes/admin/class-wpls-vc.php:786 includes/admin/class-wpls-vc.php:812
+#: includes/widgets/class-wpls-logo-grid-widget.php:239
+#: includes/widgets/class-wpls-logo-slider-widget.php:251
+msgid "Descending"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:214 includes/admin/class-wpls-vc.php:449
+#: includes/admin/class-wpls-vc.php:787 includes/admin/class-wpls-vc.php:811
+#: includes/widgets/class-wpls-logo-grid-widget.php:238
+#: includes/widgets/class-wpls-logo-slider-widget.php:250
+msgid "Ascending"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:216 includes/admin/class-wpls-vc.php:451
+#: includes/admin/class-wpls-vc.php:789
+msgid "Select sorting order."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:222 includes/admin/class-wpls-vc.php:457
+#: includes/admin/class-wpls-vc.php:820
+msgid "Category"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:225 includes/admin/class-wpls-vc.php:460
+msgid "Enter logo category id to display logo categories wise."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:231 includes/admin/class-wpls-vc.php:466
+#: includes/admin/class-wpls-vc.php:829
+msgid "Exclude Category"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:234 includes/admin/class-wpls-vc.php:469
+msgid "Exclude logo category. Works only if `Category` field is empty."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:240 includes/admin/class-wpls-vc.php:475
+#: includes/admin/class-wpls-vc.php:838
+msgid "Include Category Children"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:246 includes/admin/class-wpls-vc.php:481
+#: includes/admin/class-wpls-vc.php:844
+msgid "Include category children or not."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:252 includes/admin/class-wpls-vc.php:487
+msgid "Display Specific Post"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:255 includes/admin/class-wpls-vc.php:490
+msgid "Display specific posts."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:261 includes/admin/class-wpls-vc.php:496
+msgid "Exclude Post"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:264 includes/admin/class-wpls-vc.php:499
+msgid "Enter post id which you do not want to display."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:279
+msgid "WPOS - Logo Showcase Slider"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:284
+msgid "Display logo in a slider view."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:301
+msgid "Slider Design 1"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:302
+msgid "Slider Design 2"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:303
+msgid "Slider Design 3"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:304
+msgid "Slider Design 4"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:305
+msgid "Slider Design 5"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:306
+msgid "Slider Design 6"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:307
+msgid "Slider Design 7"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:308
+msgid "Slider Design 8"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:309
+msgid "Slider Design 9"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:310
+msgid "Slider Design 10"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:311
+msgid "Slider Design 11"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:312
+msgid "Slider Design 12"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:313
+msgid "Slider Design 13"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:314
+msgid "Slider Design 14"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:315
+msgid "Slider Design 15"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:316
+msgid "Slider Design 16"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:507 includes/admin/class-wpls-vc.php:516
+msgid "Slides Column"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:510
+msgid "Enter number of column for slider."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:511 includes/admin/class-wpls-vc.php:520
+#: includes/admin/class-wpls-vc.php:532 includes/admin/class-wpls-vc.php:544
+#: includes/admin/class-wpls-vc.php:556 includes/admin/class-wpls-vc.php:565
+#: includes/admin/class-wpls-vc.php:574 includes/admin/class-wpls-vc.php:586
+#: includes/admin/class-wpls-vc.php:598 includes/admin/class-wpls-vc.php:610
+msgid "Slider Settings"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:519
+msgid "Enter number of slide to scroll at a time."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:525
+msgid "Dots"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:531
+msgid "Show pagination dots."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:537
+msgid "Arrows"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:543
+msgid "Show Prev - Next arrows."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:549
+msgid "Autoplay"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:555
+msgid "Enable autoplay."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:561
+msgid "Autoplay Interval"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:564
+msgid "Enter autoplay speed."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:570
+msgid "Speed"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:573
+msgid "Enter slide speed."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:579
+msgid "Center Mode"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:585
+msgid ""
+"Enable center mode for slider. Note: Works well with odd number of Slides "
+"Column and Slides Scroll is set to 1."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:591
+msgid "Infinite"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:597
+msgid "Enable infinite loop sliding."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:603
+msgid "Ticker Mode"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:609
+msgid ""
+"Enable ticker mode for slider. Note: When you enable ticker mode Autoplay, "
+"Slides Scroll and Autoplay Interval are set to default."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:624
+msgid "WPOS - Logo Showcase Filter"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:629
+msgid "Display logo showcase filter view."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:646
+msgid "Filter Design 1"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:647
+msgid "Filter Design 2"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:648
+msgid "Filter Design 3"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:649
+msgid "Filter Design 4"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:650
+msgid "Filter Design 5"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:651
+msgid "Filter Design 6"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:652
+msgid "Filter Design 7"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:653
+msgid "Filter Design 8"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:654
+msgid "Filter Design 9"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:655
+msgid "Filter Design 10"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:656
+msgid "Filter Design 11"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:657
+msgid "Filter Design 12"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:658
+msgid "Filter Design 13"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:659
+msgid "Filter Design 14"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:660
+msgid "Filter Design 15"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:661
+msgid "Filter Design 16"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:663
+msgid "Choose design."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:747
+msgid "All Category Filter Text"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:749
+#: includes/shortcode/wpls-logo-filter.php:60
+msgid "All"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:750
+msgid "Control all category filter text."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:766
+msgid "Post Order By"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:783
+msgid "Post Sort order"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:795
+msgid "Category Order By"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:798
+msgid "Category Name"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:799
+msgid "Category ID"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:800
+msgid "Count"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:802
+msgid "Select category order type."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:808
+msgid "Category Sort order"
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:814
+msgid "Select category sorting order."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:823
+msgid "Enter logo category id to display only specific categories."
+msgstr ""
+
+#: includes/admin/class-wpls-vc.php:832
+msgid "Exclude logo category which you do not want to display."
+msgstr ""
+
+#: includes/admin/wpls-how-it-work.php:22
+msgid "How it works, our plugins and offers"
+msgstr ""
+
+#: includes/admin/wpls-how-it-work.php:22
+#: includes/admin/wpls-how-it-work.php:118
+msgid "How It Works"
+msgstr ""
+
+#: includes/admin/wpls-how-it-work.php:103
+msgid ""
+"There was an error retrieving the data from the server. Please try again "
+"later."
+msgstr ""
+
+#: includes/admin/wpls-how-it-work.php:121
+msgid "Our Plugins"
+msgstr ""
+
+#: includes/admin/wpls-how-it-work.php:127
+msgid "WPOS Offers"
+msgstr ""
+
+#: includes/admin/wpls-how-it-work.php:163
+msgid "How It Works - Display and shortcode"
+msgstr ""
+
+#: includes/admin/wpls-how-it-work.php:171
+msgid "Getting Started with Logo Showcase Pro"
+msgstr ""
+
+#: includes/admin/wpls-how-it-work.php:175
+msgid "Step-1. Go to \"Logo Showcase --> Add New\"."
+msgstr ""
+
+#: includes/admin/wpls-how-it-work.php:176
+msgid ""
+"Step-2. Add Logo title, logo link to redirect(if need) and logo image under "
+"featured image section."
+msgstr ""
+
+#: includes/admin/wpls-how-it-work.php:177
+msgid ""
+"Step-3. Display multiple logo showcase, create categories under \"Logo "
+"Showcase --> category\" and create categories."
+msgstr ""
+
+#: includes/admin/wpls-how-it-work.php:178
+msgid ""
+"Step-4. Assign logo showcase post to respective categories and use the "
+"category shortcode under \"Logo Showcase --> Logo Category\""
+msgstr ""
+
+#: includes/admin/wpls-how-it-work.php:185
+msgid "How Shortcode Works"
+msgstr ""
+
+#: includes/admin/wpls-how-it-work.php:189
+msgid ""
+"Step-1. Create a page like Logoshowcase OR add the shortcode in any page."
+msgstr ""
+
+#: includes/admin/wpls-how-it-work.php:190
+msgid "Step-2. Put below shortcode as per your need."
+msgstr ""
+
+#: includes/admin/wpls-how-it-work.php:197
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/admin/wpls-how-it-work.php:200
+msgid "Logo Showcase Slider Shortcode"
+msgstr ""
+
+#: includes/admin/wpls-how-it-work.php:201
+msgid "Logo Showcase Grid Shortcode"
+msgstr ""
+
+#: includes/admin/wpls-how-it-work.php:202
+msgid "Logo Showcase Filter Shortcode"
+msgstr ""
+
+#: includes/admin/wpls-how-it-work.php:203
+msgid "Logo Showcase Slider with center mode Shortcode"
+msgstr ""
+
+#: includes/admin/wpls-how-it-work.php:221
+msgid "Need Support?"
+msgstr ""
+
+#: includes/admin/wpls-how-it-work.php:224
+msgid "Check plugin document for shortcode parameters and demo for designs."
+msgstr ""
+
+#: includes/admin/wpls-how-it-work.php:225
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/wpls-how-it-work.php:226
+msgid "View PRO Designs"
+msgstr ""
+
+#: includes/admin/wpls-how-it-work.php:237
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/wpls-how-it-work.php:240
+msgid "Enjoyed this plugin? You can help by rate this plugin"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-grid-widget.php:32
+msgid "Display logos in a sidebar in grid view."
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-grid-widget.php:35
+msgid "Logo Showcase - Grid View"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-grid-widget.php:119
+#: includes/widgets/class-wpls-logo-slider-widget.php:137
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-grid-widget.php:141
+#: includes/widgets/class-wpls-logo-slider-widget.php:159
+msgid "Image Size:"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-grid-widget.php:154
+#: includes/widgets/class-wpls-logo-slider-widget.php:172
+msgid "Link Target:"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-grid-widget.php:156
+#: includes/widgets/class-wpls-logo-slider-widget.php:174
+msgid "Open in Same Window"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-grid-widget.php:157
+#: includes/widgets/class-wpls-logo-slider-widget.php:175
+msgid "Open in New Window"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-grid-widget.php:163
+#: includes/widgets/class-wpls-logo-slider-widget.php:181
+msgid "Animation Effect:"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-grid-widget.php:165
+#: includes/widgets/class-wpls-logo-slider-widget.php:183
+msgid "Select Animation Effect"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-grid-widget.php:178
+msgid "Logo Columns:"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-grid-widget.php:196
+#: includes/widgets/class-wpls-logo-slider-widget.php:208
+msgid "Category:"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-grid-widget.php:211
+#: includes/widgets/class-wpls-logo-slider-widget.php:223
+msgid "Include Category Child"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-grid-widget.php:212
+#: includes/widgets/class-wpls-logo-slider-widget.php:224
+msgid ""
+"Check this box if you want to display child category post if parent category "
+"is selected."
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-grid-widget.php:217
+#: includes/widgets/class-wpls-logo-slider-widget.php:229
+msgid "Number of Items:"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-grid-widget.php:223
+#: includes/widgets/class-wpls-logo-slider-widget.php:235
+msgid "Order By:"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-grid-widget.php:226
+#: includes/widgets/class-wpls-logo-slider-widget.php:238
+msgid "Post Updated Date"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-grid-widget.php:227
+#: includes/widgets/class-wpls-logo-slider-widget.php:239
+msgid "Post Id"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-grid-widget.php:230
+#: includes/widgets/class-wpls-logo-slider-widget.php:242
+msgid "Menu Order (Sort Order)"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-grid-widget.php:236
+#: includes/widgets/class-wpls-logo-slider-widget.php:248
+msgid "Order:"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-grid-widget.php:245
+#: includes/widgets/class-wpls-logo-slider-widget.php:257
+msgid "Content Words Limit:"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-grid-widget.php:247
+#: includes/widgets/class-wpls-logo-grid-widget.php:254
+#: includes/widgets/class-wpls-logo-slider-widget.php:259
+#: includes/widgets/class-wpls-logo-slider-widget.php:266
+msgid "Note: This parameter will work with design 4 only."
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-grid-widget.php:252
+#: includes/widgets/class-wpls-logo-slider-widget.php:264
+msgid "Content Tail:"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-grid-widget.php:259
+#: includes/widgets/class-wpls-logo-slider-widget.php:271
+msgid "Display Specific Post:"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-grid-widget.php:261
+#: includes/widgets/class-wpls-logo-slider-widget.php:273
+msgid ""
+"Enter Post id which you want to display. You can enter multiple ids with "
+"comma seperated."
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-grid-widget.php:266
+#: includes/widgets/class-wpls-logo-slider-widget.php:278
+msgid "Exclude Posts:"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-grid-widget.php:268
+#: includes/widgets/class-wpls-logo-slider-widget.php:280
+msgid ""
+"Enter Post id which you do not want to display. You can enter multiple ids "
+"with comma seperated."
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-grid-widget.php:273
+#: includes/widgets/class-wpls-logo-slider-widget.php:285
+msgid "Exclude Category:"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-grid-widget.php:283
+#: includes/widgets/class-wpls-logo-slider-widget.php:295
+msgid "Exclude category logos."
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-slider-widget.php:32
+msgid "Display logos in a slider in a sidebar."
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-slider-widget.php:35
+msgid "Logo Showcase - Slider View"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-slider-widget.php:298
+msgid "Logo Slider Setting"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-slider-widget.php:302
+msgid "Slides Column:"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-slider-widget.php:304
+msgid "Number of slides column."
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-slider-widget.php:309
+msgid "Slides Scroll:"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-slider-widget.php:311
+msgid "Number of slides to scroll at a time."
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-slider-widget.php:316
+msgid "Dots:"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-slider-widget.php:321
+msgid "Enable slider pagination dots."
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-slider-widget.php:326
+msgid "Arrows:"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-slider-widget.php:331
+msgid "Enable slider navigation arrow."
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-slider-widget.php:336
+msgid "Autoplay:"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-slider-widget.php:341
+msgid "Enable slider autoplay."
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-slider-widget.php:346
+msgid "Loop:"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-slider-widget.php:351
+#: includes/widgets/class-wpls-logo-slider-widget.php:382
+msgid "Runs the slider contineously."
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-slider-widget.php:356
+msgid "Center Mode:"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-slider-widget.php:361
+msgid ""
+"Enable center mode. Note: Works well with odd number of Slides Column and "
+"Slides Scroll is set to 1."
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-slider-widget.php:366
+msgid "Autoplay Interval:"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-slider-widget.php:368
+msgid "Slider slides interval time."
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-slider-widget.php:373
+msgid "Speed:"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-slider-widget.php:375
+msgid "Slider speed."
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-slider-widget.php:381
+msgid "Enable Ticker Mode"
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-slider-widget.php:383
+msgid ""
+"Note: When you enable ticker mode Autoplay, Slides Scroll and Autoplay "
+"Interval are set to default."
+msgstr ""
+
+#: includes/widgets/class-wpls-logo-slider-widget.php:398
+msgid "Logo Showcase Slider"
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-sett-metabox.php:26
+msgid "Logo Image URL"
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-sett-metabox.php:30
+msgid ""
+"Enter external URL of logo. If you don not want to use an image from your "
+"media gallery, you can set an URL for logo image here."
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-sett-metabox.php:36
+msgid "Logo Link"
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-sett-metabox.php:40
+msgid "Enter link url for logo. i.e https://www.wponlinesupport.com"
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:20
+msgid "WP Logo Showcase And Slider Pro Settings"
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:26
+msgid "Your changes saved successfully."
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:48
+msgid "Tooltip Settings"
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:57
+msgid "Tooltip Theme"
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:61
+msgid "Punk"
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:62
+msgid "Light"
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:63
+msgid "Borderless"
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:64
+msgid "Noir"
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:65
+msgid "Shadow"
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:67
+msgid "Select the Tooltip Style."
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:73
+msgid "Tooltip Animation"
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:77
+msgid "Fade"
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:78
+msgid "Grow"
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:79
+msgid "Swing"
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:80
+msgid "Slide"
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:81
+msgid "Fall"
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:83
+msgid "Select the Tooltip Animation."
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:89
+msgid "Tooltip Behavior"
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:93
+msgid "Hover"
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:94
+msgid "Click"
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:96
+msgid "Select when you want to show tooltip."
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:102
+msgid "Tooltip Arrow"
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:106
+msgid "Check this box if you want to show tooltip with arrow."
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:112
+msgid "Tooltip Delay"
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:116
+msgid "Enter delay time to show tooltip."
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:122
+msgid "Tooltip Distance"
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:126
+msgid "Enter distance to show your tooltip from your actual object."
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:132
+msgid "Tooltip MaxWidth"
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:136
+msgid "Enter maximum width of your tooltip."
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:142
+msgid "Tooltip MinWidth"
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:146
+msgid "Enter minimum width of your tooltip."
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:152
+#: includes/admin/settings/wpls-settings.php:192
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:174
+msgid "Custom CSS Settings"
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:183
+msgid "Custom Css"
+msgstr ""
+
+#: includes/admin/settings/wpls-settings.php:187
+msgid "Enter custom CSS to override plugin CSS."
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Logo Showcase Responsive Slider Pro"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Easy to add and display Logo Showcase Responsive Slider on your website."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wponlinesupport.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP Online Support"
+msgstr ""

@@ -1,0 +1,736 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Countdown Timer Ultimate Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-29 12:23+0000\n"
+"PO-Revision-Date: 2017-03-29 12:23+0000\n"
+"Last-Translator: admin <pratikjain@sptechnolab.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+#: wpcdt-plugin-updater.php:26 includes/wpcdt-post-types.php:21
+#: includes/wpcdt-post-types.php:22 includes/wpcdt-post-types.php:32
+msgid "Countdown Timer Ultimate Pro"
+msgstr ""
+
+#: wpcdt-plugin-updater.php:26
+msgid "Plugin License"
+msgstr ""
+
+#: wpcdt-plugin-updater.php:42
+msgid "Countdown Timer Ultimate License Options"
+msgstr ""
+
+#: wpcdt-plugin-updater.php:49 includes/admin/settings/wpcdt-settings.php:21
+msgid "Your changes saved successfully."
+msgstr ""
+
+#: wpcdt-plugin-updater.php:59
+msgid "Plugin license activated successfully"
+msgstr ""
+
+#: wpcdt-plugin-updater.php:63
+msgid "Please activate plugin license to get automatic update of plugin."
+msgstr ""
+
+#: wpcdt-plugin-updater.php:71
+msgid "License Key"
+msgstr ""
+
+#: wpcdt-plugin-updater.php:75
+msgid "Enter plugin license key."
+msgstr ""
+
+#: wpcdt-plugin-updater.php:81 wpcdt-plugin-updater.php:89
+msgid "Activate License"
+msgstr ""
+
+#: wpcdt-plugin-updater.php:86
+msgid "Deactivate License"
+msgstr ""
+
+#: wpcdt-plugin-updater.php:87
+msgid "Active"
+msgstr ""
+
+#: wpcdt-plugin-updater.php:186 wpcdt-plugin-updater.php:233
+#: wpcdt-plugin-updater.php:294
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: wpcdt-plugin-updater.php:200
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: wpcdt-plugin-updater.php:207
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: wpcdt-plugin-updater.php:212
+msgid ""
+"Plugin license is invalid. Please be sure you have entered right plugin "
+"license key."
+msgstr ""
+
+#: wpcdt-plugin-updater.php:218
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: wpcdt-plugin-updater.php:223
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: wpcdt-plugin-updater.php:228
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: wpcdt-plugin-updater.php:329
+msgid "Enter valid license key for automatic updates."
+msgstr ""
+
+#: wpcdt-plugin-updater.php:346
+msgid "Activate Plugin License"
+msgstr ""
+
+#: wpcdt-plugin-updater.php:346
+msgid "License"
+msgstr ""
+
+#: includes/wpcdt-functions.php:174
+msgid "Circle Clock"
+msgstr ""
+
+#: includes/wpcdt-functions.php:175
+msgid "Circle Style 2"
+msgstr ""
+
+#: includes/wpcdt-functions.php:176
+msgid "Rounded Clock"
+msgstr ""
+
+#: includes/wpcdt-functions.php:177
+msgid "Horizontal Flip"
+msgstr ""
+
+#: includes/wpcdt-functions.php:178
+msgid "Vertical Flip"
+msgstr ""
+
+#: includes/wpcdt-functions.php:179
+msgid "Simple Clock"
+msgstr ""
+
+#: includes/wpcdt-functions.php:180
+msgid "Simple Clock 2"
+msgstr ""
+
+#: includes/wpcdt-functions.php:181
+msgid "Simple Clock 3"
+msgstr ""
+
+#: includes/wpcdt-functions.php:182
+msgid "Simple Clock 4"
+msgstr ""
+
+#: includes/wpcdt-functions.php:183
+msgid "Modern Clock"
+msgstr ""
+
+#: includes/wpcdt-functions.php:184
+msgid "Shadow Clock"
+msgstr ""
+
+#: includes/wpcdt-functions.php:185
+msgid "Bars Clock"
+msgstr ""
+
+#: includes/wpcdt-functions.php:186
+msgid "Night Clock"
+msgstr ""
+
+#: includes/wpcdt-post-types.php:23
+msgid "Add Timer"
+msgstr ""
+
+#: includes/wpcdt-post-types.php:24
+msgid "Add New Timer"
+msgstr ""
+
+#: includes/wpcdt-post-types.php:25
+msgid "Edit Timer"
+msgstr ""
+
+#: includes/wpcdt-post-types.php:26
+msgid "New Timer"
+msgstr ""
+
+#: includes/wpcdt-post-types.php:27
+msgid "View Timer"
+msgstr ""
+
+#: includes/wpcdt-post-types.php:28
+msgid "Search Timer"
+msgstr ""
+
+#: includes/wpcdt-post-types.php:29
+msgid "No Timer Found"
+msgstr ""
+
+#: includes/wpcdt-post-types.php:30
+msgid "No Timer Found in Trash"
+msgstr ""
+
+#: includes/wpcdt-post-types.php:33
+msgid "Timer Background Image"
+msgstr ""
+
+#: includes/wpcdt-post-types.php:34
+msgid "Set Timer Background Image"
+msgstr ""
+
+#: includes/wpcdt-post-types.php:35
+msgid "Remove Timer Background Image"
+msgstr ""
+
+#: includes/wpcdt-post-types.php:36
+msgid "Use as Timer Background Image"
+msgstr ""
+
+#: includes/wpcdt-post-types.php:70 includes/wpcdt-post-types.php:73
+msgid "Timer updated."
+msgstr ""
+
+#: includes/wpcdt-post-types.php:71
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/wpcdt-post-types.php:72
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/wpcdt-post-types.php:74
+#, php-format
+msgid "Timer restored to revision from %s"
+msgstr ""
+
+#: includes/wpcdt-post-types.php:75
+msgid "Timer published."
+msgstr ""
+
+#: includes/wpcdt-post-types.php:76
+msgid "Timer saved."
+msgstr ""
+
+#: includes/wpcdt-post-types.php:77
+msgid "Timer submitted."
+msgstr ""
+
+#: includes/wpcdt-post-types.php:78
+#, php-format
+msgid "Timer scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/wpcdt-post-types.php:80
+msgid "Timer draft updated."
+msgstr ""
+
+#: includes/admin/class-wpcdt-admin.php:49
+msgid "Countdown Timer Ultimate Pro - Settings"
+msgstr ""
+
+#: includes/admin/class-wpcdt-admin.php:53
+msgid "Countdown Timer Ultimate Pro - E-commerce Settings"
+msgstr ""
+
+#: includes/admin/class-wpcdt-admin.php:241
+msgid "Shortcode"
+msgstr ""
+
+#: includes/admin/class-wpcdt-admin.php:274
+#: includes/admin/class-wpcdt-admin.php:274
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-wpcdt-admin.php:320
+msgid "View Documentation"
+msgstr ""
+
+#: includes/admin/class-wpcdt-admin.php:320
+msgid "Docs"
+msgstr ""
+
+#: includes/admin/class-wpcdt-admin.php:321
+msgid "Visit Customer Support Forum"
+msgstr ""
+
+#: includes/admin/class-wpcdt-admin.php:321
+msgid "Support"
+msgstr ""
+
+#: includes/admin/wpcdt-how-it-work.php:22
+msgid "How it works - Countdown Timer Ultimate Pro"
+msgstr ""
+
+#: includes/admin/wpcdt-how-it-work.php:22
+#: includes/admin/wpcdt-how-it-work.php:118
+msgid "How It Works"
+msgstr ""
+
+#: includes/admin/wpcdt-how-it-work.php:103
+msgid ""
+"There was an error retrieving the data from the server. Please try again "
+"later."
+msgstr ""
+
+#: includes/admin/wpcdt-how-it-work.php:121
+msgid "Our Plugins"
+msgstr ""
+
+#: includes/admin/wpcdt-how-it-work.php:127
+msgid "WPOS Offers"
+msgstr ""
+
+#: includes/admin/wpcdt-how-it-work.php:163
+msgid "How It Works - Display and Shortcode"
+msgstr ""
+
+#: includes/admin/wpcdt-how-it-work.php:171
+msgid "Getting Started with Countdown Timer Utlimate Pro"
+msgstr ""
+
+#: includes/admin/wpcdt-how-it-work.php:175
+msgid ""
+"Step-1: This plugin creates a Countdown Timer Ultimate Pro tab in WordPress "
+"menu section"
+msgstr ""
+
+#: includes/admin/wpcdt-how-it-work.php:176
+msgid "Step-2: Add Timer."
+msgstr ""
+
+#: includes/admin/wpcdt-how-it-work.php:177
+msgid "Step-3: Display timer on any Post OR Page of your website."
+msgstr ""
+
+#: includes/admin/wpcdt-how-it-work.php:184
+msgid "Plugin Shortcodes"
+msgstr ""
+
+#: includes/admin/wpcdt-how-it-work.php:187
+msgid "Countdown Timer"
+msgstr ""
+
+#: includes/admin/wpcdt-how-it-work.php:205
+msgid "Need Support?"
+msgstr ""
+
+#: includes/admin/wpcdt-how-it-work.php:208
+msgid "Check plugin document for shortcode parameters and demo for designs."
+msgstr ""
+
+#: includes/admin/wpcdt-how-it-work.php:209
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/wpcdt-how-it-work.php:210
+msgid "View PRO Demo "
+msgstr ""
+
+#: includes/admin/wpcdt-how-it-work.php:220
+msgid "Need PRO Support?"
+msgstr ""
+
+#: includes/admin/wpcdt-how-it-work.php:223
+msgid "Hire our experts for WordPress website support."
+msgstr ""
+
+#: includes/admin/wpcdt-how-it-work.php:224
+msgid "PRO Support"
+msgstr ""
+
+#: includes/admin/wpcdt-how-it-work.php:235
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/wpcdt-how-it-work.php:238
+msgid "Enjoyed this plugin? You can help by rate this plugin"
+msgstr ""
+
+#: includes/admin/wpcdt-how-it-work.php:238
+msgid "5 stars!"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-ecommerce-sett-metabox.php:21
+msgid "Integrate with E-commerce"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-ecommerce-sett-metabox.php:26
+msgid "Check this box to integrate with E-commerce Coupons."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-ecommerce-sett-metabox.php:58
+msgid "WooCommerce Coupons"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-ecommerce-sett-metabox.php:62
+#: includes/admin/metabox/wpcdt-ecommerce-sett-metabox.php:98
+msgid "Select Coupon"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-ecommerce-sett-metabox.php:67
+#: includes/admin/metabox/wpcdt-ecommerce-sett-metabox.php:103
+msgid "Select WooCommerce coupon. The expiry date will be taken from coupon."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-ecommerce-sett-metabox.php:75
+msgid "No WooCommerce Coupons Found"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-ecommerce-sett-metabox.php:94
+msgid "EDD Coupons"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-ecommerce-sett-metabox.php:110
+msgid "No EDD Coupons Found"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:146
+msgid "Choose Style"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:160
+msgid "Select countdown timer style."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:166
+msgid "Expiry Date & Time"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:170
+msgid "Select timer expiry Date and Time."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:176
+msgid "Timer Background Color"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:180
+msgid "Set countdown timer background color."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:190
+msgid "Circle Clock Settings"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:196
+msgid "Choose Animation"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:200
+msgid "Smooth"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:201
+msgid "Ticks"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:203
+msgid "Select circle animation style."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:210
+msgid "Circle Width (Foreground)"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:215
+#: includes/admin/metabox/wpcdt-sett-metabox.php:304
+msgid "Adjust circle width."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:221
+msgid "Background Width"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:226
+msgid "Adjust circle background width."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:232
+msgid "Countdown Timer Width"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:235
+msgid "Px"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:236
+msgid "Enter countdown timer width."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:242
+#: includes/admin/metabox/wpcdt-sett-metabox.php:310
+msgid "Background Color"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:246
+msgid "Please select background color."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:251
+#: includes/admin/metabox/wpcdt-sett-metabox.php:319
+msgid "Foreground Colors"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:257
+#: includes/admin/metabox/wpcdt-sett-metabox.php:326
+#: includes/admin/metabox/wpcdt-sett-metabox.php:578
+msgid "Days"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:259
+#: includes/admin/metabox/wpcdt-sett-metabox.php:328
+msgid "Select Day circle color."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:262
+#: includes/admin/metabox/wpcdt-sett-metabox.php:332
+#: includes/admin/metabox/wpcdt-sett-metabox.php:584
+msgid "Hours"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:264
+msgid "Select Hours circle color."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:270
+#: includes/admin/metabox/wpcdt-sett-metabox.php:340
+#: includes/admin/metabox/wpcdt-sett-metabox.php:592
+msgid "Minutes"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:272
+#: includes/admin/metabox/wpcdt-sett-metabox.php:342
+msgid "Select Minute circle color."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:275
+#: includes/admin/metabox/wpcdt-sett-metabox.php:345
+#: includes/admin/metabox/wpcdt-sett-metabox.php:598
+msgid "Seconds"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:277
+msgid "Select Second circle color."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:292
+msgid "Circle Style 2 Clock Settings"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:299
+msgid "Circle Width"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:314
+msgid "Select background color."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:334
+msgid "Select Hours color."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:347
+msgid "Please select second circle color."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:362
+msgid "Vertical Clock Settings"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:367
+#: includes/admin/metabox/wpcdt-sett-metabox.php:390
+msgid "Flip Background Color"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:371
+#: includes/admin/metabox/wpcdt-sett-metabox.php:394
+msgid "Select flip background color."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:383
+msgid "Horizontal Clock Settings"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:406
+msgid "Rounded Clock Settings"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:412
+msgid "Circle Border Color"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:416
+msgid "Select circle border color."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:428
+msgid "Bars Clock Settings"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:433
+msgid "Bar Background Color"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:437
+msgid "Select bar background color."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:442
+msgid "Bar Fill Color"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:446
+msgid "Select bar fill color."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:458
+msgid "Night Clock Settings"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:465
+msgid "Clock Separator Color"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:469
+#: includes/admin/metabox/wpcdt-sett-metabox.php:490
+msgid "Select clock separator color."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:481
+msgid "Modern Clock Settings"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:486
+msgid "Separator Color"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:502
+msgid "Shadow Clock Settings"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:507
+msgid "Shadow 1 Color"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:511
+msgid "Select clock shadow 1 color."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:516
+msgid "Shadow 2 Color"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:520
+msgid "Select clock shadow 2 color."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:532
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:538
+msgid "Show Timer Title"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:542
+msgid "Yes"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:543
+msgid "No"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:545
+msgid "Show Timer title or not."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:551
+msgid "Timer Label Text Color"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:555
+msgid "Select timer label color like Hours, Minutes and etc."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:561
+msgid "Timer Digit Text Color"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:565
+msgid "Select timer clock digit color."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:571
+msgid "Timer Clock Options"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:580
+msgid "Check this box to enable Days in timer and add your desired text."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:594
+msgid "Check this box to enable Minutes in timer and add your desired text."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:600
+msgid "Check this box to enable Seconds in timer and add your desired text."
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:608
+msgid "Completion Text"
+msgstr ""
+
+#: includes/admin/metabox/wpcdt-sett-metabox.php:612
+msgid "Enter completion text which will be shown after the timer is completed."
+msgstr ""
+
+#: includes/admin/settings/wpcdt-settings.php:15
+msgid "Countdown Timer Ultimate\t Pro Settings"
+msgstr ""
+
+#: includes/admin/settings/wpcdt-settings.php:42
+msgid "Custom CSS Settings"
+msgstr ""
+
+#: includes/admin/settings/wpcdt-settings.php:51
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/admin/settings/wpcdt-settings.php:55
+msgid "Enter custom CSS to override plugin CSS."
+msgstr ""
+
+#: includes/admin/settings/wpcdt-settings.php:60
+msgid "Save Changes"
+msgstr ""
+
+#. Description of the plugin
+msgid "Easy to add and display timer."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wponlinesupport.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP Online Support"
+msgstr ""

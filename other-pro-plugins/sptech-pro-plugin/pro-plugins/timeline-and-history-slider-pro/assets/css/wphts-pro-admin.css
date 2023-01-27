@@ -1,0 +1,22 @@
+.wphtsp-pro-img-view{max-width: 150px;}
+.wp-list-table .type-timeline_slider_post .row-actions{color:#999;}
+.wphtsp-pro-img-view img{
+	padding: 5px;
+	margin: 5px 0;
+	max-width: 150px;
+	border: 1px solid #ccc;
+}
+table.wphtsp-date-format-sett-tbl td label.date-format {
+    margin: .25em 0 .5em !important;
+    display: inline-block;
+}
+table.wphtsp-date-format-sett-tbl input[type="radio"] {
+    margin-top: -4px;
+    margin-right: 4px;
+    float: none;
+}
+table.wphtsp-date-format-sett-tbl td label.date-format .date-time-text {
+    display: inline-block;
+    min-width: 10em;
+}
+table.wphtsp-date-format-sett-tbl td label.date-format code{padding: 3px 5px 2px; margin: 0 1px; background: #eaeaea; background: rgba(0,0,0,.07); font-size: 13px;}

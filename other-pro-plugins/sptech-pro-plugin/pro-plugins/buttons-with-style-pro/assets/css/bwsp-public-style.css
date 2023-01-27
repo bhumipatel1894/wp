@@ -1,0 +1,305 @@
+.bws-button, .bws-button *{box-sizing:border-box;}
+.bws-button{ -moz-appearance: none; background-color: #008cba;  color: #ffffff;
+    cursor: pointer;  display: inline-block; font-size: 0.88889rem; font-weight: normal; line-height: normal;
+    position: relative; text-align: center;  text-decoration: none; transition: background-color 300ms ease-out 0s;
+    font-size: 16px;
+}
+a.bws-button{text-decoration:none !important; text-transform:uppercase;}
+.bws-button .bws-icon + .bws-btn-name{padding-left:10px;}
+
+.bws-round {border-radius: 1000px;}
+.bws-radius {border-radius: 5px;}
+.bws-shadow{box-shadow: 0 4px 2px -2px gray; -moz-box-shadow:0 4px 2px -2px gray; -webkit-box-shadow:0 4px 2px -2px gray;}
+
+/******  Button Blck *****/
+.bws-black{background-color: #252525;}
+.bws-black:hover, .bws-black:focus{background-color: #000;}
+a.bws-black{color: #fff  !important;}
+.bws-black.bws-hollow{background-color: transparent; border:2px solid #252525 !important;}
+a.bws-black.bws-hollow{color: #252525  !important;}
+a.bws-black.bws-hollow:hover, a.bws-black.bws-hollow:focus {background-color: #252525; color: #fff  !important;}
+
+/******  Button White *****/
+.bws-white{background-color: #fff;}
+.bws-white:hover, .bws-white:focus{background-color: #f1f1f1;}
+a.bws-white{color: #8799a3  !important;}
+.bws-white.bws-hollow{background-color: transparent; border:2px solid #fff !important;}
+a.bws-white.bws-hollow{color: #8799a3  !important;}
+a.bws-white.bws-hollow:hover, a.bws-white.bws-hollow:focus {background-color: #f1f1f1; color: #8799a3  !important;}
+
+/******  Button Gray *****/
+.bws-grey{background-color: #8799a3;}
+.bws-grey:hover, .bws-gray:focus{background-color: #73848d;}
+a.bws-grey{color: #fff  !important;}
+.bws-grey.bws-hollow{background-color: transparent; border:2px solid #8799a3 !important;}
+a.bws-grey.bws-hollow{color: #8799a3  !important;}
+a.bws-grey.bws-hollow:hover, a.bws-grey.bws-hollow:focus {background-color: #8799a3; color: #fff  !important;}
+
+/******  Button azure *****/
+.bws-azure{background-color: #0081ff;}
+.bws-azure:hover, .bws-azure:focus{background-color: #0374e3;}
+a.bws-azure{color: #fff  !important;}
+.bws-azure.bws-hollow{background-color: transparent; border:2px solid #0081ff !important;}
+a.bws-azure.bws-hollow{color: #0081ff  !important;}
+a.bws-azure.bws-hollow:hover, a.bws-azure.bws-hollow:focus {background-color: #8799a3; color: #fff  !important;}
+
+/******  Button moderate-green *****/
+.bws-moderate-green{background-color: #8dc63f;}
+.bws-moderate-green:hover, .bws-moderate-green:focus{background-color: #78b623;}
+a.bws-moderate-green{color: #fff  !important;}
+.bws-moderate-green.bws-hollow{background-color: transparent; border:2px solid #8dc63f !important;}
+a.bws-moderate-green.bws-hollow{color: #8dc63f  !important;}
+a.bws-moderate-green.bws-hollow:hover, a.bws-moderate-green.bws-hollow:focus {background-color: #8dc63f; color: #fff  !important;}
+
+/******  Button soft-red*****/
+.bws-soft-red{background-color: #f04e4e;}
+.bws-soft-red:hover, .bws-soft-red:focus{background-color: #dd3131;}
+a.bws-soft-red{color: #fff  !important;}
+.bws-soft-red.bws-hollow{background-color: transparent; border:2px solid #f04e4e !important;}
+a.bws-soft-red.bws-hollow{color: #f04e4e  !important;}
+a.bws-soft-red.bws-hollow:hover, a.bws-soft-red.bws-hollow:focus {background-color: #f04e4e; color: #fff  !important;}
+
+/******  Button moderate-red*****/
+.bws-red{background-color: #fe0000;}
+.bws-red:hover, .bws-red:focus{background-color: #df0303;}
+a.bws-red{color: #fff  !important;}
+.bws-red.bws-hollow{background-color: transparent; border:2px solid #fe0000 !important;}
+a.bws-red.bws-hollow{color: #fe0000  !important;}
+a.bws-red.bws-hollow:hover, a.bws-red.bws-hollow:focus {background-color: #fe0000; color: #fff  !important;}
+
+/******  Button green*****/
+.bws-green{background-color: #39b54a;}
+.bws-green:hover, .bws-green:focus{background-color: #23a535;}
+a.bws-green{color: #fff  !important;}
+.bws-green.bws-hollow{background-color: transparent; border:2px solid #39b54a !important;}
+a.bws-green.bws-hollow{color: #39b54a  !important;}
+a.bws-green.bws-hollow:hover, a.bws-green.bws-hollow:focus {background-color: #39b54a; color: #fff  !important;}
+
+
+/******  Button Yellow*****/
+.bws-bright-yellow{background-color: #fefb30;}
+.bws-bright-yellow:hover, .bws-bright-yellow:focus{background-color: #e2df22;}
+a.bws-bright-yellow{color: #000  !important;}
+.bws-bright-yellow.bws-hollow{background-color: transparent; border:2px solid #fefb30 !important;}
+a.bws-bright-yellow.bws-hollow{color: #555  !important;}
+a.bws-bright-yellow.bws-hollow:hover, a.bws-bright-yellow.bws-hollow:focus {background-color: #fefb30; color: #000  !important;}
+
+/******  Button cyan*****/
+.bws-cyan{background-color: #1cbbb4;}
+.bws-cyan:hover, .bws-cyan:focus{background-color: #10a19b;}
+a.bws-cyan{color: #fff  !important;}
+.bws-cyan.bws-hollow{background-color: transparent; border:2px solid #1cbbb4 !important;}
+a.bws-cyan.bws-hollow{color: #1cbbb4  !important;}
+a.bws-cyan.bws-hollow:hover, a.bws-cyan.bws-hollow:focus {background-color: #1cbbb4; color: #fff  !important;}
+
+/******  Button orange*****/
+.bws-orange{background-color: #ff9700;}
+.bws-orange:hover, .bws-orange:focus{background-color: #e68903;}
+a.bws-orange{color: #fff  !important;}
+.bws-orange.bws-hollow{background-color: transparent; border:2px solid #ff9700 !important;}
+a.bws-orange.bws-hollow{color: #ff9700  !important;}
+a.bws-orange.bws-hollow:hover, a.bws-orange.bws-hollow:focus {background-color: #ff9700; color: #fff  !important;}
+
+/******  Button moderate violet*****/
+.bws-moderate-violet{background-color: #6739b6;}
+.bws-moderate-violet:hover, .bws-moderate-violet:focus{background-color: #5e2eb0;}
+a.bws-moderate-violet{color: #fff  !important;}
+.bws-moderate-violet.bws-hollow{background-color: transparent; border:2px solid #6739b6 !important;}
+a.bws-moderate-violet.bws-hollow{color: #6739b6  !important;}
+a.bws-moderate-violet.bws-hollow:hover, a.bws-moderate-violet.bws-hollow:focus {background-color: #6739b6; color: #fff  !important;}
+
+/******  Button dark-magenta*****/
+.bws-dark-magenta{background-color: #9c26b0;}
+.bws-dark-magenta:hover, .bws-dark-magenta:focus{background-color: #911ea5;}
+a.bws-dark-magenta{color: #fff  !important;}
+.bws-dark-magenta.bws-hollow{background-color: transparent; border:2px solid #9c26b0 !important;}
+a.bws-dark-magenta.bws-hollow{color: #9c26b0  !important;}
+a.bws-dark-magenta.bws-hollow:hover, a.bws-dark-magenta.bws-hollow:focus {background-color: #9c26b0; color: #fff  !important;}
+
+/******  Button dark-grayish-orange*****/
+.bws-dark-grayish-orange{background-color: #998675;}
+.bws-dark-grayish-orange:hover, .bws-dark-grayish-orange:focus{background-color: #907a66;}
+a.bws-dark-grayish-orange{color: #fff  !important;}
+.bws-dark-grayish-orange.bws-hollow{background-color: transparent; border:2px solid #998675 !important;}
+a.bws-dark-grayish-orange.bws-hollow{color: #998675  !important;}
+a.bws-dark-grayish-orange.bws-hollow:hover, a.bws-dark-grayish-orange.bws-hollow:focus {background-color: #998675; color: #fff  !important;}
+
+
+/******  Button moderate-blue*****/
+.bws-moderate-blue{background-color: #5674b9;}
+.bws-moderate-blue:hover, .bws-moderate-blue:focus{background-color: #435f9f;}
+a.bws-moderate-blue{color: #fff  !important;}
+.bws-moderate-blue.bws-hollow{background-color: transparent; border:2px solid #5674b9 !important;}
+a.bws-moderate-blue.bws-hollow{color: #5674b9  !important;}
+a.bws-moderate-blue.bws-hollow:hover, a.bws-moderate-blue.bws-hollow:focus {background-color: #5674b9; color: #fff  !important;}
+
+
+/******  Button blue*****/
+.bws-blue{background-color: #00f;}
+.bws-blue:hover, .bws-blue:focus{background-color: #0101e1;}
+a.bws-blue{color: #fff  !important;}
+.bws-blue.bws-hollow{background-color: transparent; border:2px solid #00f !important;}
+a.bws-blue.bws-hollow{color: #00f  !important;}
+a.bws-blue.bws-hollow:hover, a.bws-blue.bws-hollow:focus {background-color: #00f; color: #fff  !important;}
+
+/******  Button magenta*****/
+.bws-magenta{background-color: #f0f;}
+.bws-magenta:hover, .bws-magenta:focus{background-color: #e201e2;}
+a.bws-magenta{color: #fff  !important;}
+.bws-magenta.bws-hollow{background-color: transparent; border:2px solid #f0f !important;}
+a.bws-magenta.bws-hollow{color: #f0f  !important;}
+a.bws-magenta.bws-hollow:hover, a.bws-magenta.bws-hollow:focus {background-color: #f0f; color: #fff  !important;}
+
+
+/******  Button lime *****/
+.bws-lime{background-color: #bfff00;}
+.bws-lime:hover, .bws-lime:focus{background-color: #a8e003;}
+a.bws-lime{color: #000  !important;}
+.bws-lime.bws-hollow{background-color: transparent; border:2px solid #bfff00 !important;}
+a.bws-lime.bws-hollow{color: #a4da01  !important;}
+a.bws-lime.bws-hollow:hover, a.bws-lime.bws-hollow:focus {background-color: #bfff00; color: #000  !important;}
+
+
+/******  Button pink *****/
+.bws-pink{background-color: #ff0056;}
+.bws-pink:hover, .bws-pink:focus{background-color: #dd044d;}
+a.bws-pink{color: #fff  !important;}
+.bws-pink.bws-hollow{background-color: transparent; border:2px solid #ff0056 !important;}
+a.bws-pink.bws-hollow{color: #ff0056  !important;}
+a.bws-pink.bws-hollow:hover, a.bws-pink.bws-hollow:focus {background-color: #ff0056; color: #fff  !important;}
+
+
+/******  Button vivid-yellow *****/
+.bws-vivid-yellow{background-color: #fecb16;}
+.bws-vivid-yellow:hover, .bws-vivid-yellow:focus{background-color: #dfb10e;}
+a.bws-vivid-yellow{color: #000  !important;}
+.bws-vivid-yellow.bws-hollow{background-color: transparent; border:2px solid #fecb16 !important;}
+a.bws-vivid-yellow.bws-hollow{color: #fecb16  !important;}
+a.bws-vivid-yellow.bws-hollow:hover, a.bws-vivid-yellow.bws-hollow:focus {background-color: #fecb16; color: #000  !important;}
+
+/******  Button lime-green *****/
+.bws-lime-green{background-color: #7bcba7;}
+.bws-lime-green:hover, .bws-lime-green:focus{background-color: #67ac8d;}
+a.bws-lime-green{color: #000  !important;}
+.bws-lime-green.bws-hollow{background-color: transparent; border:2px solid #7bcba7 !important;}
+a.bws-lime-green.bws-hollow{color: #7bcba7  !important;}
+a.bws-lime-green.bws-hollow:hover, a.bws-lime-green.bws-hollow:focus {background-color: #7bcba7; color: #000  !important;}
+
+
+/******  Button yellow *****/
+.bws-yellow{background-color: #e8ff00;}
+.bws-yellow:hover, .bws-yellow:focus{background-color: #c7da05;}
+a.bws-yellow{color: #000  !important;}
+.bws-yellow.bws-hollow{background-color: transparent; border:2px solid #e8ff00 !important;}
+a.bws-yellow.bws-hollow{color: #e8ff00  !important;}
+a.bws-yellow.bws-hollow:hover, a.bws-yellow.bws-hollow:focus {background-color: #e8ff00; color: #000  !important;}
+
+
+/******  Button light-grey *****/
+.bws-light-grey{background-color: #e4ebf1;}
+.bws-light-grey:hover, .bws-light-grey:focus{background-color: #c9d5de;}
+a.bws-light-grey{color: #000  !important;}
+.bws-light-grey.bws-hollow{background-color: transparent; border:2px solid #e4ebf1 !important;}
+a.bws-light-grey.bws-hollow{color: #9e9fa0  !important;}
+a.bws-light-grey.bws-hollow:hover, a.bws-light-grey.bws-hollow:focus {background-color: #e4ebf1; color: #000  !important;}
+
+
+/******  Button Size *****/
+.bws-button.bws-small {padding: 15px 30px; font-size: 16px;}
+.bws-button.bws-large{padding: 20px 50px; font-size: 18px;}
+.bws-button.bws-tiny {padding: 10px 20px; font-size: 14px;}
+.bws-button.bws-expand{padding: 15px 30px; font-size: 16px;width: 100%; margin:0 0 5px 0;}
+
+/******  Button Icon Size *****/
+.bws-button i.bws-icon-size-large{font-size: 24px;}
+.bws-button i.bws-icon-size-medium{font-size: 18px;}
+.bws-button i.bws-icon-size-small{font-size: 14px;}
+.bws-hide{display:none;}
+
+/******  Button Group Css *****/
+.bws-button-group{padding:0px !important; margin:0px !important; list-style: none !important; clear:both; font-size:0px !important;}
+.bws-button-group > li {display: inline-block; margin: 0px !important; padding:0px !important; vertical-align:top;}
+.bws-button-group > li .bws-button {
+    border-color: rgba(255, 255, 255, 0.5);
+    border-left: 1px solid rgba(255, 255, 255, 0.5);
+}
+.bws-button-group > li:first-child .bws-button{border-left: 0 none;}
+.bws-button-group li a{display:block}
+
+/* Button Group radious css*/
+.bws-button-group.bws-radius > *:first-child, .bws-button-group.bws-radius > *:first-child > a, 
+.button-group.radius > *:first-child > .bws-button {
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.bws-button-group.bws-radius > *:first-child 
+.bws-button {
+    border-left: 0 none ;
+}
+.bws-button-group.bws-radius > *:first-child, .bws-button-group.bws-radius > *:first-child > a, 
+.button-group.bws-radius > *:first-child > .bws-button {
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.bws-button-group.bws-radius > *:last-child, .bws-button-group.radius > *:last-child > a, 
+.bws-button-group.bws-radius > *:last-child > .bws-button {
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 5px;
+}
+/*End Button round css*/
+/* Button Group radious css*/
+.bws-button-group.bws-round > *:first-child, .bws-button-group.bws-round > *:first-child > a,
+.bws-button-group.bws-round > *:first-child > .bws-button {
+  border-bottom-left-radius: 1000px;
+  border-top-left-radius: 1000px;
+}
+.bws-button-group.bws-round > *:last-child, .bws-button-group.bws-round > *:last-child > a, 
+.bws-button-group.round > *:last-child > .bws-button {
+  border-bottom-right-radius: 1000px;
+  border-top-right-radius: 1000px;
+}
+.bws-button-group li .bws-hollow{border-right-width:0px !important;}
+.bws-button-group li:last-child .bws-hollow{border-right-width:2px !important;}
+
+@media screen and (max-width: 768px) {     
+	.bws-button.bws-small {padding: 10px 25px; font-size: 14px;}
+	.bws-button.bws-large{padding: 15px 35px; font-size: 16px;}
+	.bws-button.bws-tiny {padding: 7px 15px; font-size: 12px;}
+}
+
+
+@media screen and (max-width: 600px) {     
+	.bws-button-group li{width:100% !important; margin:0px !important}
+	.bws-button-group li a{display:block}
+	
+	.bws-button-group.bws-round > *:first-child, .bws-button-group.bws-round > *:first-child > a,
+	
+	.bws-button-group.bws-round  a, 
+	.bws-button-group.round  .bws-button {
+	  border-radius: 1000px;
+	  border-radius: 1000px;
+		margin-bottom:5px;}
+	 .bws-button-group li .bws-hollow{border-right-width:2px !important;}
+	   
+
+.bws-button-group.bws-radius > *:first-child, .bws-button-group.bws-radius > *:first-child > a, 
+.button-group.bws-radius > *:first-child > .bws-button {
+    border-bottom-left-radius: 0px;
+    border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+.bws-button-group.bws-radius > *:last-child, .bws-button-group.radius > *:last-child > a, 
+.bws-button-group.bws-radius > *:last-child > .bws-button {
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 0px;
+   border-bottom-left-radius: 5px;
+}
+.bws-button-group > li .bws-button {
+    border-color: rgba(255, 255, 255, 0.8);
+    border-top: 1px solid rgba(255, 255, 255, 0.8);
+}
+.bws-button-group > li:first-child .bws-button {
+    border-top: 0 none ;
+}
+
+}

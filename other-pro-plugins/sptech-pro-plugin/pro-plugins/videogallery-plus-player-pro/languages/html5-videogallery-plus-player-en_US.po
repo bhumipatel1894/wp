@@ -1,0 +1,1426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Video gallery and Player Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-19 13:57+0000\n"
+"PO-Revision-Date: 2017-04-19 13:57+0000\n"
+"Last-Translator: admin <pratikjain@sptechnolab.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: en_US\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: video-gallery.php:181
+#, php-format
+msgid "Thank you for activating %s"
+msgstr ""
+
+#: video-gallery.php:182
+#, php-format
+msgid ""
+"It looks like you had FREE version %s of this plugin activated. To avoid "
+"conflicts the extra version has been deactivated and we recommend you delete "
+"it."
+msgstr ""
+
+#: wp-vgp-plugin-updater.php:26
+msgid "Video Gallery License"
+msgstr ""
+
+#: wp-vgp-plugin-updater.php:26
+msgid "Plugin License"
+msgstr ""
+
+#: wp-vgp-plugin-updater.php:42
+msgid "Video gallery and Player Pro Plugin License Options"
+msgstr ""
+
+#: wp-vgp-plugin-updater.php:49 includes/admin/settings/wp-vgp-settings.php:28
+msgid "Your changes saved successfully."
+msgstr ""
+
+#: wp-vgp-plugin-updater.php:59
+msgid "Plugin license activated successfully"
+msgstr ""
+
+#: wp-vgp-plugin-updater.php:63
+msgid "Please activate plugin license to get automatic update of plugin."
+msgstr ""
+
+#: wp-vgp-plugin-updater.php:71
+msgid "License Key"
+msgstr ""
+
+#: wp-vgp-plugin-updater.php:75
+msgid "Enter plugin license key."
+msgstr ""
+
+#: wp-vgp-plugin-updater.php:81 wp-vgp-plugin-updater.php:89
+msgid "Activate License"
+msgstr ""
+
+#: wp-vgp-plugin-updater.php:86
+msgid "Deactivate License"
+msgstr ""
+
+#: wp-vgp-plugin-updater.php:87
+msgid "Active"
+msgstr ""
+
+#: wp-vgp-plugin-updater.php:185 wp-vgp-plugin-updater.php:232
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: wp-vgp-plugin-updater.php:199
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: wp-vgp-plugin-updater.php:206
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: wp-vgp-plugin-updater.php:211
+msgid ""
+"Plugin license is invalid. Please be sure you have entered right plugin "
+"license key."
+msgstr ""
+
+#: wp-vgp-plugin-updater.php:217
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: wp-vgp-plugin-updater.php:222
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: wp-vgp-plugin-updater.php:227
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: wp-vgp-plugin-updater.php:328
+msgid "Enter valid license key for automatic updates."
+msgstr ""
+
+#: wp-vgp-plugin-updater.php:341
+msgid "Activate Plugin License"
+msgstr ""
+
+#: wp-vgp-plugin-updater.php:341
+msgid "License"
+msgstr ""
+
+#: includes/class-wp-vgp-script.php:144
+msgid "Click OK to reset all options. All settings will be lost!"
+msgstr ""
+
+#: includes/wp-vgp-functions.php:237 includes/shortcode/wp-vgp-grid.php:281
+msgid "Previous"
+msgstr ""
+
+#: includes/wp-vgp-functions.php:238 includes/shortcode/wp-vgp-grid.php:282
+msgid "Next"
+msgstr ""
+
+#: includes/wp-vgp-functions.php:346
+msgid "Design 1"
+msgstr ""
+
+#: includes/wp-vgp-functions.php:347
+msgid "Design 2"
+msgstr ""
+
+#: includes/wp-vgp-functions.php:348
+msgid "Design 3"
+msgstr ""
+
+#: includes/wp-vgp-functions.php:349
+msgid "Design 4"
+msgstr ""
+
+#: includes/wp-vgp-functions.php:350
+msgid "Design 5"
+msgstr ""
+
+#: includes/wp-vgp-functions.php:351
+msgid "Design 6"
+msgstr ""
+
+#: includes/wp-vgp-functions.php:352
+msgid "Design 7"
+msgstr ""
+
+#: includes/wp-vgp-functions.php:353
+msgid "Design 8"
+msgstr ""
+
+#: includes/wp-vgp-functions.php:354
+msgid "Design 9"
+msgstr ""
+
+#: includes/wp-vgp-functions.php:355
+msgid "Design 10"
+msgstr ""
+
+#: includes/wp-vgp-functions.php:356
+msgid "Design 11"
+msgstr ""
+
+#: includes/wp-vgp-functions.php:357
+msgid "Design 12"
+msgstr ""
+
+#: includes/wp-vgp-functions.php:358
+msgid "Design 13"
+msgstr ""
+
+#: includes/wp-vgp-functions.php:359
+msgid "Design 14"
+msgstr ""
+
+#: includes/wp-vgp-functions.php:360
+msgid "Design 15"
+msgstr ""
+
+#: includes/wp-vgp-functions.php:361
+msgid "Design 16"
+msgstr ""
+
+#: includes/wp-vgp-functions.php:362
+msgid "Design 17"
+msgstr ""
+
+#: includes/wp-vgp-functions.php:363
+msgid "Design 18"
+msgstr ""
+
+#: includes/wp-vgp-functions.php:364
+msgid "Design 19"
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:21 includes/wp-vgp-post-types.php:22
+msgid "Video Gallery"
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:23
+msgid "Add New"
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:24
+msgid "Add New Video"
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:25
+msgid "Edit Video"
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:26
+msgid "New Video"
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:27
+msgid "All Video"
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:28
+msgid "View Video Gallery"
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:29
+msgid "Search Video"
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:30
+msgid "No Video Gallery found"
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:31
+msgid "No Video Gallery found in Trash"
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:33
+msgid "Video Poster Image"
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:34
+msgid "Set Video Poster Image"
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:35
+msgid "Remove Video Poster Image"
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:36
+msgid "Use as Video Poster Image"
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:37
+msgid "Video Gallery Pro"
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:70 includes/wp-vgp-post-types.php:71
+#: includes/admin/class-wp-vgp-vc.php:220
+#: includes/admin/class-wp-vgp-vc.php:400
+msgid "Category"
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:72
+msgid "Search Category"
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:73
+msgid "All Category"
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:74
+msgid "Parent Category"
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:75
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:76
+msgid "Edit Category"
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:77
+msgid "Update Category"
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:78
+msgid "Add New Category"
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:79
+msgid "New Category Name"
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:80
+msgid "Video Category"
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:112 includes/wp-vgp-post-types.php:115
+msgid "Video updated."
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:113
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:114
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:116
+#, php-format
+msgid "Video restored to revision from %s"
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:117
+msgid "Video published."
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:118
+msgid "Video saved."
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:119
+msgid "Video submitted."
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:120
+#, php-format
+msgid "Video scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/wp-vgp-post-types.php:122
+msgid "Video draft updated."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-admin.php:67
+#: includes/admin/class-wp-vgp-admin.php:67
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-admin.php:129
+msgid "Video gallery and Player Pro - Files/Links"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-admin.php:191
+msgid "Video Category Shortcode"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-admin.php:236
+msgid "Order"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-admin.php:280
+msgid "All Categories"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-admin.php:309
+msgid "Sort Video"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-admin.php:327
+msgid "Save Sort Order"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-admin.php:343
+msgid "Sorry, Something happened wrong."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-admin.php:370
+msgid "Video order saved successfully."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-admin.php:388
+msgid "View Documentation"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-admin.php:388
+msgid "Docs"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-admin.php:389
+msgid "Visit Customer Support Forum"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-admin.php:389
+msgid "Support"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:33
+msgid "WPOS - Video Grid"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:37 includes/admin/class-wp-vgp-vc.php:263
+msgid "Content"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:38
+msgid "Display Video in Grid view."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:44 includes/admin/class-wp-vgp-vc.php:270
+msgid "Design"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:47
+msgid "Video Grid Design 1"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:48
+msgid "Video Grid Design 2"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:49
+msgid "Video Grid Design 3"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:50
+msgid "Video Grid Design 4"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:51
+msgid "Video Grid Design 5"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:52
+msgid "Video Grid Design 6"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:53
+msgid "Video Grid Design 7"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:54
+msgid "Video Grid Design 8"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:55
+msgid "Video Grid Design 9"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:56
+msgid "Video Grid Design 10"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:57
+msgid "Video Grid Design 11"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:58
+msgid "Video Grid Design 12"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:59
+msgid "Video Grid Design 13"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:60
+msgid "Video Grid Design 14"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:61
+msgid "Video Grid Design 15"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:62
+msgid "Video Grid Design 16"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:63
+msgid "Video Grid Design 17"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:64
+msgid "Video Grid Design 18"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:65
+msgid "Video Grid Design 19"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:67
+msgid "Select Video Grid design."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:73 includes/admin/class-wp-vgp-vc.php:299
+msgid "Show Title"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:76 includes/admin/class-wp-vgp-vc.php:87
+#: includes/admin/class-wp-vgp-vc.php:112
+#: includes/admin/class-wp-vgp-vc.php:123
+#: includes/admin/class-wp-vgp-vc.php:146
+#: includes/admin/class-wp-vgp-vc.php:241
+#: includes/admin/class-wp-vgp-vc.php:302
+#: includes/admin/class-wp-vgp-vc.php:314
+#: includes/admin/class-wp-vgp-vc.php:324
+#: includes/admin/class-wp-vgp-vc.php:335
+#: includes/admin/class-wp-vgp-vc.php:421
+#: includes/admin/class-wp-vgp-vc.php:454
+#: includes/admin/class-wp-vgp-vc.php:484
+#: includes/admin/class-wp-vgp-vc.php:496
+#: includes/admin/class-wp-vgp-vc.php:509
+msgid "True"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:77 includes/admin/class-wp-vgp-vc.php:88
+#: includes/admin/class-wp-vgp-vc.php:113
+#: includes/admin/class-wp-vgp-vc.php:124
+#: includes/admin/class-wp-vgp-vc.php:145
+#: includes/admin/class-wp-vgp-vc.php:242
+#: includes/admin/class-wp-vgp-vc.php:303
+#: includes/admin/class-wp-vgp-vc.php:313
+#: includes/admin/class-wp-vgp-vc.php:325
+#: includes/admin/class-wp-vgp-vc.php:336
+#: includes/admin/class-wp-vgp-vc.php:422
+#: includes/admin/class-wp-vgp-vc.php:455
+#: includes/admin/class-wp-vgp-vc.php:485
+#: includes/admin/class-wp-vgp-vc.php:497
+#: includes/admin/class-wp-vgp-vc.php:508
+msgid "False"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:79
+msgid "Display Video Title."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:84 includes/admin/class-wp-vgp-vc.php:310
+msgid "Show Content"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:90
+msgid "Display Video Content."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:95
+msgid "Number of Columns"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:98
+msgid "Grid 1"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:99
+msgid "Grid 2"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:100
+msgid "Grid 3"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:101
+msgid "Grid 4"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:104
+msgid "Select number of column for grid view."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:109
+#: includes/admin/class-wp-vgp-vc.php:321
+msgid "Popup Fix"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:115
+#: includes/admin/class-wp-vgp-vc.php:327
+msgid "Set popup fix or scroll with the screen."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:120
+#: includes/admin/class-wp-vgp-vc.php:332
+msgid "Gallery Enable"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:126
+#: includes/admin/class-wp-vgp-vc.php:338
+msgid "Enable navigation arrows on video popup as gallery view."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:133
+#: includes/admin/class-wp-vgp-vc.php:345
+msgid "Total Items"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:136
+#: includes/admin/class-wp-vgp-vc.php:348
+msgid "Enter number of Videos to be displayed. Enter -1 to display all."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:137
+#: includes/admin/class-wp-vgp-vc.php:153
+#: includes/admin/class-wp-vgp-vc.php:169
+#: includes/admin/class-wp-vgp-vc.php:181
+#: includes/admin/class-wp-vgp-vc.php:197
+#: includes/admin/class-wp-vgp-vc.php:206
+#: includes/admin/class-wp-vgp-vc.php:215
+#: includes/admin/class-wp-vgp-vc.php:224
+#: includes/admin/class-wp-vgp-vc.php:233
+#: includes/admin/class-wp-vgp-vc.php:245
+#: includes/admin/class-wp-vgp-vc.php:349
+#: includes/admin/class-wp-vgp-vc.php:361
+#: includes/admin/class-wp-vgp-vc.php:377
+#: includes/admin/class-wp-vgp-vc.php:386
+#: includes/admin/class-wp-vgp-vc.php:395
+#: includes/admin/class-wp-vgp-vc.php:404
+#: includes/admin/class-wp-vgp-vc.php:413
+#: includes/admin/class-wp-vgp-vc.php:425
+msgid "Data Settings"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:142
+msgid "Pagination"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:148
+#: includes/admin/class-wp-vgp-vc.php:164
+msgid "Display Pagination for News Post"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:158
+msgid "Pagination Type"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:161
+msgid "Numeric Pagination"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:162
+msgid "Previous - Next Pagination"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:174
+msgid "Sort Order"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:177
+#: includes/admin/class-wp-vgp-vc.php:357
+msgid "Descending"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:178
+#: includes/admin/class-wp-vgp-vc.php:358
+msgid "Ascending"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:180
+#: includes/admin/class-wp-vgp-vc.php:360
+msgid "Set the video order."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:186
+#: includes/admin/class-wp-vgp-vc.php:366
+msgid "Order By"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:189
+#: includes/admin/class-wp-vgp-vc.php:369
+msgid "Video Date"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:190
+#: includes/admin/class-wp-vgp-vc.php:370
+msgid "Video ID"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:191
+#: includes/admin/class-wp-vgp-vc.php:371
+msgid "Video Title"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:192
+#: includes/admin/class-wp-vgp-vc.php:372
+msgid "Video Modified Date"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:193
+#: includes/admin/class-wp-vgp-vc.php:373
+msgid "Random"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:194
+#: includes/admin/class-wp-vgp-vc.php:374
+msgid "Menu Order"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:196
+#: includes/admin/class-wp-vgp-vc.php:376
+msgid "Set the video sort by."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:202
+#: includes/admin/class-wp-vgp-vc.php:382
+msgid "Display Specific Video"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:205
+#: includes/admin/class-wp-vgp-vc.php:385
+#, php-format
+msgid ""
+"Display only specific video posts. You can find id at listing <a "
+"href=\"%1$s\" target=\"_blank\">page</a>. You can pass multiple post id by "
+"comma separated."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:211
+#: includes/admin/class-wp-vgp-vc.php:391
+msgid "Exclude Specific Video"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:214
+#: includes/admin/class-wp-vgp-vc.php:394
+#, php-format
+msgid ""
+"Exclude specific video posts. You can find id at listing <a href=\"%1$s\" "
+"target=\"_blank\">page</a>. You can pass multiple post id by comma separated."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:223
+#: includes/admin/class-wp-vgp-vc.php:403
+#, php-format
+msgid ""
+"Enter Video category id to display Videos category wise. You can find id at "
+"listing <a href=\"%1$s\" target=\"_blank\">page</a>. You can enter multiple "
+"ids with comma seperated."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:229
+#: includes/admin/class-wp-vgp-vc.php:409
+msgid "Exclude Specific Category Video"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:232
+#: includes/admin/class-wp-vgp-vc.php:412
+#, php-format
+msgid ""
+"Exclude post category. Works only if `Category` field is empty. You can find "
+"id at listing <a href=\"%1$s\" target=\"_blank\">page</a>. You can enter "
+"multiple ids with comma seperated."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:238
+#: includes/admin/class-wp-vgp-vc.php:418
+msgid "Include Category Children"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:244
+#: includes/admin/class-wp-vgp-vc.php:424
+msgid ""
+"Include category children or not. When you choose parent category then "
+"display child category post or not."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:259
+msgid "WPOS - Video Slider"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:264
+msgid "Display Video in Slider view."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:273
+msgid "Video Slider Design 1"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:274
+msgid "Video Slider Design 2"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:275
+msgid "Video Slider Design 3"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:276
+msgid "Video Slider Design 4"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:277
+msgid "Video Slider Design 5"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:278
+msgid "Video Slider Design 6"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:279
+msgid "Video Slider Design 7"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:280
+msgid "Video Slider Design 8"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:281
+msgid "Video Slider Design 9"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:282
+msgid "Video Slider Design 10"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:283
+msgid "Video Slider Design 11"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:284
+msgid "Video Slider Design 12"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:285
+msgid "Video Slider Design 13"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:286
+msgid "Video Slider Design 14"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:287
+msgid "Video Slider Design 15"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:288
+msgid "Video Slider Design 16"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:289
+msgid "Video Slider Design 17"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:290
+msgid "Video Slider Design 18"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:291
+msgid "Video Slider Design 19"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:293
+msgid "Choose Video slider design."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:305
+msgid "Display video title."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:316
+msgid "Display video content."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:354
+msgid "Sort order"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:433
+msgid "Slider Slides Column"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:436
+msgid "Enter number of column for slider."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:437
+#: includes/admin/class-wp-vgp-vc.php:446
+#: includes/admin/class-wp-vgp-vc.php:458
+#: includes/admin/class-wp-vgp-vc.php:467
+#: includes/admin/class-wp-vgp-vc.php:476
+#: includes/admin/class-wp-vgp-vc.php:488
+#: includes/admin/class-wp-vgp-vc.php:500
+#: includes/admin/class-wp-vgp-vc.php:512
+msgid "Slider Settings"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:442
+msgid "Slides Scroll"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:445
+msgid "Enter number of slides to scroll at a time."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:451
+#: includes/admin/settings/wp-vgp-settings.php:130
+#: includes/admin/settings/wp-vgp-settings.php:216
+#: includes/admin/settings/wp-vgp-settings.php:279
+msgid "Autoplay"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:457
+msgid "Enable autoplay."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:463
+msgid "Autoplay Interval"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:466
+msgid "Enter autoplay speed."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:472
+msgid "Speed"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:475
+msgid "Control slider speed."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:481
+msgid "Slider Arrows"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:487
+msgid "Show Prev - Next arrows."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:493
+msgid "Infinite Loop"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:499
+msgid "Enable infinite loop sliding for contineous sliding."
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:505
+msgid "Center Mode"
+msgstr ""
+
+#: includes/admin/class-wp-vgp-vc.php:511
+msgid ""
+"Enable Slider center mode effect.  Note : For better, use it with odd number "
+"of `Slider Slides Column`"
+msgstr ""
+
+#: includes/admin/wp-vgp-how-it-work.php:22
+msgid "How it works, our plugins and offers"
+msgstr ""
+
+#: includes/admin/wp-vgp-how-it-work.php:22
+#: includes/admin/wp-vgp-how-it-work.php:118
+msgid "How It Works"
+msgstr ""
+
+#: includes/admin/wp-vgp-how-it-work.php:103
+msgid ""
+"There was an error retrieving the data from the server. Please try again "
+"later."
+msgstr ""
+
+#: includes/admin/wp-vgp-how-it-work.php:121
+msgid "Our Plugins"
+msgstr ""
+
+#: includes/admin/wp-vgp-how-it-work.php:127
+msgid "WPOS Offers"
+msgstr ""
+
+#: includes/admin/wp-vgp-how-it-work.php:163
+msgid "How It Works - Display and Shortcode"
+msgstr ""
+
+#: includes/admin/wp-vgp-how-it-work.php:171
+msgid "Getting Started with Video Gallery"
+msgstr ""
+
+#: includes/admin/wp-vgp-how-it-work.php:175
+msgid ""
+"Step-1: This plugin create a \"Video Gallery Pro\" in WordPress menu section"
+msgstr ""
+
+#: includes/admin/wp-vgp-how-it-work.php:176
+msgid "Step-2: Click on \"Video Gallery Pro > Add new\" "
+msgstr ""
+
+#: includes/admin/wp-vgp-how-it-work.php:177
+msgid "Step-3: Add Video title, link, and video poster image."
+msgstr ""
+
+#: includes/admin/wp-vgp-how-it-work.php:178
+msgid ""
+"Step-4: You can also create the categories under \"Video Gallery Pro > Video "
+"category\". Asign the video under respective category and use category "
+"shortcode to display multiple video galleries. "
+msgstr ""
+
+#: includes/admin/wp-vgp-how-it-work.php:185
+msgid "How Shortcode Works"
+msgstr ""
+
+#: includes/admin/wp-vgp-how-it-work.php:189
+msgid "Step-1: Craete a page say Video gallery OR Videos"
+msgstr ""
+
+#: includes/admin/wp-vgp-how-it-work.php:190
+msgid ""
+"Step-2: Add the bellow shortcode OR shortcode from \"Video Gallery Pro > "
+"Video category\" "
+msgstr ""
+
+#: includes/admin/wp-vgp-how-it-work.php:197
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/admin/wp-vgp-how-it-work.php:200
+msgid "Display Video galley in a page with Grid view"
+msgstr ""
+
+#: includes/admin/wp-vgp-how-it-work.php:201
+msgid "Display Video galley in a page with Slider/Carousel"
+msgstr ""
+
+#: includes/admin/wp-vgp-how-it-work.php:219
+msgid "Need Support?"
+msgstr ""
+
+#: includes/admin/wp-vgp-how-it-work.php:222
+msgid "Check plugin document for shortcode parameters and demo for designs."
+msgstr ""
+
+#: includes/admin/wp-vgp-how-it-work.php:223
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/wp-vgp-how-it-work.php:224
+msgid "View PRO Designs"
+msgstr ""
+
+#: includes/admin/wp-vgp-how-it-work.php:234
+msgid "Need PRO Support?"
+msgstr ""
+
+#: includes/admin/wp-vgp-how-it-work.php:237
+msgid "Hire our experts for WordPress website support."
+msgstr ""
+
+#: includes/admin/wp-vgp-how-it-work.php:238
+msgid "PRO Support"
+msgstr ""
+
+#: includes/admin/wp-vgp-how-it-work.php:249
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/wp-vgp-how-it-work.php:252
+msgid "Enjoyed this plugin? You can help by rate this plugin"
+msgstr ""
+
+#: includes/admin/wp-vgp-how-it-work.php:252
+msgid "5 stars!"
+msgstr ""
+
+#: includes/shortcode/wp-vgp-grid.php:194
+#: includes/shortcode/wp-vgp-grid.php:236
+#: includes/shortcode/wp-vgp-slider.php:210
+#: includes/shortcode/wp-vgp-slider.php:255
+msgid "JWPlayer not supported"
+msgstr ""
+
+#: includes/shortcode/wp-vgp-grid.php:209
+#: includes/shortcode/wp-vgp-grid.php:251
+#: includes/shortcode/wp-vgp-slider.php:225
+#: includes/shortcode/wp-vgp-slider.php:270
+msgid "of"
+msgstr ""
+
+#: includes/admin/metabox/wp-vgp-post-sett-metabox.php:32
+msgid "External Video Poster Image"
+msgstr ""
+
+#: includes/admin/metabox/wp-vgp-post-sett-metabox.php:36
+msgid ""
+"Enter external URL of video poster image if you do not want to use `Video "
+"Poster Image` (Right hand side)."
+msgstr ""
+
+#: includes/admin/metabox/wp-vgp-post-sett-metabox.php:52
+msgid "HTML5"
+msgstr ""
+
+#: includes/admin/metabox/wp-vgp-post-sett-metabox.php:55
+#: includes/admin/settings/wp-vgp-settings.php:115
+msgid "YouTube"
+msgstr ""
+
+#: includes/admin/metabox/wp-vgp-post-sett-metabox.php:58
+#: includes/admin/settings/wp-vgp-settings.php:118
+msgid "Vimeo"
+msgstr ""
+
+#: includes/admin/metabox/wp-vgp-post-sett-metabox.php:61
+#: includes/admin/settings/wp-vgp-settings.php:121
+msgid "Dailymotion"
+msgstr ""
+
+#: includes/admin/metabox/wp-vgp-post-sett-metabox.php:64
+msgid "Other"
+msgstr ""
+
+#: includes/admin/metabox/wp-vgp-post-sett-metabox.php:73
+msgid "video/mp4"
+msgstr ""
+
+#: includes/admin/metabox/wp-vgp-post-sett-metabox.php:77
+msgid "ie http://videolink.mp4"
+msgstr ""
+
+#: includes/admin/metabox/wp-vgp-post-sett-metabox.php:83
+msgid "video/webm"
+msgstr ""
+
+#: includes/admin/metabox/wp-vgp-post-sett-metabox.php:87
+msgid "ie http://videolink.webm"
+msgstr ""
+
+#: includes/admin/metabox/wp-vgp-post-sett-metabox.php:93
+msgid "video/ogg"
+msgstr ""
+
+#: includes/admin/metabox/wp-vgp-post-sett-metabox.php:97
+msgid "ie http://videolink.ogg"
+msgstr ""
+
+#: includes/admin/metabox/wp-vgp-post-sett-metabox.php:109
+msgid "YouTube Link"
+msgstr ""
+
+#: includes/admin/metabox/wp-vgp-post-sett-metabox.php:113
+msgid "ie https://www.youtube.com/watch?v=07IRBn1oXrU"
+msgstr ""
+
+#: includes/admin/metabox/wp-vgp-post-sett-metabox.php:125
+msgid "Vimeo Link"
+msgstr ""
+
+#: includes/admin/metabox/wp-vgp-post-sett-metabox.php:129
+msgid "ie https://vimeo.com/171807697"
+msgstr ""
+
+#: includes/admin/metabox/wp-vgp-post-sett-metabox.php:141
+msgid "Dailymotion Link"
+msgstr ""
+
+#: includes/admin/metabox/wp-vgp-post-sett-metabox.php:145
+msgid "ie http://www.dailymotion.com/video/x2u6iu9_xxxxxxx"
+msgstr ""
+
+#: includes/admin/metabox/wp-vgp-post-sett-metabox.php:157
+msgid "Other Link"
+msgstr ""
+
+#: includes/admin/metabox/wp-vgp-post-sett-metabox.php:161
+msgid "Enter embed link of video."
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:15
+msgid "Video gallery and Player Pro Settings"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:24
+msgid "All settings reset successfully."
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:35
+msgid "Reset All Settings"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:56
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:65
+msgid "Default Image"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:69
+msgid "Upload Image"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:69
+msgid "Choose Image"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:69
+msgid "Insert Image"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:69
+msgid "Clear"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:70
+msgid ""
+"Upload default featured image or provide an external URL of image. If your "
+"post does not have featured image then this will be displayed instead of "
+"blank grey box."
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:82
+#: includes/admin/settings/wp-vgp-settings.php:203
+#: includes/admin/settings/wp-vgp-settings.php:266
+#: includes/admin/settings/wp-vgp-settings.php:362
+#: includes/admin/settings/wp-vgp-settings.php:415
+#: includes/admin/settings/wp-vgp-settings.php:455
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:105
+msgid "Video Settings"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:110
+msgid ""
+"Note: Some parameters will not work if video author has selected preference "
+"for video."
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:134
+#: includes/admin/settings/wp-vgp-settings.php:220
+#: includes/admin/settings/wp-vgp-settings.php:283
+msgid "Check this box to play video automatically when open."
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:140
+#: includes/admin/settings/wp-vgp-settings.php:289
+msgid "Hide Video Controls"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:144
+#: includes/admin/settings/wp-vgp-settings.php:293
+msgid "Check this box to hide video controls."
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:150
+msgid "Hide Fullscreen Option"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:154
+msgid "Check this box to remove a button to view a fullscreen player."
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:160
+#: includes/admin/settings/wp-vgp-settings.php:309
+msgid "Hide Related Videos"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:164
+#: includes/admin/settings/wp-vgp-settings.php:313
+msgid "Check this box to do not show related video after video ends."
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:170
+#: includes/admin/settings/wp-vgp-settings.php:299
+msgid "Hide Video Information"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:174
+#: includes/admin/settings/wp-vgp-settings.php:303
+msgid ""
+"Check this box to do not display information like the video title, author or "
+"rating before the video starts playing."
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:180
+msgid "Video Subtitles"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:184
+msgid ""
+"Check this box to display `CC` button in video controlbar for subtitles."
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:190
+msgid "Progressbar Color"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:194
+msgid "Red"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:195
+msgid "White"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:197
+msgid "Select video progressbar color."
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:226
+msgid "Loop"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:230
+msgid "Check this box to play video again when it reaches to end."
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:236
+msgid "Hide Video Title"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:240
+msgid "Check this box to do not display video title."
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:246
+msgid "Hide Video Author Name"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:250
+msgid "Check this box to do not display video author."
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:256
+#: includes/admin/settings/wp-vgp-settings.php:339
+msgid "Player Color"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:260
+#: includes/admin/settings/wp-vgp-settings.php:343
+msgid "Select player color."
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:319
+msgid "Hide Dailymotion Logo"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:323
+msgid "Check this box to remove dailymotion logo from player."
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:329
+msgid "Hide Sharing Button"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:333
+msgid "Check this box to remove sharing button from player."
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:349
+msgid "Player Theme"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:353
+msgid "Dark"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:354
+msgid "Light"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:356
+msgid ""
+"Select video player theme. Note: Player theme will automatically change "
+"according to `Player Color`."
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:388
+msgid "JW Player Settings"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:392
+msgid ""
+"Note: Due to limitation of JW Player, It only works with HTML5 (Self Hosted) "
+"or YouTube video only."
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:397
+msgid "Enable"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:401
+msgid "Check this box to enable JW Player."
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:406
+msgid "JW Player License Key"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:410
+msgid "Enter JW Player license key."
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:437
+msgid "Custom CSS Settings"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:446
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/admin/settings/wp-vgp-settings.php:450
+msgid "Enter custom CSS to override plugin CSS."
+msgstr ""
+
+#. Name of the plugin
+msgid "Video Gallery and Player Pro"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Easy to add and display your HTML5, YouTube, Vimeo vedio gallery with "
+"Magnific Popup to your website."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wponlinesupport.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP Online Support"
+msgstr ""

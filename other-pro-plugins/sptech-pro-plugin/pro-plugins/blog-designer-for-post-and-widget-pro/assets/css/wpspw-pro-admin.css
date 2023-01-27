@@ -1,0 +1,8 @@
+.wpspw-pro-img-view{max-width: 150px;}
+.wpspw-pro-img-view img{
+	padding: 5px;
+	margin: 5px 0;
+	max-width: 150px;
+	border: 1px solid #ccc;
+}
+.wpspw-sett-title{border-bottom: 2px solid #ccc; padding: 0 0 6px;}

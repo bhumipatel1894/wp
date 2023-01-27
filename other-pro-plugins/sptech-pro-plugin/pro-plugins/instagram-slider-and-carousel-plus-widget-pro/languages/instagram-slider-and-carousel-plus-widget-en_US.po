@@ -1,0 +1,618 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Instagram Slider and Carousel Plus Widget Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-17 12:51+0000\n"
+"PO-Revision-Date: 2017-04-17 12:51+0000\n"
+"Last-Translator: admin <pratikjain@sptechnolab.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: instagram-slider-carousel-plus-widget-pro.php:150
+#, php-format
+msgid "Thank you for activating %s"
+msgstr ""
+
+#: instagram-slider-carousel-plus-widget-pro.php:151
+#, php-format
+msgid ""
+"It looks like you had FREE version %s of this plugin activated. To avoid "
+"conflicts the extra version has been deactivated and we recommend you delete "
+"it."
+msgstr ""
+
+#: iscwp-plugin-updater.php:26
+msgid "Insta Feed Pro By WPOS"
+msgstr ""
+
+#: iscwp-plugin-updater.php:26
+msgid "Plugin License"
+msgstr ""
+
+#: iscwp-plugin-updater.php:42
+msgid "Insta Feed Pro"
+msgstr ""
+
+#: iscwp-plugin-updater.php:49
+#: includes/admin/settings/iscwp-pro-settings.php:23
+msgid "Your changes saved successfully."
+msgstr ""
+
+#: iscwp-plugin-updater.php:59
+msgid "Plugin license activated successfully"
+msgstr ""
+
+#: iscwp-plugin-updater.php:63
+msgid "Please activate plugin license to get automatic update of plugin."
+msgstr ""
+
+#: iscwp-plugin-updater.php:71
+msgid "License Key"
+msgstr ""
+
+#: iscwp-plugin-updater.php:75
+msgid "Enter plugin license key"
+msgstr ""
+
+#: iscwp-plugin-updater.php:81 iscwp-plugin-updater.php:89
+msgid "Activate License"
+msgstr ""
+
+#: iscwp-plugin-updater.php:86
+msgid "Deactivate License"
+msgstr ""
+
+#: iscwp-plugin-updater.php:87
+msgid "Active"
+msgstr ""
+
+#: iscwp-plugin-updater.php:186 iscwp-plugin-updater.php:233
+#: iscwp-plugin-updater.php:293
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: iscwp-plugin-updater.php:200
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: iscwp-plugin-updater.php:207
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: iscwp-plugin-updater.php:212
+msgid ""
+"Plugin license is invalid. Please be sure you have entered right plugin "
+"license key."
+msgstr ""
+
+#: iscwp-plugin-updater.php:218
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: iscwp-plugin-updater.php:223
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: iscwp-plugin-updater.php:228
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: iscwp-plugin-updater.php:328
+msgid "Enter valid license key for automatic updates."
+msgstr ""
+
+#: iscwp-plugin-updater.php:343
+msgid "Activate Plugin License"
+msgstr ""
+
+#: iscwp-plugin-updater.php:343
+msgid "License"
+msgstr ""
+
+#: iscwp-plugin-updater.php:365
+#, php-format
+msgid ""
+"Please enter and activate <a target='_blank' href='%s'>plugin license</a> to "
+"get automatic update of plugin."
+msgstr ""
+
+#: includes/iscwp-functions.php:390 includes/iscwp-functions.php:412
+msgid "Design 1"
+msgstr ""
+
+#: includes/iscwp-functions.php:391 includes/iscwp-functions.php:413
+msgid "Design 2"
+msgstr ""
+
+#: includes/iscwp-functions.php:392 includes/iscwp-functions.php:414
+msgid "Design 3"
+msgstr ""
+
+#: includes/iscwp-functions.php:393
+msgid "Design 4"
+msgstr ""
+
+#: includes/iscwp-functions.php:394
+msgid "Design 5"
+msgstr ""
+
+#: includes/iscwp-functions.php:395
+msgid "Design 6"
+msgstr ""
+
+#: includes/iscwp-functions.php:396
+msgid "Design 7"
+msgstr ""
+
+#: includes/iscwp-functions.php:397
+msgid "Design 8"
+msgstr ""
+
+#: includes/iscwp-functions.php:398
+msgid "Design 9"
+msgstr ""
+
+#: includes/iscwp-functions.php:399
+msgid "Design 10"
+msgstr ""
+
+#: includes/iscwp-functions.php:427
+msgid "3 Hours"
+msgstr ""
+
+#: includes/iscwp-functions.php:428
+msgid "6 Hours"
+msgstr ""
+
+#: includes/iscwp-functions.php:429
+msgid "9 Hours"
+msgstr ""
+
+#: includes/iscwp-functions.php:430
+msgid "12 Hours"
+msgstr ""
+
+#: includes/iscwp-functions.php:431
+msgid "1 Day"
+msgstr ""
+
+#: includes/iscwp-functions.php:432
+msgid "2 Days"
+msgstr ""
+
+#: templates/user-details.php:25
+msgid "Follow"
+msgstr ""
+
+#: templates/user-details.php:29
+msgid "posts"
+msgstr ""
+
+#: templates/user-details.php:33
+msgid "followers"
+msgstr ""
+
+#: templates/user-details.php:37
+msgid "following"
+msgstr ""
+
+#: includes/admin/class-iscwp-admin.php:43
+#: includes/admin/class-iscwp-admin.php:43
+msgid "Insta Feed"
+msgstr ""
+
+#: includes/admin/class-iscwp-admin.php:91
+msgid "Sorry, Something happened wrong."
+msgstr ""
+
+#: includes/admin/class-iscwp-admin.php:108
+#: includes/admin/class-iscwp-admin.php:143
+msgid "Cache Cleared"
+msgstr ""
+
+#: includes/admin/class-iscwp-admin.php:145
+msgid "Sorry, no data found"
+msgstr ""
+
+#: includes/admin/class-iscwp-admin.php:163
+msgid "View Documentation"
+msgstr ""
+
+#: includes/admin/class-iscwp-admin.php:163
+msgid "Docs"
+msgstr ""
+
+#: includes/admin/class-iscwp-admin.php:164
+msgid "Visit Customer Support Forum"
+msgstr ""
+
+#: includes/admin/class-iscwp-admin.php:164
+msgid "Support"
+msgstr ""
+
+#: includes/admin/iscwp-how-it-work.php:22
+msgid "How it works"
+msgstr ""
+
+#: includes/admin/iscwp-how-it-work.php:22
+#: includes/admin/iscwp-how-it-work.php:118
+msgid "How It Works"
+msgstr ""
+
+#: includes/admin/iscwp-how-it-work.php:103
+msgid ""
+"There was an error retrieving the data from the server. Please try again "
+"later."
+msgstr ""
+
+#: includes/admin/iscwp-how-it-work.php:121
+msgid "Our Plugins"
+msgstr ""
+
+#: includes/admin/iscwp-how-it-work.php:127
+msgid "WPOS Offers"
+msgstr ""
+
+#: includes/admin/iscwp-how-it-work.php:163
+msgid "How It Works - Display and Shortcode"
+msgstr ""
+
+#: includes/admin/iscwp-how-it-work.php:171
+msgid "Getting Started"
+msgstr ""
+
+#: includes/admin/iscwp-how-it-work.php:175
+msgid "This plugin is as easy as 123!!!"
+msgstr ""
+
+#: includes/admin/iscwp-how-it-work.php:176
+msgid ""
+"Just paste below shortcode in any post or page and add your instagram "
+"username to shortcode."
+msgstr ""
+
+#: includes/admin/iscwp-how-it-work.php:183
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/admin/iscwp-how-it-work.php:186
+msgid "Instagram Slider"
+msgstr ""
+
+#: includes/admin/iscwp-how-it-work.php:187
+#: includes/widgets/class-instagram-grid-widget.php:232
+#: includes/widgets/class-instagram-slider-widget.php:300
+msgid "Instagram Grid"
+msgstr ""
+
+#: includes/admin/iscwp-how-it-work.php:188
+msgid "Instagram Grid Block"
+msgstr ""
+
+#: includes/admin/iscwp-how-it-work.php:206
+msgid "Need Support?"
+msgstr ""
+
+#: includes/admin/iscwp-how-it-work.php:209
+msgid "Check plugin document for shortcode parameters and demo for designs."
+msgstr ""
+
+#: includes/admin/iscwp-how-it-work.php:210
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/iscwp-how-it-work.php:211
+msgid "Demo for Designs"
+msgstr ""
+
+#: includes/admin/iscwp-how-it-work.php:221
+msgid "Need PRO Support?"
+msgstr ""
+
+#: includes/admin/iscwp-how-it-work.php:224
+msgid "Hire our experts for WordPress website support."
+msgstr ""
+
+#: includes/admin/iscwp-how-it-work.php:225
+msgid "PRO Support"
+msgstr ""
+
+#: includes/admin/iscwp-how-it-work.php:236
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/iscwp-how-it-work.php:239
+msgid "Enjoyed this plugin? You can help by rate this plugin"
+msgstr ""
+
+#: includes/admin/iscwp-how-it-work.php:239
+msgid "5 stars!"
+msgstr ""
+
+#: includes/shortcode/iscwp-block.php:40 includes/shortcode/iscwp-grid.php:41
+#: includes/shortcode/iscwp-slider.php:48
+#: includes/widgets/class-instagram-grid-widget.php:38
+#: includes/widgets/class-instagram-grid-widget.php:70
+#: includes/widgets/class-instagram-slider-widget.php:34
+#: includes/widgets/class-instagram-slider-widget.php:73
+msgid "View On Instagram"
+msgstr ""
+
+#: includes/widgets/class-instagram-grid-widget.php:28
+msgid "Display Instagram pictures in grid view."
+msgstr ""
+
+#: includes/widgets/class-instagram-grid-widget.php:29
+msgid "WPOS - Instagram Grid"
+msgstr ""
+
+#: includes/widgets/class-instagram-grid-widget.php:99
+#: includes/widgets/class-instagram-slider-widget.php:115
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/class-instagram-grid-widget.php:105
+#: includes/widgets/class-instagram-slider-widget.php:121
+msgid "Username"
+msgstr ""
+
+#: includes/widgets/class-instagram-grid-widget.php:107
+#: includes/widgets/class-instagram-slider-widget.php:123
+msgid "Enter instagram username. e.g instagram"
+msgstr ""
+
+#: includes/widgets/class-instagram-grid-widget.php:112
+#: includes/widgets/class-instagram-slider-widget.php:128
+msgid "Design"
+msgstr ""
+
+#: includes/widgets/class-instagram-grid-widget.php:124
+msgid "Grid"
+msgstr ""
+
+#: includes/widgets/class-instagram-grid-widget.php:130
+#: includes/widgets/class-instagram-slider-widget.php:140
+msgid "Number of Photos"
+msgstr ""
+
+#: includes/widgets/class-instagram-grid-widget.php:136
+#: includes/widgets/class-instagram-slider-widget.php:146
+msgid "Design Offset"
+msgstr ""
+
+#: includes/widgets/class-instagram-grid-widget.php:138
+#: includes/widgets/class-instagram-slider-widget.php:148
+msgid "Enter offset value. The space around the image."
+msgstr ""
+
+#: includes/widgets/class-instagram-grid-widget.php:143
+#: includes/widgets/class-instagram-slider-widget.php:153
+msgid "Gallery Height"
+msgstr ""
+
+#: includes/widgets/class-instagram-grid-widget.php:149
+msgid "Instagram Redirect Link Text"
+msgstr ""
+
+#: includes/widgets/class-instagram-grid-widget.php:155
+#: includes/widgets/class-instagram-slider-widget.php:165
+msgid "Link Behaviour"
+msgstr ""
+
+#: includes/widgets/class-instagram-grid-widget.php:157
+#: includes/widgets/class-instagram-slider-widget.php:167
+msgid "Open link in a same tab"
+msgstr ""
+
+#: includes/widgets/class-instagram-grid-widget.php:158
+#: includes/widgets/class-instagram-slider-widget.php:168
+msgid "Open link in a new tab"
+msgstr ""
+
+#: includes/widgets/class-instagram-grid-widget.php:165
+#: includes/widgets/class-instagram-slider-widget.php:246
+msgid "Popup"
+msgstr ""
+
+#: includes/widgets/class-instagram-grid-widget.php:166
+msgid "Check this box to enable popup."
+msgstr ""
+
+#: includes/widgets/class-instagram-grid-widget.php:172
+#: includes/widgets/class-instagram-slider-widget.php:252
+msgid "Popup Gallery"
+msgstr ""
+
+#: includes/widgets/class-instagram-grid-widget.php:173
+msgid "Check this box to enable Prev/Next gallery mode for popup."
+msgstr ""
+
+#: includes/widgets/class-instagram-grid-widget.php:179
+#: includes/widgets/class-instagram-slider-widget.php:234
+msgid "Display User Avatar in Popup"
+msgstr ""
+
+#: includes/widgets/class-instagram-grid-widget.php:185
+#: includes/widgets/class-instagram-slider-widget.php:240
+msgid "Display Instagram Link in Popup"
+msgstr ""
+
+#: includes/widgets/class-instagram-grid-widget.php:191
+#: includes/widgets/class-instagram-slider-widget.php:259
+msgid "Show Image Caption"
+msgstr ""
+
+#: includes/widgets/class-instagram-grid-widget.php:197
+#: includes/widgets/class-instagram-slider-widget.php:265
+msgid "Show Likes Count"
+msgstr ""
+
+#: includes/widgets/class-instagram-grid-widget.php:203
+#: includes/widgets/class-instagram-slider-widget.php:271
+msgid "Show Comments Count"
+msgstr ""
+
+#: includes/widgets/class-instagram-grid-widget.php:209
+#: includes/widgets/class-instagram-slider-widget.php:277
+msgid "Show Comments in Popup"
+msgstr ""
+
+#: includes/widgets/class-instagram-grid-widget.php:215
+#: includes/widgets/class-instagram-slider-widget.php:283
+msgid "Image Fit"
+msgstr ""
+
+#: includes/widgets/class-instagram-grid-widget.php:216
+#: includes/widgets/class-instagram-slider-widget.php:284
+msgid "Check this box to fill image in a whole div."
+msgstr ""
+
+#: includes/widgets/class-instagram-slider-widget.php:28
+msgid "Display Instagram pictures in slider view."
+msgstr ""
+
+#: includes/widgets/class-instagram-slider-widget.php:29
+msgid "WPOS - Instagram Slider"
+msgstr ""
+
+#: includes/widgets/class-instagram-slider-widget.php:159
+msgid "Instagram Redirect Link Text:"
+msgstr ""
+
+#: includes/widgets/class-instagram-slider-widget.php:174
+msgid "Number of Slides"
+msgstr ""
+
+#: includes/widgets/class-instagram-slider-widget.php:180
+msgid "Number of Slides to Scroll"
+msgstr ""
+
+#: includes/widgets/class-instagram-slider-widget.php:186
+msgid "Autoplay Interval"
+msgstr ""
+
+#: includes/widgets/class-instagram-slider-widget.php:192
+msgid "Slider Speed"
+msgstr ""
+
+#: includes/widgets/class-instagram-slider-widget.php:199
+msgid "Autoplay"
+msgstr ""
+
+#: includes/widgets/class-instagram-slider-widget.php:200
+msgid "Check this box to run slider automatically."
+msgstr ""
+
+#: includes/widgets/class-instagram-slider-widget.php:206
+msgid "Arrows"
+msgstr ""
+
+#: includes/widgets/class-instagram-slider-widget.php:207
+msgid "Check this box to enable slider arrow."
+msgstr ""
+
+#: includes/widgets/class-instagram-slider-widget.php:213
+msgid "Dots"
+msgstr ""
+
+#: includes/widgets/class-instagram-slider-widget.php:214
+msgid "Check this box to enable slider pagination dots."
+msgstr ""
+
+#: includes/widgets/class-instagram-slider-widget.php:220
+msgid "Loop"
+msgstr ""
+
+#: includes/widgets/class-instagram-slider-widget.php:221
+msgid "Check this box to run slider continuously."
+msgstr ""
+
+#: includes/widgets/class-instagram-slider-widget.php:227
+msgid "Centermode"
+msgstr ""
+
+#: includes/widgets/class-instagram-slider-widget.php:228
+msgid "Check this box to enable slider centermode effect."
+msgstr ""
+
+#: templates/popup/design-1.php:3
+msgid "Close (Esc)"
+msgstr ""
+
+#: templates/popup/design-1.php:23 templates/popup/design-1.php:73
+msgid "Profile Picture"
+msgstr ""
+
+#: includes/admin/settings/iscwp-pro-settings.php:17
+msgid "Instagram Slider and Carousel Plus Widget Pro - Settings"
+msgstr ""
+
+#: includes/admin/settings/iscwp-pro-settings.php:45
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin/settings/iscwp-pro-settings.php:54
+msgid "Cache Time"
+msgstr ""
+
+#: includes/admin/settings/iscwp-pro-settings.php:68
+msgid ""
+"Select time period for instagram data cache. Cache will be automatically "
+"flushed after selected time period."
+msgstr ""
+
+#: includes/admin/settings/iscwp-pro-settings.php:73
+#: includes/admin/settings/iscwp-pro-settings.php:169
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin/settings/iscwp-pro-settings.php:95
+msgid "Flush Caches"
+msgstr ""
+
+#: includes/admin/settings/iscwp-pro-settings.php:104
+msgid "Flush All Caches"
+msgstr ""
+
+#: includes/admin/settings/iscwp-pro-settings.php:120
+msgid "Clear Cache"
+msgstr ""
+
+#: includes/admin/settings/iscwp-pro-settings.php:129
+msgid "No cache data found."
+msgstr ""
+
+#: includes/admin/settings/iscwp-pro-settings.php:151
+#: includes/admin/settings/iscwp-pro-settings.php:160
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/admin/settings/iscwp-pro-settings.php:164
+msgid "Enter custom CSS to override plugin CSS."
+msgstr ""
+
+#. Name of the plugin
+msgid "Instagram Slider and Carousel Plus Widget Pro"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Easy to display your instagram photo in a slider, carousel, variable width "
+"slider and widget."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wponlinesupport.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP Online Support"
+msgstr ""

@@ -1,0 +1,8 @@
+.wpsisac-img-view{max-width: 150px;}
+.wpsisac-img-view img{
+	padding: 5px;
+	margin: 5px 0;
+	max-width: 150px;
+	border: 1px solid #ccc;
+}
+.wp-list-table .row-actions .wpsisac_pro_id{color:#999;}

@@ -1,0 +1,17 @@
+.bws-setting-block {font-size: 18px; font-weight: bold; margin-top: 20px;}
+.bws-border-bottom {border-bottom: 1px solid #dedede;}
+.bwsp-post-sett-tbl .bwsp-action-btn{cursor:pointer; padding:4px 0 0 0; vertical-align:middle; display:inline-block;}
+.bwsp-post-sett-tbl .bwsp-action-btn i{width:auto; height:auto; font-size: 24px;}
+.bwsp-post-sett-tbl .bwsp-add-row{color:#348C34;}
+.bwsp-post-sett-tbl .bwsp-del-row{color:#d54e21;}
+#single-button label{font-weight: bold; margin-right: 10px; line-height: 25px;}
+#single-button .row {margin: 20px 10px;}
+#bwspos-pro-post-sett #single-button input, #bwspos-pro-post-sett #single-button select{line-height: 25px;}
+.wp-list-table .type-bwsp_btn .row-actions{color:#999;}
+.bwsp-post-sett-tbl .form-table{margin:0;}
+.bwsp-post-sett-tbl .bwsp-no-padding{padding:0;}
+.bwsp-post-sett-tbl .bwsp-group-button-sett.form-table td{padding-left:0; padding-right:20px;}
+.bwsp-post-sett-tbl .bwsp-select-box{max-width: 200px; width:100%;}
+.bwsp-post-sett-tbl th.bwsp-act-head{width: 60px;}
+.bwsp-post-sett-tbl .bwsp-group-btn-row td{vertical-align:top;}
+.bwsp-sett-title{border-bottom: 2px solid #ccc; padding: 0 0 5px;}

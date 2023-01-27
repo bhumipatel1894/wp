@@ -1,0 +1,47 @@
+/***** MetaBox Tabs Starts *****/
+.wp-tsasp-mb-tabs-wrp ul, .wp-tsasp-mb-tabs-wrp li {
+    list-style: none !important;
+}
+.wp-tsasp-mb-tabs-wrp ul.wp-tsasp-mb-tabs li {
+    display: inline;
+}
+.wp-tsasp-mb-tabs-wrp ul.wp-tsasp-mb-tabs {
+	margin: 12px 0 4px 0;
+}
+.wp-tsasp-mb-tabs-wrp ul.wp-tsasp-mb-tabs li.wp-tsasp-active, div.wp-tsasp-tab-cnt {
+    border-color: #dfdfdf;
+}
+.wp-tsasp-mb-tabs-wrp ul.wp-tsasp-mb-tabs li {
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	padding: 5px;
+}
+.wp-tsasp-mb-tabs-wrp .wp-tsasp-tab-cnt {
+	background: #fff none repeat scroll 0 0;
+	border-style: solid;
+	border-width: 1px;
+	padding: 0.5em 0.9em;
+	display: none;
+}
+.wp-tsasp-mb-tabs-wrp .wp-tsasp-mb-tabs a,
+.wp-tsasp-mb-tabs-wrp .wp-tsasp-mb-tabs a:focus, .wp-tsasp-mb-tabs-wrp .wp-tsasp-mb-tabs a:active{
+    text-decoration: none;
+    outline: 0 !important;
+    box-shadow: none;
+}
+.wp-tsasp-mb-tabs-wrp ul.wp-tsasp-mb-tabs .wp-tsasp-active a {
+    color: #333;
+}
+.wp-tsasp-mb-tabs-wrp ul.wp-tsasp-mb-tabs li.wp-tsasp-active {
+	border-style: solid solid none;
+	border-width: 1px 1px 0 1px;
+	background-color: #fff;
+}
+/***** MetaBox Tabs Ends *****/
+
+.wp-list-table .row-actions .wp_tsasp_id{color:#999;}
+th.wp-tsasp-sdrag{
+	width: 40px;
+	text-align: center;
+	cursor: move;
+}

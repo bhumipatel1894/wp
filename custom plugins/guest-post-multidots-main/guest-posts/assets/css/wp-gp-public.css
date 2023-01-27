@@ -1,0 +1,14 @@
+#success_message, #pub_succ{     font-size: 18px;
+    /* font-weight: 600; */
+    color: green;
+    background: #d0060654;
+    width: 90%; text-align: center;
+    padding: 4px; display: none;}
+
+ .gp-form-title{padding-bottom: 10px;}
+ #gp_insert{padding: 10px;}
+
+.fi_file{    padding: 10px;
+    /* border-block: 1px solid; */
+    background: #008cba;
+    width: 30%;     color: white;}

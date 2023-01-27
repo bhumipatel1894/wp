@@ -1,0 +1,579 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Product Slider and Carousel with category Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-01 09:29+0000\n"
+"PO-Revision-Date: 2017-05-01 09:29+0000\n"
+"Last-Translator: admin <pratikjain@sptechnolab.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: en_US\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: wcpscwc-plugin-updater.php:25
+msgid "Woo Product Slider and Carousel with Category Pro"
+msgstr ""
+
+#: wcpscwc-plugin-updater.php:25
+msgid "Product Slider Pro License"
+msgstr ""
+
+#: wcpscwc-plugin-updater.php:41
+msgid "Woo Product Slider and Carousel with Category Pro - License Options"
+msgstr ""
+
+#: wcpscwc-plugin-updater.php:48
+msgid "Your changes saved successfully."
+msgstr ""
+
+#: wcpscwc-plugin-updater.php:58
+msgid "Plugin license activated successfully"
+msgstr ""
+
+#: wcpscwc-plugin-updater.php:62
+msgid "Please activate plugin license to get automatic update of plugin."
+msgstr ""
+
+#: wcpscwc-plugin-updater.php:70
+msgid "License Key"
+msgstr ""
+
+#: wcpscwc-plugin-updater.php:74
+msgid "Enter plugin license key."
+msgstr ""
+
+#: wcpscwc-plugin-updater.php:80 wcpscwc-plugin-updater.php:88
+msgid "Activate License"
+msgstr ""
+
+#: wcpscwc-plugin-updater.php:85
+msgid "Deactivate License"
+msgstr ""
+
+#: wcpscwc-plugin-updater.php:86
+msgid "Active"
+msgstr ""
+
+#: wcpscwc-plugin-updater.php:185 wcpscwc-plugin-updater.php:232
+#: wcpscwc-plugin-updater.php:292
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: wcpscwc-plugin-updater.php:199
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: wcpscwc-plugin-updater.php:206
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: wcpscwc-plugin-updater.php:211
+msgid ""
+"Plugin license is invalid. Please be sure you have entered right plugin "
+"license key."
+msgstr ""
+
+#: wcpscwc-plugin-updater.php:217
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: wcpscwc-plugin-updater.php:222
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: wcpscwc-plugin-updater.php:227
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: wcpscwc-plugin-updater.php:327
+msgid "Enter valid license key for automatic updates."
+msgstr ""
+
+#: wcpscwc-plugin-updater.php:342
+msgid "Activate Plugin License"
+msgstr ""
+
+#: wcpscwc-plugin-updater.php:342
+msgid "License"
+msgstr ""
+
+#: woo-product-slider-carousel.php:109
+msgid "recommends the following plugin to use."
+msgstr ""
+
+#: includes/wcpscwc-functions.php:130
+msgid "Default Design 1"
+msgstr ""
+
+#: includes/wcpscwc-functions.php:131
+msgid "Design 1"
+msgstr ""
+
+#: includes/wcpscwc-functions.php:132
+msgid "Design 2"
+msgstr ""
+
+#: includes/wcpscwc-functions.php:133
+msgid "Design 3"
+msgstr ""
+
+#: includes/wcpscwc-functions.php:134
+msgid "Design 4"
+msgstr ""
+
+#: includes/wcpscwc-functions.php:135
+msgid "Design 5"
+msgstr ""
+
+#: includes/wcpscwc-functions.php:136
+msgid "Design 6"
+msgstr ""
+
+#: includes/wcpscwc-functions.php:137
+msgid "Design 7"
+msgstr ""
+
+#: includes/wcpscwc-functions.php:138
+msgid "Design 8"
+msgstr ""
+
+#: includes/wcpscwc-functions.php:139
+msgid "Design 9"
+msgstr ""
+
+#: includes/wcpscwc-functions.php:140
+msgid "Design 10"
+msgstr ""
+
+#: includes/wcpscwc-functions.php:141
+msgid "Design 11"
+msgstr ""
+
+#: includes/wcpscwc-functions.php:142
+msgid "Design 12"
+msgstr ""
+
+#: includes/wcpscwc-functions.php:143
+msgid "Design 13"
+msgstr ""
+
+#: includes/wcpscwc-functions.php:144
+msgid "Design 14"
+msgstr ""
+
+#: includes/wcpscwc-functions.php:145
+msgid "Design 15"
+msgstr ""
+
+#: templates/default.php:29 templates/design-1.php:29
+#: templates/design-10.php:33 templates/design-11.php:37
+#: templates/design-12.php:24 templates/design-13.php:40
+#: templates/design-14.php:15 templates/design-15.php:15
+#: templates/design-2.php:37 templates/design-3.php:35
+#: templates/design-4.php:10 templates/design-5.php:24
+#: templates/design-6.php:11 templates/design-7.php:10
+#: templates/design-8.php:10 templates/design-9.php:10
+msgid "Sale!"
+msgstr ""
+
+#: includes/admin/class-wcpscwc-admin.php:32
+msgid "Category ID"
+msgstr ""
+
+#: includes/admin/class-wcpscwc-admin.php:74
+msgid "View Documentation"
+msgstr ""
+
+#: includes/admin/class-wcpscwc-admin.php:74
+msgid "Docs"
+msgstr ""
+
+#: includes/admin/class-wcpscwc-admin.php:75
+msgid "Visit Customer Support Forum"
+msgstr ""
+
+#: includes/admin/class-wcpscwc-admin.php:75
+msgid "Support"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:22
+msgid "How it works - Woo Product Slider and Carousel with Category"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:22
+msgid "Product Slider Pro - How It Works"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:103
+msgid ""
+"There was an error retrieving the data from the server. Please try again "
+"later."
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:118
+msgid "How It Works"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:121
+msgid "Our Plugins"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:127
+msgid "WPOS Offers"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:163
+msgid "How It Works - Display and Shortcode"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:171
+msgid "Getting Started"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:175
+msgid ""
+"This plugin is used to display products by grid or slider. You can display "
+"Latest Products, Desired Products, Best Selling Products OR Featured "
+"Products."
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:176
+msgid ""
+"You can display products easily with shortcode or widget. You can also "
+"display products by category wise."
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:177
+msgid "A) Product Slider - Display all latest products."
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:178
+msgid ""
+"B) Featured Product in slider - Display featured products. To select a "
+"product as a featured click on STAR button at products list page."
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:179
+msgid "C) Best Selling Product in slider - Display best selling products."
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:186
+msgid "How Shortcode Works"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:190
+msgid "Step-1. Create a page or post."
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:191
+msgid "Step-2. Put below shortcodes as per your need."
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:198
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:201
+msgid "Latest Product Slider View"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:202
+msgid "Latest Product Grid View"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:204
+msgid "Featured Products Slider View"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:205
+msgid "Featured Products Grid View"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:207
+msgid "Best Selling Products Slider View"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:208
+msgid "Best Selling Products Grid View"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:227
+msgid "Need Support?"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:230
+msgid "Check plugin document for shortcode parameters and demo for designs."
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:231
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:232
+msgid "View PRO Demo "
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:242
+msgid "Need PRO Support?"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:245
+msgid "Hire our experts for WordPress website support."
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:246
+msgid "PRO Support"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:257
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:260
+msgid "Enjoyed this plugin? You can help by rate this plugin"
+msgstr ""
+
+#: includes/admin/wcpscwc-how-it-work.php:260
+msgid "5 stars!"
+msgstr ""
+
+#: includes/widgets/class-woo-best-selling-product-widget.php:32
+msgid "Display Best Selling WooCommerce Products in Grid/Slider."
+msgstr ""
+
+#: includes/widgets/class-woo-best-selling-product-widget.php:33
+msgid "WPOS - WC Best Selling Products"
+msgstr ""
+
+#: includes/widgets/class-woo-best-selling-product-widget.php:36
+#: includes/widgets/class-woo-best-selling-product-widget.php:294
+msgid "Best Selling Products"
+msgstr ""
+
+#: includes/widgets/class-woo-best-selling-product-widget.php:111
+#: includes/widgets/class-woo-featured-product-widget.php:110
+#: includes/widgets/class-woo-product-widget.php:110
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/class-woo-best-selling-product-widget.php:122
+#: includes/widgets/class-woo-featured-product-widget.php:121
+#: includes/widgets/class-woo-product-widget.php:121
+msgid "All"
+msgstr ""
+
+#: includes/widgets/class-woo-best-selling-product-widget.php:133
+#: includes/widgets/class-woo-featured-product-widget.php:132
+#: includes/widgets/class-woo-product-widget.php:132
+msgid "Number of Grid:"
+msgstr ""
+
+#: includes/widgets/class-woo-best-selling-product-widget.php:160
+#: includes/widgets/class-woo-featured-product-widget.php:159
+#: includes/widgets/class-woo-product-widget.php:158
+msgid "Number of Items:"
+msgstr ""
+
+#: includes/widgets/class-woo-best-selling-product-widget.php:167
+#: includes/widgets/class-woo-featured-product-widget.php:166
+#: includes/widgets/class-woo-product-widget.php:165
+msgid "Display Category"
+msgstr ""
+
+#: includes/widgets/class-woo-best-selling-product-widget.php:173
+#: includes/widgets/class-woo-featured-product-widget.php:172
+#: includes/widgets/class-woo-product-widget.php:171
+msgid "Display Rating"
+msgstr ""
+
+#: includes/widgets/class-woo-best-selling-product-widget.php:179
+#: includes/widgets/class-woo-featured-product-widget.php:178
+#: includes/widgets/class-woo-product-widget.php:177
+msgid "Display Sale Flash"
+msgstr ""
+
+#: includes/widgets/class-woo-best-selling-product-widget.php:185
+#: includes/widgets/class-woo-featured-product-widget.php:184
+#: includes/widgets/class-woo-product-widget.php:183
+msgid "Display Product Description"
+msgstr ""
+
+#: includes/widgets/class-woo-best-selling-product-widget.php:191
+#: includes/widgets/class-woo-featured-product-widget.php:190
+#: includes/widgets/class-woo-product-widget.php:189
+msgid "Open Product in a new tab"
+msgstr ""
+
+#: includes/widgets/class-woo-best-selling-product-widget.php:196
+#: includes/widgets/class-woo-featured-product-widget.php:195
+#: includes/widgets/class-woo-product-widget.php:194
+msgid "Product Slider Setting:"
+msgstr ""
+
+#: includes/widgets/class-woo-best-selling-product-widget.php:199
+#: includes/widgets/class-woo-featured-product-widget.php:198
+#: includes/widgets/class-woo-product-widget.php:197
+msgid "Check this box to Display Products in Slider View."
+msgstr ""
+
+#: includes/widgets/class-woo-best-selling-product-widget.php:204
+#: includes/widgets/class-woo-featured-product-widget.php:203
+#: includes/widgets/class-woo-product-widget.php:202
+msgid "Slides Column:"
+msgstr ""
+
+#: includes/widgets/class-woo-best-selling-product-widget.php:210
+#: includes/widgets/class-woo-featured-product-widget.php:209
+#: includes/widgets/class-woo-product-widget.php:208
+msgid "Slides to Scroll:"
+msgstr ""
+
+#: includes/widgets/class-woo-best-selling-product-widget.php:216
+#: includes/widgets/class-woo-featured-product-widget.php:215
+#: includes/widgets/class-woo-product-widget.php:214
+msgid "Auto Play:"
+msgstr ""
+
+#: includes/widgets/class-woo-best-selling-product-widget.php:218
+#: includes/widgets/class-woo-best-selling-product-widget.php:227
+#: includes/widgets/class-woo-best-selling-product-widget.php:237
+#: includes/widgets/class-woo-best-selling-product-widget.php:246
+#: includes/widgets/class-woo-best-selling-product-widget.php:266
+#: includes/widgets/class-woo-best-selling-product-widget.php:275
+#: includes/widgets/class-woo-featured-product-widget.php:217
+#: includes/widgets/class-woo-featured-product-widget.php:226
+#: includes/widgets/class-woo-featured-product-widget.php:236
+#: includes/widgets/class-woo-featured-product-widget.php:245
+#: includes/widgets/class-woo-featured-product-widget.php:265
+#: includes/widgets/class-woo-featured-product-widget.php:274
+#: includes/widgets/class-woo-product-widget.php:216
+#: includes/widgets/class-woo-product-widget.php:225
+#: includes/widgets/class-woo-product-widget.php:235
+#: includes/widgets/class-woo-product-widget.php:244
+#: includes/widgets/class-woo-product-widget.php:264
+#: includes/widgets/class-woo-product-widget.php:273
+msgid "True"
+msgstr ""
+
+#: includes/widgets/class-woo-best-selling-product-widget.php:219
+#: includes/widgets/class-woo-best-selling-product-widget.php:228
+#: includes/widgets/class-woo-best-selling-product-widget.php:236
+#: includes/widgets/class-woo-best-selling-product-widget.php:245
+#: includes/widgets/class-woo-best-selling-product-widget.php:267
+#: includes/widgets/class-woo-best-selling-product-widget.php:276
+#: includes/widgets/class-woo-featured-product-widget.php:218
+#: includes/widgets/class-woo-featured-product-widget.php:227
+#: includes/widgets/class-woo-featured-product-widget.php:235
+#: includes/widgets/class-woo-featured-product-widget.php:244
+#: includes/widgets/class-woo-featured-product-widget.php:266
+#: includes/widgets/class-woo-featured-product-widget.php:275
+#: includes/widgets/class-woo-product-widget.php:217
+#: includes/widgets/class-woo-product-widget.php:226
+#: includes/widgets/class-woo-product-widget.php:234
+#: includes/widgets/class-woo-product-widget.php:243
+#: includes/widgets/class-woo-product-widget.php:265
+#: includes/widgets/class-woo-product-widget.php:274
+msgid "False"
+msgstr ""
+
+#: includes/widgets/class-woo-best-selling-product-widget.php:225
+#: includes/widgets/class-woo-featured-product-widget.php:224
+#: includes/widgets/class-woo-product-widget.php:223
+msgid "Loop:"
+msgstr ""
+
+#: includes/widgets/class-woo-best-selling-product-widget.php:234
+#: includes/widgets/class-woo-featured-product-widget.php:233
+#: includes/widgets/class-woo-product-widget.php:232
+msgid "Center Mode:"
+msgstr ""
+
+#: includes/widgets/class-woo-best-selling-product-widget.php:243
+#: includes/widgets/class-woo-featured-product-widget.php:242
+#: includes/widgets/class-woo-product-widget.php:241
+msgid "Adaptive Height:"
+msgstr ""
+
+#: includes/widgets/class-woo-best-selling-product-widget.php:252
+#: includes/widgets/class-woo-featured-product-widget.php:251
+#: includes/widgets/class-woo-product-widget.php:250
+msgid "Autoplay Interval:"
+msgstr ""
+
+#: includes/widgets/class-woo-best-selling-product-widget.php:258
+#: includes/widgets/class-woo-featured-product-widget.php:257
+#: includes/widgets/class-woo-product-widget.php:256
+msgid "Slider Speed:"
+msgstr ""
+
+#: includes/widgets/class-woo-best-selling-product-widget.php:264
+#: includes/widgets/class-woo-featured-product-widget.php:263
+#: includes/widgets/class-woo-product-widget.php:262
+msgid "Arrows:"
+msgstr ""
+
+#: includes/widgets/class-woo-best-selling-product-widget.php:273
+#: includes/widgets/class-woo-featured-product-widget.php:272
+#: includes/widgets/class-woo-product-widget.php:271
+msgid "Dots:"
+msgstr ""
+
+#: includes/widgets/class-woo-featured-product-widget.php:31
+msgid "Display WooCommerce Featured Products in Grid/Slider."
+msgstr ""
+
+#: includes/widgets/class-woo-featured-product-widget.php:32
+msgid "WPOS - WC Featured Products"
+msgstr ""
+
+#: includes/widgets/class-woo-featured-product-widget.php:35
+#: includes/widgets/class-woo-featured-product-widget.php:293
+msgid "Featured Products"
+msgstr ""
+
+#: includes/widgets/class-woo-product-widget.php:31
+msgid "Display WooCommerce Products in Grid/Slider."
+msgstr ""
+
+#: includes/widgets/class-woo-product-widget.php:32
+msgid "WPOS - WC Products Widget"
+msgstr ""
+
+#: includes/widgets/class-woo-product-widget.php:35
+#: includes/widgets/class-woo-product-widget.php:293
+msgid "Products"
+msgstr ""
+
+#: includes/widgets/class-woo-product-widget.php:138
+msgid "Design:"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Display Woocommerce Product Slider/Carousel, Woocommerce Best Selling "
+"Product Slider/Carousel, Woocommerce Featured Product Slider/Carousel with "
+"category."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wponlinesupport.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP Online Support"
+msgstr ""

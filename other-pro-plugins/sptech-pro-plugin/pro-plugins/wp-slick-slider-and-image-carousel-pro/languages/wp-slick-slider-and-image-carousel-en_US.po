@@ -1,0 +1,1478 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Slick Slider and Image Carousel Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-03 11:26+0000\n"
+"PO-Revision-Date: 2017-02-03 11:26+0000\n"
+"Last-Translator: admin <pratikjain@sptechnolab.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: en_US\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: edd-slickslider-plugin.php:26
+msgid "WP Slick Slider Plugin License"
+msgstr ""
+
+#: edd-slickslider-plugin.php:26
+msgid "Plugin License"
+msgstr ""
+
+#: edd-slickslider-plugin.php:49
+#: includes/admin/settings/wpsisac-settings.php:21
+msgid "Your changes saved successfully."
+msgstr ""
+
+#: edd-slickslider-plugin.php:59
+msgid "Plugin license activated successfully"
+msgstr ""
+
+#: edd-slickslider-plugin.php:63
+msgid "Please activate plugin license to get automatic update of plugin."
+msgstr ""
+
+#: edd-slickslider-plugin.php:71
+msgid "License Key"
+msgstr ""
+
+#: edd-slickslider-plugin.php:75
+msgid "Enter plugin license key."
+msgstr ""
+
+#: edd-slickslider-plugin.php:185 edd-slickslider-plugin.php:232
+#: edd-slickslider-plugin.php:292
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: edd-slickslider-plugin.php:199
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: edd-slickslider-plugin.php:206
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: edd-slickslider-plugin.php:211
+msgid ""
+"Plugin license is invalid. Please be sure you have entered right plugin "
+"license key."
+msgstr ""
+
+#: edd-slickslider-plugin.php:217
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: edd-slickslider-plugin.php:222
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: edd-slickslider-plugin.php:227
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: edd-slickslider-plugin.php:327
+msgid "Enter valid license key for automatic updates."
+msgstr ""
+
+#: edd-slickslider-plugin.php:342
+msgid "Activate Plugin License"
+msgstr ""
+
+#: edd-slickslider-plugin.php:342
+msgid "License"
+msgstr ""
+
+#: includes/wpsisac-post-types.php:21 includes/wpsisac-post-types.php:22
+#: includes/admin/wpsisac-how-it-work.php:200
+msgid "Slick Slider"
+msgstr ""
+
+#: includes/wpsisac-post-types.php:23
+msgid "Add Slide"
+msgstr ""
+
+#: includes/wpsisac-post-types.php:24
+msgid "Add New slide"
+msgstr ""
+
+#: includes/wpsisac-post-types.php:25
+msgid "Edit Slick Slider"
+msgstr ""
+
+#: includes/wpsisac-post-types.php:26
+msgid "New Slick Slider"
+msgstr ""
+
+#: includes/wpsisac-post-types.php:27
+msgid "View Slick Slider"
+msgstr ""
+
+#: includes/wpsisac-post-types.php:28
+msgid "Search Slide"
+msgstr ""
+
+#: includes/wpsisac-post-types.php:29
+msgid "No Slick Slider Items found"
+msgstr ""
+
+#: includes/wpsisac-post-types.php:30
+msgid "No Slick Slider Items found in Trash"
+msgstr ""
+
+#: includes/wpsisac-post-types.php:32
+msgid "Slick Slider Pro"
+msgstr ""
+
+#: includes/wpsisac-post-types.php:33
+msgid "Slide Image"
+msgstr ""
+
+#: includes/wpsisac-post-types.php:34
+msgid "Set slide image"
+msgstr ""
+
+#: includes/wpsisac-post-types.php:35
+msgid "Remove slide image"
+msgstr ""
+
+#: includes/wpsisac-post-types.php:36
+msgid "Use as slide image"
+msgstr ""
+
+#: includes/wpsisac-post-types.php:67 includes/wpsisac-post-types.php:68
+#: includes/admin/class-wpsisac-vc.php:166
+#: includes/admin/class-wpsisac-vc.php:514
+#: includes/admin/class-wpsisac-vc.php:870
+msgid "Category"
+msgstr ""
+
+#: includes/wpsisac-post-types.php:69
+msgid "Search Category"
+msgstr ""
+
+#: includes/wpsisac-post-types.php:70
+msgid "All Category"
+msgstr ""
+
+#: includes/wpsisac-post-types.php:71
+msgid "Parent Category"
+msgstr ""
+
+#: includes/wpsisac-post-types.php:72
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/wpsisac-post-types.php:73
+msgid "Edit Category"
+msgstr ""
+
+#: includes/wpsisac-post-types.php:74
+msgid "Update Category"
+msgstr ""
+
+#: includes/wpsisac-post-types.php:75
+msgid "Add New Category"
+msgstr ""
+
+#: includes/wpsisac-post-types.php:76
+msgid "New Category Name"
+msgstr ""
+
+#: includes/wpsisac-post-types.php:77
+msgid "Slider Category"
+msgstr ""
+
+#: includes/wpsisac-post-types.php:109 includes/wpsisac-post-types.php:112
+msgid "Slider updated."
+msgstr ""
+
+#: includes/wpsisac-post-types.php:110
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/wpsisac-post-types.php:111
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/wpsisac-post-types.php:113
+#, php-format
+msgid "Slider restored to revision from %s"
+msgstr ""
+
+#: includes/wpsisac-post-types.php:114
+msgid "Slider published."
+msgstr ""
+
+#: includes/wpsisac-post-types.php:115
+msgid "Slider saved."
+msgstr ""
+
+#: includes/wpsisac-post-types.php:116
+msgid "Slider submitted."
+msgstr ""
+
+#: includes/wpsisac-post-types.php:117
+#, php-format
+msgid "Slider scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/wpsisac-post-types.php:119
+msgid "Slider draft updated."
+msgstr ""
+
+#: templates/prodesign-1.php:4 templates/prodesign-10.php:5
+#: templates/prodesign-2.php:4 templates/prodesign-22.php:5
+#: templates/prodesign-22.php:5 templates/prodesign-23.php:5
+#: templates/prodesign-23.php:5 templates/prodesign-24.php:5
+#: templates/prodesign-24.php:5 templates/prodesign-25.php:5
+#: templates/prodesign-25.php:5 templates/prodesign-26.php:5
+#: templates/prodesign-26.php:5 templates/prodesign-27.php:5
+#: templates/prodesign-27.php:5 templates/prodesign-28.php:5
+#: templates/prodesign-28.php:5 templates/prodesign-29.php:5
+#: templates/prodesign-29.php:5 templates/prodesign-3.php:4
+#: templates/prodesign-30.php:5 templates/prodesign-30.php:5
+#: templates/prodesign-4.php:4 templates/prodesign-5.php:4
+#: templates/prodesign-6.php:4 templates/prodesign-7.php:9
+#: templates/prodesign-8.php:10 templates/prodesign-9.php:10
+msgid "Slider Image"
+msgstr ""
+
+#: templates/prodesign-11.php:6 templates/prodesign-12.php:5
+#: templates/prodesign-13.php:5 templates/prodesign-14.php:7
+#: templates/prodesign-15.php:5 templates/prodesign-16.php:7
+#: templates/prodesign-17.php:8 templates/prodesign-18.php:8
+#: templates/prodesign-19.php:8 templates/prodesign-20.php:6
+#: templates/prodesign-21.php:6 templates/prodesign-31.php:6
+#: templates/prodesign-32.php:7 templates/prodesign-33.php:7
+msgid "Slider Carousel Image"
+msgstr ""
+
+#: includes/admin/class-wpsisac-admin.php:136
+#: includes/admin/class-wpsisac-admin.php:136
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-wpsisac-admin.php:164
+msgid "All Categories"
+msgstr ""
+
+#: includes/admin/class-wpsisac-admin.php:202
+msgid "Category Shortcode"
+msgstr ""
+
+#: includes/admin/class-wpsisac-admin.php:233
+msgid "Image"
+msgstr ""
+
+#: includes/admin/class-wpsisac-admin.php:234
+#: includes/admin/class-wpsisac-vc.php:154
+#: includes/admin/class-wpsisac-vc.php:502
+#: includes/admin/class-wpsisac-vc.php:858
+msgid "Order"
+msgstr ""
+
+#: includes/admin/class-wpsisac-admin.php:281
+msgid "Sort Slides"
+msgstr ""
+
+#: includes/admin/class-wpsisac-admin.php:300
+msgid "Save Sort Order"
+msgstr ""
+
+#: includes/admin/class-wpsisac-admin.php:316
+msgid "Sorry, Something happened wrong."
+msgstr ""
+
+#: includes/admin/class-wpsisac-admin.php:343
+msgid "Slides order saved successfully."
+msgstr ""
+
+#: includes/admin/class-wpsisac-admin.php:362
+msgid "View Documentation"
+msgstr ""
+
+#: includes/admin/class-wpsisac-admin.php:362
+msgid "Docs"
+msgstr ""
+
+#: includes/admin/class-wpsisac-admin.php:363
+msgid "Visit Customer Support Forum"
+msgstr ""
+
+#: includes/admin/class-wpsisac-admin.php:363
+msgid "Support"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:36
+msgid "WPOS - Slick Slider"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:40
+#: includes/admin/class-wpsisac-vc.php:379
+#: includes/admin/class-wpsisac-vc.php:732
+msgid "Content"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:41
+msgid "Display slick slider."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:47
+#: includes/admin/class-wpsisac-vc.php:386
+#: includes/admin/class-wpsisac-vc.php:739
+msgid "Design"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:50
+msgid "Slider Design 1"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:51
+msgid "Slider Design 2"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:52
+msgid "Slider Design 3"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:53
+msgid "Slider Design 4"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:54
+msgid "Slider Design 5"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:55
+msgid "Slider Design 6"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:56
+msgid "Slider Design 7"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:57
+msgid "Slider Design 8"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:58
+msgid "Slider Design 9"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:59
+msgid "Slider Design 10"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:60
+msgid "Slider Design 17"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:61
+msgid "Slider Design 18"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:62
+msgid "Slider Design 19"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:63
+msgid "Slider Design 20"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:64
+msgid "Slider Design 21"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:65
+msgid "Slider Design 22"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:66
+msgid "Slider Design 23"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:67
+msgid "Slider Design 24"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:68
+msgid "Slider Design 25"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:69
+msgid "Slider Design 26"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:70
+msgid "Slider Design 27"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:71
+msgid "Slider Design 28"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:72
+msgid "Slider Design 29"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:73
+msgid "Slider Design 30"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:75
+msgid "Choose slider design."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:81
+#: includes/admin/class-wpsisac-vc.php:416
+#: includes/admin/class-wpsisac-vc.php:772
+msgid "Show Content"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:84
+#: includes/admin/class-wpsisac-vc.php:106
+#: includes/admin/class-wpsisac-vc.php:178
+#: includes/admin/class-wpsisac-vc.php:219
+#: includes/admin/class-wpsisac-vc.php:258
+#: includes/admin/class-wpsisac-vc.php:293
+#: includes/admin/class-wpsisac-vc.php:305
+#: includes/admin/class-wpsisac-vc.php:340
+#: includes/admin/class-wpsisac-vc.php:419
+#: includes/admin/class-wpsisac-vc.php:454
+#: includes/admin/class-wpsisac-vc.php:526
+#: includes/admin/class-wpsisac-vc.php:567
+#: includes/admin/class-wpsisac-vc.php:606
+#: includes/admin/class-wpsisac-vc.php:659
+#: includes/admin/class-wpsisac-vc.php:671
+#: includes/admin/class-wpsisac-vc.php:702
+#: includes/admin/class-wpsisac-vc.php:775
+#: includes/admin/class-wpsisac-vc.php:810
+#: includes/admin/class-wpsisac-vc.php:882
+#: includes/admin/class-wpsisac-vc.php:923
+#: includes/admin/class-wpsisac-vc.php:962
+#: includes/admin/class-wpsisac-vc.php:997
+#: includes/admin/class-wpsisac-vc.php:1009
+msgid "True"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:85
+#: includes/admin/class-wpsisac-vc.php:107
+#: includes/admin/class-wpsisac-vc.php:179
+#: includes/admin/class-wpsisac-vc.php:220
+#: includes/admin/class-wpsisac-vc.php:259
+#: includes/admin/class-wpsisac-vc.php:294
+#: includes/admin/class-wpsisac-vc.php:306
+#: includes/admin/class-wpsisac-vc.php:339
+#: includes/admin/class-wpsisac-vc.php:420
+#: includes/admin/class-wpsisac-vc.php:455
+#: includes/admin/class-wpsisac-vc.php:527
+#: includes/admin/class-wpsisac-vc.php:568
+#: includes/admin/class-wpsisac-vc.php:607
+#: includes/admin/class-wpsisac-vc.php:660
+#: includes/admin/class-wpsisac-vc.php:672
+#: includes/admin/class-wpsisac-vc.php:701
+#: includes/admin/class-wpsisac-vc.php:776
+#: includes/admin/class-wpsisac-vc.php:811
+#: includes/admin/class-wpsisac-vc.php:883
+#: includes/admin/class-wpsisac-vc.php:924
+#: includes/admin/class-wpsisac-vc.php:963
+#: includes/admin/class-wpsisac-vc.php:998
+#: includes/admin/class-wpsisac-vc.php:1010
+msgid "False"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:87
+#: includes/admin/class-wpsisac-vc.php:422
+#: includes/admin/class-wpsisac-vc.php:778
+msgid "Show slides content or not."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:92
+#: includes/admin/class-wpsisac-vc.php:440
+#: includes/admin/class-wpsisac-vc.php:796
+msgid "Link Behaviour"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:95
+#: includes/admin/class-wpsisac-vc.php:443
+#: includes/admin/class-wpsisac-vc.php:799
+msgid "Same Window"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:96
+#: includes/admin/class-wpsisac-vc.php:444
+#: includes/admin/class-wpsisac-vc.php:800
+msgid "New Window"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:98
+#: includes/admin/class-wpsisac-vc.php:446
+#: includes/admin/class-wpsisac-vc.php:802
+msgid "Choose link bahaviour."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:103
+#: includes/admin/class-wpsisac-vc.php:451
+#: includes/admin/class-wpsisac-vc.php:807
+msgid "Show Read More"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:109
+msgid "Display Read More button or not."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:114
+#: includes/admin/class-wpsisac-vc.php:462
+#: includes/admin/class-wpsisac-vc.php:818
+msgid "Read More Text"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:117
+#: includes/admin/class-wpsisac-vc.php:465
+#: includes/admin/class-wpsisac-vc.php:821
+msgid "Control read more text."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:128
+#: includes/admin/class-wpsisac-vc.php:476
+#: includes/admin/class-wpsisac-vc.php:832
+msgid "Total items"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:131
+msgid "Enter number of slides to be displayed. Enter -1 to display all."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:132
+#: includes/admin/class-wpsisac-vc.php:149
+#: includes/admin/class-wpsisac-vc.php:161
+#: includes/admin/class-wpsisac-vc.php:170
+#: includes/admin/class-wpsisac-vc.php:182
+#: includes/admin/class-wpsisac-vc.php:191
+#: includes/admin/class-wpsisac-vc.php:200
+#: includes/admin/class-wpsisac-vc.php:209
+#: includes/admin/class-wpsisac-vc.php:480
+#: includes/admin/class-wpsisac-vc.php:497
+#: includes/admin/class-wpsisac-vc.php:509
+#: includes/admin/class-wpsisac-vc.php:518
+#: includes/admin/class-wpsisac-vc.php:530
+#: includes/admin/class-wpsisac-vc.php:539
+#: includes/admin/class-wpsisac-vc.php:548
+#: includes/admin/class-wpsisac-vc.php:557
+#: includes/admin/class-wpsisac-vc.php:836
+#: includes/admin/class-wpsisac-vc.php:853
+#: includes/admin/class-wpsisac-vc.php:865
+#: includes/admin/class-wpsisac-vc.php:874
+#: includes/admin/class-wpsisac-vc.php:886
+#: includes/admin/class-wpsisac-vc.php:895
+#: includes/admin/class-wpsisac-vc.php:904
+#: includes/admin/class-wpsisac-vc.php:913
+msgid "Data Settings"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:137
+#: includes/admin/class-wpsisac-vc.php:485
+#: includes/admin/class-wpsisac-vc.php:841
+msgid "Post Order By"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:140
+#: includes/admin/class-wpsisac-vc.php:488
+#: includes/admin/class-wpsisac-vc.php:844
+msgid "Post Date"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:141
+#: includes/admin/class-wpsisac-vc.php:489
+#: includes/admin/class-wpsisac-vc.php:845
+msgid "Post ID"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:142
+#: includes/admin/class-wpsisac-vc.php:490
+#: includes/admin/class-wpsisac-vc.php:846
+msgid "Post Author"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:143
+#: includes/admin/class-wpsisac-vc.php:491
+#: includes/admin/class-wpsisac-vc.php:847
+msgid "Post Title"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:144
+#: includes/admin/class-wpsisac-vc.php:492
+#: includes/admin/class-wpsisac-vc.php:848
+msgid "Post Modified Date"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:145
+#: includes/admin/class-wpsisac-vc.php:493
+#: includes/admin/class-wpsisac-vc.php:849
+msgid "Random"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:146
+#: includes/admin/class-wpsisac-vc.php:494
+#: includes/admin/class-wpsisac-vc.php:850
+msgid "Menu Order"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:148
+#: includes/admin/class-wpsisac-vc.php:496
+#: includes/admin/class-wpsisac-vc.php:852
+msgid "Select order type."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:157
+#: includes/admin/class-wpsisac-vc.php:505
+#: includes/admin/class-wpsisac-vc.php:861
+msgid "Descending"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:158
+#: includes/admin/class-wpsisac-vc.php:506
+#: includes/admin/class-wpsisac-vc.php:862
+msgid "Ascending"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:160
+#: includes/admin/class-wpsisac-vc.php:508
+#: includes/admin/class-wpsisac-vc.php:864
+msgid "Post Order."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:169
+msgid "Enter category id to display silder categories wise."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:175
+#: includes/admin/class-wpsisac-vc.php:523
+#: includes/admin/class-wpsisac-vc.php:879
+msgid "Include Category Children"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:181
+#: includes/admin/class-wpsisac-vc.php:529
+#: includes/admin/class-wpsisac-vc.php:885
+msgid "Include category children or not."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:187
+#: includes/admin/class-wpsisac-vc.php:535
+#: includes/admin/class-wpsisac-vc.php:891
+msgid "Display Specific Post"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:190
+#: includes/admin/class-wpsisac-vc.php:538
+#: includes/admin/class-wpsisac-vc.php:894
+msgid "Display specific posts."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:196
+#: includes/admin/class-wpsisac-vc.php:544
+#: includes/admin/class-wpsisac-vc.php:900
+msgid "Exclude Post"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:199
+#: includes/admin/class-wpsisac-vc.php:903
+msgid "Enter comma seperated post id which you do not want to display."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:205
+#: includes/admin/class-wpsisac-vc.php:553
+#: includes/admin/class-wpsisac-vc.php:909
+msgid "Exclude Category"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:208
+#: includes/admin/class-wpsisac-vc.php:912
+msgid ""
+"Enter comma seperated slider category which you do not want to display. "
+"Works only if `Category` field is empty."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:216
+#: includes/admin/class-wpsisac-vc.php:564
+#: includes/admin/class-wpsisac-vc.php:920
+msgid "Dots"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:222
+#: includes/admin/class-wpsisac-vc.php:926
+msgid "Show slider pagination dots."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:223
+#: includes/admin/class-wpsisac-vc.php:249
+#: includes/admin/class-wpsisac-vc.php:262
+#: includes/admin/class-wpsisac-vc.php:284
+#: includes/admin/class-wpsisac-vc.php:297
+#: includes/admin/class-wpsisac-vc.php:309
+#: includes/admin/class-wpsisac-vc.php:318
+#: includes/admin/class-wpsisac-vc.php:331
+#: includes/admin/class-wpsisac-vc.php:343
+#: includes/admin/class-wpsisac-vc.php:352
+#: includes/admin/class-wpsisac-vc.php:361
+#: includes/admin/class-wpsisac-vc.php:571
+#: includes/admin/class-wpsisac-vc.php:597
+#: includes/admin/class-wpsisac-vc.php:610
+#: includes/admin/class-wpsisac-vc.php:632
+#: includes/admin/class-wpsisac-vc.php:642
+#: includes/admin/class-wpsisac-vc.php:651
+#: includes/admin/class-wpsisac-vc.php:663
+#: includes/admin/class-wpsisac-vc.php:675
+#: includes/admin/class-wpsisac-vc.php:684
+#: includes/admin/class-wpsisac-vc.php:693
+#: includes/admin/class-wpsisac-vc.php:705
+#: includes/admin/class-wpsisac-vc.php:714
+#: includes/admin/class-wpsisac-vc.php:927
+#: includes/admin/class-wpsisac-vc.php:953
+#: includes/admin/class-wpsisac-vc.php:966
+#: includes/admin/class-wpsisac-vc.php:988
+#: includes/admin/class-wpsisac-vc.php:1001
+#: includes/admin/class-wpsisac-vc.php:1013
+#: includes/admin/class-wpsisac-vc.php:1022
+#: includes/admin/class-wpsisac-vc.php:1031
+#: includes/admin/class-wpsisac-vc.php:1040
+#: includes/admin/class-wpsisac-vc.php:1049
+msgid "Slider Settings"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:228
+#: includes/admin/class-wpsisac-vc.php:576
+#: includes/admin/class-wpsisac-vc.php:932
+msgid "Slider Dots Design"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:231
+#: includes/admin/class-wpsisac-vc.php:579
+#: includes/admin/class-wpsisac-vc.php:935
+msgid "Dots Design 1"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:232
+#: includes/admin/class-wpsisac-vc.php:580
+#: includes/admin/class-wpsisac-vc.php:936
+msgid "Dots Design 2"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:233
+#: includes/admin/class-wpsisac-vc.php:581
+#: includes/admin/class-wpsisac-vc.php:937
+msgid "Dots Design 3"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:234
+#: includes/admin/class-wpsisac-vc.php:582
+#: includes/admin/class-wpsisac-vc.php:938
+msgid "Dots Design 4"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:235
+#: includes/admin/class-wpsisac-vc.php:583
+#: includes/admin/class-wpsisac-vc.php:939
+msgid "Dots Design 5"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:236
+#: includes/admin/class-wpsisac-vc.php:584
+#: includes/admin/class-wpsisac-vc.php:940
+msgid "Dots Design 6"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:237
+#: includes/admin/class-wpsisac-vc.php:585
+#: includes/admin/class-wpsisac-vc.php:941
+msgid "Dots Design 7"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:238
+#: includes/admin/class-wpsisac-vc.php:586
+#: includes/admin/class-wpsisac-vc.php:942
+msgid "Dots Design 8"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:239
+#: includes/admin/class-wpsisac-vc.php:587
+#: includes/admin/class-wpsisac-vc.php:943
+msgid "Dots Design 9"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:240
+#: includes/admin/class-wpsisac-vc.php:588
+#: includes/admin/class-wpsisac-vc.php:944
+msgid "Dots Design 10"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:241
+#: includes/admin/class-wpsisac-vc.php:589
+#: includes/admin/class-wpsisac-vc.php:945
+msgid "Dots Design 11"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:242
+#: includes/admin/class-wpsisac-vc.php:590
+#: includes/admin/class-wpsisac-vc.php:946
+msgid "Dots Design 12"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:244
+#: includes/admin/class-wpsisac-vc.php:592
+#: includes/admin/class-wpsisac-vc.php:948
+msgid "Choose slider dots design."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:255
+#: includes/admin/class-wpsisac-vc.php:603
+#: includes/admin/class-wpsisac-vc.php:959
+msgid "Arrows"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:261
+#: includes/admin/class-wpsisac-vc.php:609
+#: includes/admin/class-wpsisac-vc.php:965
+msgid "Show Prev - Next arrows."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:267
+#: includes/admin/class-wpsisac-vc.php:615
+#: includes/admin/class-wpsisac-vc.php:971
+msgid "Slider Arrows Design"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:270
+#: includes/admin/class-wpsisac-vc.php:618
+#: includes/admin/class-wpsisac-vc.php:974
+msgid "Arrows Design 1"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:271
+#: includes/admin/class-wpsisac-vc.php:619
+#: includes/admin/class-wpsisac-vc.php:975
+msgid "Arrows Design 2"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:272
+#: includes/admin/class-wpsisac-vc.php:620
+#: includes/admin/class-wpsisac-vc.php:976
+msgid "Arrows Design 3"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:273
+#: includes/admin/class-wpsisac-vc.php:621
+#: includes/admin/class-wpsisac-vc.php:977
+msgid "Arrows Design 4"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:274
+#: includes/admin/class-wpsisac-vc.php:622
+#: includes/admin/class-wpsisac-vc.php:978
+msgid "Arrows Design 5"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:275
+#: includes/admin/class-wpsisac-vc.php:623
+#: includes/admin/class-wpsisac-vc.php:979
+msgid "Arrows Design 6"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:276
+#: includes/admin/class-wpsisac-vc.php:624
+#: includes/admin/class-wpsisac-vc.php:980
+msgid "Arrows Design 7"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:277
+#: includes/admin/class-wpsisac-vc.php:625
+#: includes/admin/class-wpsisac-vc.php:981
+msgid "Arrows Design 8"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:279
+#: includes/admin/class-wpsisac-vc.php:627
+#: includes/admin/class-wpsisac-vc.php:983
+msgid "Choose slider arrows design."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:290
+#: includes/admin/class-wpsisac-vc.php:656
+#: includes/admin/class-wpsisac-vc.php:994
+msgid "Autoplay"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:296
+#: includes/admin/class-wpsisac-vc.php:662
+#: includes/admin/class-wpsisac-vc.php:1000
+msgid "Enable autoplay."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:302
+#: includes/admin/class-wpsisac-vc.php:668
+#: includes/admin/class-wpsisac-vc.php:1006
+msgid "Loop"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:308
+#: includes/admin/class-wpsisac-vc.php:674
+#: includes/admin/class-wpsisac-vc.php:1012
+msgid "Enable loop."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:314
+#: includes/admin/class-wpsisac-vc.php:680
+#: includes/admin/class-wpsisac-vc.php:1018
+msgid "Autoplay Interval"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:317
+#: includes/admin/class-wpsisac-vc.php:683
+#: includes/admin/class-wpsisac-vc.php:1021
+msgid "Enter autoplay speed."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:327
+#: includes/admin/class-wpsisac-vc.php:689
+#: includes/admin/class-wpsisac-vc.php:1027
+msgid "Speed"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:330
+msgid "Enter slider speed."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:336
+msgid "Fade"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:342
+msgid "Enable fade effect instead of slide effect."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:348
+#: includes/admin/class-wpsisac-vc.php:710
+#: includes/admin/class-wpsisac-vc.php:1045
+msgid "Slider Height"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:351
+msgid "Enter slider height. Leave empty for default height."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:357
+msgid "Slider Navigation Columns"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:360
+msgid "Enter slider navigation columns."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:375
+msgid "WPOS - Slick Carousel"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:380
+msgid "Display slick carousel slider."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:389
+msgid "Carousel Design 11"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:390
+msgid "Carousel Design 12"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:391
+msgid "Carousel Design 13"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:392
+msgid "Carousel Design 14"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:393
+msgid "Carousel Design 15"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:394
+msgid "Carousel Design 16"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:395
+msgid "Carousel Design 17"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:396
+msgid "Carousel Design 18"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:397
+msgid "Carousel Design 19"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:398
+msgid "Carousel Design 20"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:399
+msgid "Carousel Design 21"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:400
+msgid "Carousel Design 22"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:401
+msgid "Carousel Design 23"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:402
+msgid "Carousel Design 24"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:403
+msgid "Carousel Design 25"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:404
+msgid "Carousel Design 26"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:405
+msgid "Carousel Design 27"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:406
+msgid "Carousel Design 28"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:407
+msgid "Carousel Design 29"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:408
+msgid "Carousel Design 30"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:410
+msgid "Choose carousel slider design."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:427
+#: includes/admin/class-wpsisac-vc.php:783
+msgid "Image Size"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:430
+#: includes/admin/class-wpsisac-vc.php:786
+msgid "Large"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:431
+#: includes/admin/class-wpsisac-vc.php:787
+msgid "Original"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:432
+#: includes/admin/class-wpsisac-vc.php:788
+msgid "Medium"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:433
+#: includes/admin/class-wpsisac-vc.php:789
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:435
+#: includes/admin/class-wpsisac-vc.php:791
+msgid "Choose slider image size."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:457
+msgid "Display silder with title."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:479
+msgid "Enter number slides to be displayed. Enter -1 to display all."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:517
+#: includes/admin/class-wpsisac-vc.php:873
+msgid "Enter category id to display Sildes categories wise."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:547
+msgid "Enter post id which you do not want to display."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:556
+msgid "Exclude slides category. Works only if `Category` field is empty."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:570
+msgid "Show pagination dots."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:638
+msgid "Slide To Show"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:641
+msgid "Enter Slide to show."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:647
+msgid "Slide To Scroll"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:650
+msgid "Enter slide to scroll."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:692
+#: includes/admin/class-wpsisac-vc.php:1030
+msgid "Enter slide speed."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:698
+msgid "Centermode"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:704
+msgid "Enable centermode."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:713
+#: includes/admin/class-wpsisac-vc.php:1048
+msgid "Enter slider height."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:728
+msgid "WPOS - Slick Variable"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:733
+msgid "Display slick slider variable width."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:742
+msgid "Variable Slider Design 11"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:743
+msgid "Variable Slider Design 12"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:744
+msgid "Variable Slider Design 13"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:745
+msgid "Variable Slider Design 14"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:746
+msgid "Variable Slider Design 15"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:747
+msgid "Variable Slider Design 16"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:748
+msgid "Variable Slider Design 17"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:749
+msgid "Variable Slider Design 18"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:750
+msgid "Variable Slider Design 19"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:751
+msgid "Variable Slider Design 20"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:752
+msgid "Variable Slider Design 21"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:753
+msgid "Variable Slider Design 22"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:754
+msgid "Variable Slider Design 23"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:755
+msgid "Variable Slider Design 24"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:756
+msgid "Variable Slider Design 25"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:757
+msgid "Variable Slider Design 26"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:758
+msgid "Variable Slider Design 27"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:759
+msgid "Variable Slider Design 28"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:760
+msgid "Variable Slider Design 29"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:761
+msgid "Variable Slider Design 30"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:762
+msgid "Variable Slider Design 31"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:763
+msgid "Variable Slider Design 32"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:764
+msgid "Variable Slider Design 33"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:766
+msgid "Choose variable slider design."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:813
+msgid "Display slider with title."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:835
+msgid "Enter number to be displayed. Enter -1 to display all."
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:1036
+msgid "Center Slide Width"
+msgstr ""
+
+#: includes/admin/class-wpsisac-vc.php:1039
+#, php-format
+msgid ""
+"Enter center slide width. Leave empty for default width. e.g 80% or 500px"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:22
+msgid "How it works - WP Slick Slider and Image Carousel Pro"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:22
+#: includes/admin/wpsisac-how-it-work.php:118
+msgid "How It Works"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:103
+msgid ""
+"There was an error retrieving the data from the server. Please try again "
+"later."
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:121
+msgid "Our Plugins"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:127
+msgid "WPOS Offers"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:163
+msgid "How It Works - Display and Shortcode"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:171
+msgid "Getting Started with Slick Slider"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:175
+msgid "Step-1. Go to \"Slick Slider Pro --> Add Slide tab\"."
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:176
+msgid "Step-2. Add image title, description and images as a featured image"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:177
+msgid "Step-3. Repeat this process for number of slides you want."
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:178
+msgid ""
+"Step-4. To display multiple slider, you can use category shortcode under "
+"\"Slick Slider Pro --> Slider Category\""
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:185
+msgid "How Shortcode Works"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:189
+msgid "Step-1. Create a page like Slider OR add the shortcode in any page."
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:190
+msgid "Step-2. Put below shortcode as per your need."
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:197
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:201
+msgid "Slick Carousel Slider"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:202
+msgid "Slick Variable Slider"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:219
+msgid "Need Support?"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:222
+msgid "Check plugin document for shortcode parameters and demo for designs."
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:223
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:224
+msgid "View PRO Designs "
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:235
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:238
+msgid "Enjoyed this plugin? You can help by rate this plugin"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:238
+msgid "5 stars!"
+msgstr ""
+
+#: includes/shortcode/wpsisac-carousel.php:30
+#: includes/shortcode/wpsisac-carousel.php:60
+#: includes/shortcode/wpsisac-slider.php:31
+#: includes/shortcode/wpsisac-slider.php:63
+#: includes/shortcode/wpsisac-variable-slider.php:28
+#: includes/shortcode/wpsisac-variable-slider.php:56
+msgid "Read More"
+msgstr ""
+
+#: includes/shortcode/wpsisac-slider.php:176
+msgid "Slider Nav Image"
+msgstr ""
+
+#: includes/admin/metabox/wpsisac-post-sett-metabox.php:24
+msgid "Read More Link"
+msgstr ""
+
+#: includes/admin/metabox/wpsisac-post-sett-metabox.php:28
+msgid "Enter read more link. eg. http://wponlinesupport.com"
+msgstr ""
+
+#: includes/admin/settings/wpsisac-settings.php:15
+msgid "WP Slick Slider and Image Carousel Pro Settings"
+msgstr ""
+
+#: includes/admin/settings/wpsisac-settings.php:43
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin/settings/wpsisac-settings.php:52
+msgid "Default Featured Image"
+msgstr ""
+
+#: includes/admin/settings/wpsisac-settings.php:56
+msgid "Upload Image"
+msgstr ""
+
+#: includes/admin/settings/wpsisac-settings.php:56
+msgid "Choose Image"
+msgstr ""
+
+#: includes/admin/settings/wpsisac-settings.php:56
+msgid "Insert Image"
+msgstr ""
+
+#: includes/admin/settings/wpsisac-settings.php:56
+msgid "Clear"
+msgstr ""
+
+#: includes/admin/settings/wpsisac-settings.php:57
+msgid ""
+"Upload default featured image or provide an external URL of image. If your "
+"post does not have featured image then this will be displayed instead of "
+"blank grey box."
+msgstr ""
+
+#: includes/admin/settings/wpsisac-settings.php:69
+#: includes/admin/settings/wpsisac-settings.php:111
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin/settings/wpsisac-settings.php:93
+msgid "Custom CSS Settings"
+msgstr ""
+
+#: includes/admin/settings/wpsisac-settings.php:102
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/admin/settings/wpsisac-settings.php:106
+msgid "Enter custom CSS to override plugin CSS."
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Slick Slider and Image Carousel Pro"
+msgstr ""
+
+#. Description of the plugin
+msgid "Easy to add and display wp slick image slider and carousel."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wponlinesupport.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP Online Support"
+msgstr ""

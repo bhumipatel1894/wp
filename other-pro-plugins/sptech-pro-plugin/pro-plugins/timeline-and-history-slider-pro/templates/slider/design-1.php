@@ -1,0 +1,49 @@
+<div id="wphtsp-slider-nav-<?php echo $unique; ?>" class="wphtsp-slider-nav wphtsp-slick-slider" <?php echo $slider_as_nav_for; ?>>
+	<?php while ( $query->have_posts() ) : $query->the_post();
+		$feat_image = wphtsp_get_post_featured_image( $post->ID, $image_size, true );
+	?>
+	<div class="wphtsp-slider-nav-title <?php echo 'wphtsp-slides-'.$slidestoshow; ?>">
+		<div class="wphtsp-main-title"><?php if(!empty($feat_image)){ ?><img src="<?php echo $feat_image; ?>"><?php } ?></div>
+		<div class="wphtsp-title"><div><?php echo the_title(); ?></div></div>
+	</div>
+	<?php endwhile; ?>
+</div>
+
+<div class="wphtsp-slider-for-<?php echo $unique; ?> wphtsp-slider-for wphtsp-slick-slider">
+	<?php while ( $query->have_posts() ) : $query->the_post();
+		$post_link = wphtsp_get_post_link( $post->ID ); 
+	?>
+		<div class="wphtsp-slider-nav-content">
+			<div class="wphtsp-slider-nav-wrapper wphtsp-clearfix" <?php echo $background_style; ?>>
+				<?php if( $show_title ) { ?>
+				<h2 class="wphtsp-content-title">
+					<?php if( $link ) { ?>
+					<a href="<?php echo $post_link; ?>" target="<?php echo $link_target; ?>" <?php echo $font_style; ?>><?php the_title(); ?></a>
+					<?php } else { ?>
+					<span <?php echo $font_style; ?>><?php the_title(); ?></span>
+					<?php } ?>
+				</h2>
+				<?php } ?>
+
+				<?php if ($show_date == 'true'){ ?>
+				<div class="wphtsp-post-date">
+					<span <?php echo $font_style; ?>><i class="fa fa-calendar"></i> <?php echo get_the_date($date_format); ?></span>
+				</div>
+				<?php }
+
+				if($showContent == "true") { ?>
+					<div class="wphtsp-content">			
+						<?php  if($showFullContent == "false" ) { ?>
+							<div class="wphtsp-tl-content" <?php echo $font_style; ?>><?php echo wphts_pro_get_post_excerpt( $post->ID, get_the_content(), $words_limit, $content_tail ); ?></div>
+							<?php if($showreadmore == 'true') { ?>
+								<a class="wphtsp-read-more" href="<?php echo $post_link; ?>" target="<?php echo $link_target; ?>" <?php echo $font_style; ?>><?php echo esc_html($read_more_text); ?></a>
+							<?php }
+						} else { ?>
+							<div class="wphtsp-tl-content wphtsp-fullcontent" <?php echo $font_style; ?>><?php echo the_content(); ?></div>
+						<?php } ?>
+					</div>
+				<?php } ?>
+			</div>
+		</div>
+	<?php endwhile; ?>
+</div>

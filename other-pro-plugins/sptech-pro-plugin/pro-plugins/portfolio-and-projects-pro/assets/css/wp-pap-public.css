@@ -1,0 +1,407 @@
+/************* portfolio Jquery **************/
+.wppap-portfolio-content{display: none;}
+ul.wppap-thumbs {padding: 0 !important;margin: 0 !important;width: 100%; list-style: none !important;}
+ul.wppap-thumbs li.thum-list{height: 200px;overflow: hidden;float: left;position: relative;}
+ul.wppap-thumbs li .wppap-portfolio-bg {height:100%;}
+.wppap-no-image .wppap-portfolio-bg{background: #e1e1e1;}
+
+ul.wppap-thumbs li.wppap-portfolio-wrp .wppap-portfolio-bg .wppap-portfolio-img { border: 0; border-radius: 0 !important;box-shadow: none !important; max-width: 100%; max-height: 100%;}
+ul.wppap-thumbs.wp-pap-image-fit li.wppap-portfolio-wrp .wppap-portfolio-bg .wppap-portfolio-img {object-fit: cover; object-position: top center; width: 100%; height: 100%;}
+
+ul.wppap-thumbs li .wppap-thumbnail h4 {position: absolute;top: 0;left: 0;padding: 7px 10px;text-transform: uppercase;background-color: #efefef;color: #6b6b6b;font-size: 14px;margin: 0;}
+ul.wppap-thumbs li .wppap-active-arrow {width: 0;height: 0;border-left: 18px solid transparent;border-right: 18px solid transparent;border-bottom: 18px solid #fff;bottom: -2px;z-index: 99;position: absolute;left: 0;right: 0;margin: 0 auto;}
+ul.wppap-thumbs li.wppap-content {width: 100% !important;display: none;background: none;float: left;height: 250px;position: relative;padding: 45px 0 45px;}
+ul.wppap-thumbs li.wppap-content h3 {display: inline-block;}
+ul.wppap-thumbs li.wppap-content .wppap-close {position: absolute;top: 0;right: 0;color: #c2c2c2;cursor: pointer;font-weight: normal;font-family: -webkit-pictograph;font-size: 50px;line-height: 50px;}
+ul.wppap-thumbs li.wppap-content .wppap-close:hover {opacity: 0.7; transform: rotate(180deg);}
+
+.wppap-close {right: 15px !important; transition: all 0.5s ease-in-out 0s;}
+
+.wppap-content.wppap-inline-popup-masonry-cnt{z-index:2;}
+
+@media (max-width: 590px) {
+	ul.wppap-thumbs li {width: 100% !important;}
+    .wppap-main-wrapper .wppap-slider-wrapper .wpapap-portfolio-img-slider ul.slick-dots > li {width: 16px !important;font-size: 0 !important;}
+    .wppap-main-wrapper ul.wppap-thumbs li.wppap-content {height: auto !important;}
+    .wppap-right-content {padding: 20px 0 !important;}
+    .wppap-main-wrapper > ul.wppap-thumbs > li.wppap-content .wppap-close {top: 4px !important;font-size: 40px !important;line-height: 40px !important;}
+    .wppap-main-wrapper ul.wppap-thumbs li.wppap-content {margin-bottom: 0px;}
+    .wpapap-portfolio-img-slider .slick-dots {bottom: 10px;}
+    .popup-main-wrapper .popup-img-grp button.slick-arrow {top: auto !important;bottom: 0 !important;}
+    .popup-main-wrapper .popup-img-grp button.slick-prev {right: 30px;left: auto;}
+}
+
+/************* Slider Common CSS Starts ************/
+.wppap-img-grp{visibility: hidden; opacity:0; transition:opacity 0.3s linear;-webkit-transition:opacity 0.3s linear;}
+.slick-initialized{visibility: visible !important; opacity:1 !important;}
+
+/************** Pagination **************/
+.wppap-paging{width:100%;padding:15px 0 10px 0;text-align: center;color: #666; clear:both;}
+.wppap-paging a{color: #fff !important;background: #666;padding: 7px 10px; margin:0 1px 6px 1px; display: inline-block;text-align: center;line-height: normal;box-shadow: none;text-shadow: none;font-size: 14px;border: 1px solid #666;text-decoration: none !important;-webkit-transition: all .3s ease;transition: all .3s ease;}
+.wppap-paging .page-numbers.current{color: #666;background: transparent;padding: 7px 10px;display: inline-block;text-align: center;line-height: normal;box-shadow: none;text-shadow: none;font-size: 14px;text-transform: uppercase;border: 1px solid #666;text-decoration: none !important;}
+.wppap-paging a:hover,
+.wppap-paging a:focus,
+.wppap-paging a:visited:hover{color: #666 !important;background: #fff;}
+.wppap-paging a.prev, .wppap-paging a.next{min-width:80px;}
+.wppap-paging .wppap-next-btn{float:right;}
+.wppap-paging .wppap-prev-btn{float:left;}
+.wppap-paging .wppap-pagi-btn a{min-width:80px;}
+
+/************** Table **************/
+table.wppap-portfolio-meta-tbl {font-size: 11px; line-height: normal; text-transform: capitalize; margin:0 !important; border: none !important;}
+table.wppap-portfolio-meta-tbl tr:nth-of-type(2n) {background: transparent;}
+table.wppap-portfolio-meta-tbl tr{border-width: 1px 0px 1px 0px !important; border-style: solid !important; border-color: #ededed !important; margin:0 !important;}
+table.wppap-portfolio-meta-tbl th {padding: 5px 5px !important;font-weight: 600;color: #303133 !important; font-size: 11px; line-height: normal; text-transform: capitalize;}
+table.wppap-portfolio-meta-tbl td {padding: 5px 5px !important; font-size: 11px; line-height: normal; text-transform: capitalize; text-align: left;}
+.wppap-popup-cats, .wppap-popup-tags{color: #777 !important;}
+
+a.wppap-project-url-btn {text-decoration: none;}
+a.wppap-project-url-btn:hover, a.wppap-project-url-btn:focus {color: #363636 !important;}
+
+/************** Filter **************/
+.wppap-filter ul li:after, .wppap-filter ul li:before {content:''; line-height:0; margin:0; padding:0;}
+.wppap-filter{list-style: none !important;text-align: center;}
+.wppap-filter li a{text-decoration: none;font-size: 13px;text-transform: uppercase;font-weight: 600;display: block;position: relative;cursor: pointer;color: #000;background: transparent;padding: 5px 10px;line-height: normal;-webkit-transition: all 0.5s ease-in-out;transition: all 0.5s ease-in-out;border: 1px solid #e1e1e1;}
+
+.wppap-filter li {display: inline-block; float: none; position: relative;text-indent: 0; margin: 0px 5px 10px 5px !important;}
+.wppap-filter li:hover a,
+.wppap-filter li:focus a,
+.wppap-filter li.wppap-active-filtr a{background:#525252; color: #fff; border:1px solid #525252;}
+
+/************** Filter Animation CSS **************/
+.wppap-portfolio-filter .wppap-portfolio-wrp{
+-webkit-transform: scale(0);
+transform: scale(0);
+opacity: 0;
+display: none;
+-webkit-transition: opacity .3s ease-in-out, -webkit-transform .3s ease-in-out;
+transition: opacity .3s ease-in-out, -webkit-transform .3s ease-in-out;
+transition: transform .3s ease-in-out, opacity .3s ease-in-out, -webkit-transform .3s ease-in-out;
+}
+.wppap-portfolio-filter .wppap-portfolio-active{
+	display: block;
+	opacity: 1;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-animation: wppap-postfolio-anim 0.9s ease-in-out;
+	animation: wppap-postfolio-anim 0.9s ease-in-out;
+}
+
+@-webkit-keyframes wppap-postfolio-anim {
+  0% {
+    display: none;
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  }
+  1% {
+    display: block;
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    -webkit-transform: scale(0);
+    transform: scale(0);
+  }
+  100% {
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+}
+
+@keyframes wppap-postfolio-anim {
+  0% {
+    display: none;
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  }
+  1% {
+    display: block;
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    -webkit-transform: scale(0);
+    transform: scale(0);
+  }
+  100% {
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+}
+
+/************** Slick Slider CSS **************/
+.wppap-popup-img-info {position:absolute; bottom:0; background: -webkit-linear-gradient(top, transparent 0, rgba(0, 0, 0, .7) 100%);
+background: -moz-linear-gradient(top, transparent 0, rgba(0, 0, 0, .7) 100%);
+background: -o-linear-gradient(top, transparent 0, rgba(0, 0, 0, .7) 100%);
+background: -ms-linear-gradient(top, transparent 0, rgba(0, 0, 0, .7) 100%);
+background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, .7) 100%);
+filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#80000000', GradientType=0);
+width:100%;color:#fff;text-align: center;padding: 20px 10px 50px 10px; line-height: normal;}
+
+.wppap-popup-img-slick, .wppap-portfolio-slide {position:relative;}
+.wppap-img-grp .slick-arrow{text-indent:-99999px;box-shadow: none !important;}
+.wppap-img-grp button.slick-arrow {background-color: transparent!important; width:30px; height:50px; position:absolute; z-index:9; border:0px !important;padding:0 !important; margin:-20px 0 0 0 !important; border-radius:0px !important;top:50%;}
+.wppap-img-grp button.slick-next, 
+.wppap-img-grp button.slick-next:hover, 
+.wppap-img-grp button.slick-next:focus{background:rgba(0, 0, 0, 0.7) url('../images/arrow-right.png') center center no-repeat !important; outline:none !important;right:0;}
+.wppap-img-grp button.slick-prev, 
+.wppap-img-grp button.slick-prev:hover, 
+.wppap-img-grp button.slick-prev:focus{background:rgba(0, 0, 0, 0.7) url('../images/arrow-left.png') center center no-repeat !important; outline:none !important;left:0;}
+.wppap-img-grp .slick-dots{padding: 0 !important;margin: 0 auto !important;text-align: center;left: 0;right: 0;line-height: 0;position: absolute;bottom: 5px;}
+
+.wppap-img-grp .slick-dots li {vertical-align: middle;list-style: none !important;display: inline-block !important;margin: 0 3px !important;padding: 0px !important;height: 10px;float: none;line-height: normal;font-size: 0 !important;}
+.wppap-img-grp .slick-dots li button{text-indent:-99999px;}
+.wppap-img-grp .slick-dots li button{background:#fff !important; margin:0px !important; padding:0px !important;border-radius:50% !important; width:10px !important; height:10px !important;}
+
+.wppap-img-grp .slick-dots li button:focus{outline:none !important}
+.wppap-img-grp .slick-dots li.slick-active {border: 2px solid #fff;border-radius: 50%;height: 16px !important;width: 16px !important;}
+.wppap-img-grp .slick-dots li.slick-active button{height: 12px !important;width: 12px !important;border: none;-webkit-transform: scale3d(0.7, 0.7, 0.7);transform: scale3d(0.7, 0.7, 0.7);}
+.wppap-img-grp .slick-dots li {box-sizing: border-box;-webkit-box-sizing: border-box;}
+
+.wppap-thumbnail span.wppap-description {line-height: normal;}
+
+/************* Slider Common CSS Ends ************/
+.wppap-clearfix:after,
+.wppap-clearfix:after{content: "";display: table;}
+.wppap-clearfix:after{clear:both;}
+
+.wppap-slider-conf, .wppap-thumb-conf {display: none;}
+.wppap-main-wrapper ul.wppap-thumbs li.wppap-content {height:auto; width:100%; background: #fff;}
+.wpapap-portfolio-img-slider, .wpapap-portfolio-img-slider .wppap-portfolio-slide{height: 300px;}
+
+.wppap-main-wrapper ul.wppap-thumbs {margin: 0 !important;}
+.wppap-main-wrapper ul.wppap-thumbs li.thum-list {height: 350px; position: relative; list-style: none;}
+.wppap-portfolio-wrp.wppap-columns{padding: 0.9375em;}
+.wppap-main-wrapper *, .wppap-popup-main-wrapper *{box-sizing: border-box;-webkit-box-sizing: border-box;}
+.wppap-main-wrapper ul li::before,
+.wppap-main-wrapper ul li::after{content:none;}
+ul.wppap-thumbs li{margin:0;}
+
+.wpapap-portfolio-img-slider{width:100%;float: left;}
+.wpapap-portfolio-img-slider .wppap-portfolio-slide img{object-fit: cover;object-position:top center;height:100%;width:100%;border-radius: 0 !important;box-shadow: none !important;}
+.wppap-right-content{width: 100%;float: right;}
+.wppap-right-content .wppap-title{font-size:20px;font-weight:600;text-transform: capitalize;}
+
+/***************** Grid CSS *********************/
+.wppap-portfolio-wrp.wppap-first {clear:both;}
+.wppap-portfolio-filter .wppap-portfolio-wrp.wppap-first {clear:none;}
+
+.wppap-column,
+.wppap-columns {padding-left: 0.9375em;  padding-right: 0.9375em;  width: 100%;  float: left; position: relative;}
+
+@media only screen {
+	.wppap-column,  .wppap-columns {position: relative;padding-left: 0.9375em;padding-right: 0.9375em; float: left;}
+}
+
+@media only screen and (min-width: 40.0625em) {  
+	.wppap-column,
+	.wppap-columns {position: relative;padding-left: 0.9375em;padding-right: 0.9375em;float: left;}
+	.wppap-medium-1 {width: 8.33333%;}
+	.wppap-medium-2 {width: 16.66667%;}
+	.wppap-medium-3 {width: 25%;}
+	.wppap-medium-4 {width: 33.33333%;}
+	.wppap-medium-5 {width: 41.66667%;}
+	.wppap-medium-6 {width: 50%;}
+	.wppap-medium-7 {width: 58.33333%;}
+	.wppap-medium-8 {width: 66.66667%;}
+	.wppap-medium-9 {width: 75%;}
+	.wppap-medium-10 {width: 83.33333%;}
+	.wppap-medium-11 {width: 91.66667%;}
+	.wppap-medium-12 {width: 100%;}
+
+	.slick-dots li {font-size: 0 !important;}	
+}
+
+@media only screen and (min-width: 40.063em) and (max-width: 64em) { 
+	.wppap-main-wrapper ul.wppap-thumbs li.wppap-content {height: auto;}
+	.wpapap-portfolio-img-slider ul.wppap-thumbs li {width: 10px !important;}
+	.wpapap-portfolio-img-slider .slick-dots{bottom: 10px;}
+	.wppap-design-8 li .wppap-thumbnail .wppap-title-overlay .wppap-cats,
+	.wppap-design-9 li .wppap-thumbnail .wppap-title-overlay .wppap-cats {padding: 5px !important;}
+	.wppap-design-8 li .wppap-thumbnail,
+	.wppap-design-9 li .wppap-thumbnail {padding: 10px !important;}
+	.wppap-design-6 li .wppap-thumbnail .wppap-title-overlay::before {top: 20px !important;right: 10px !important;bottom: 20px !important;left: 10px !important;}
+	.wppap-design-6 li .wppap-thumbnail .wppap-title-overlay::after {top: 10px !important;right: 20px !important;bottom: 10px !important;left: 20px !important;}
+	.wppap-design-6 li .wppap-thumbnail .wppap-title-overlay .wppap-cats,
+	.wppap-design-6 li .wppap-thumbnail .wppap-title-overlay .wppap-description {padding: 0 15px !important;}
+
+	.wppap-portfolio-wrp.wppap-medium-4,
+	.wppap-portfolio-wrp.wppap-medium-3
+	{width: 50%;}
+	.wppap-portfolio-wrp.wppap-first {clear:none;}
+} 
+
+.wppap-main-wrapper .wppap-title-overlay .wppap-description {font-size: 18px;margin-bottom: 5px;line-height: normal; display: block;}
+.wppap-main-wrapper .wppap-cats { font-size: 13px; font-weight:400; line-height: normal; margin-bottom: 10px;}
+
+.wppap-main-wrapper .wppap-title-overlay .wppap-description,
+.wppap-main-wrapper .wppap-cats { padding: 0px 20px; }
+
+ul.wppap-popup-list{list-style: none;}
+ul.wppap-popup-list li{display: inline-block;}
+
+ul.wppap-thumbs li .wppap-title-overlay{ display: table; display: -webkit-inline-box; -webkit-box-pack: center;-webkit-box-align: center; text-decoration: none;font-size: 18px;color: #fff;font-weight: 600;  padding: 10px; text-transform: capitalize; width: 100%; position: absolute; height: 100%; text-align: center; top: 0;}
+.wppap-thumbs .wppap-li-inner-wrap { height: 100%; position: relative; overflow: hidden;}
+
+.wppap-thumbnail { position: absolute; top: 0; width: 100%; height: 100%; left: 0; z-index: 1;}
+
+.wppap-main-wrapper li .wppap-title-overlay .wppap-title-overlay-wrp {display: table-cell; vertical-align: middle;}
+
+.wppap-external-link-popup {display: inline-block; position: relative; z-index: 11;}
+
+ul.wppap-thumbs li.thum-list .wppap-external-link-popup a.wppap-external-link {background: #e26867 url('../images/link-symbol.png') center center no-repeat;}
+ul.wppap-thumbs li.thum-list .wppap-external-link-popup a.wppap-popup-link  {background: #e26867 url('../images/zoom-in.png') center center no-repeat;}
+
+ul.wppap-thumbs li.thum-list .wppap-external-link-popup a.wppap-external-link, 
+ul.wppap-thumbs li.thum-list .wppap-external-link-popup a.wppap-popup-link {display: inline-block;height: 40px;width: 40px;border-radius: 5px;border: 2px solid transparent; -webkit-transition: 0.3s all ease-in; transition: 0.3s all ease-in; }
+ul.wppap-thumbs li.thum-list .wppap-external-link-popup a.wppap-external-link:hover, 
+ul.wppap-thumbs li.thum-list .wppap-external-link-popup a.wppap-popup-link:hover {background-color: transparent; border-color: #FFF; }
+
+/************* design 1 *************/
+.wppap-main-wrapper .wppap-design-1 li .wppap-title-overlay {opacity: 0; background-color: rgba(255, 255, 255, 0.7); bottom: 0; height: auto; color: #333; -webkit-transition: 0.3s all ease; -moz-transition: all 0.3s ease; transition: 0.3s all ease; top: auto;} 
+.wppap-main-wrapper .wppap-design-1 li .wppap-li-inner-wrap:hover .wppap-title-overlay {opacity: 1;}
+.wppap-main-wrapper .wppap-design-1 li .wppap-title-overlay .wppap-external-link-popup a.wppap-external-link:hover,
+.wppap-main-wrapper .wppap-design-1 li .wppap-title-overlay .wppap-external-link-popup a.wppap-popup-link:hover {border-color: #333; }
+.wppap-main-wrapper .wppap-design-1 li .wppap-title-overlay .wppap-external-link-popup a.wppap-external-link:hover {background: transparent url('../images/link-symbol-hover.png') center center no-repeat; }
+.wppap-main-wrapper .wppap-design-1 li .wppap-title-overlay .wppap-external-link-popup a.wppap-popup-link:hover {background: transparent url('../images/zoom-in-hover.png') center center no-repeat; }
+
+/************* design 2 *************/
+.wppap-main-wrapper .wppap-design-2 li .wppap-title-overlay {background-image: -webkit-linear-gradient(45deg, #020202, rgba(0, 34, 62, 0)); background-image: linear-gradient(45deg, #020202, rgba(0, 34, 62, 0)); -webkit-transform: translate3d(-100%,0,0); transform: translate3d(-100%,0,0); -webkit-transition: opacity 0.4s,-webkit-transform 0.4s; transition: opacity 0.4s,transform 0.4s; opacity: 0; margin: 0 auto; right: 0; left: 0;}
+.wppap-main-wrapper .wppap-design-2 li .wppap-li-inner-wrap:hover .wppap-title-overlay{-webkit-transition: opacity 0.4s,-webkit-transform 0.4s;transition: opacity 0.4s,transform 0.4s; opacity:1; -webkit-transform: translate3d(0%,0,0);transform: translate3d(0%,0,0);}
+
+/************* design 3 *************/
+.wppap-main-wrapper .wppap-design-3 li .wppap-title-overlay {background-image: -webkit-linear-gradient(bottom, rgba(255, 161, 127, 0.46), rgba(0, 34, 62, 0.93)); background-image: linear-gradient(to top, rgba(255, 161, 127, 0.46), rgba(0, 34, 62, 0.93)); -webkit-transform: translate3d(0,0,0) scale3d(0.7,0.7,0.7);transform: translate3d(0,0,0) scale3d(0.7,0.7,0.7);-webkit-transition: opacity 0.4s,-webkit-transform 0.4s;transition: opacity 0.4s,transform 0.4s;opacity: 0; margin: 0 auto; left: 0;right: 0;}
+.wppap-main-wrapper .wppap-design-3 li.thum-list .wppap-li-inner-wrap:hover .wppap-title-overlay{-webkit-transform: translate3d(0,0,0) scale3d(1,1,1);transform: translate3d(0,0,0) scale3d(1,1,1);opacity: 1;}
+
+/************* desing 4 *************/
+.wppap-main-wrapper .wppap-design-4 li .wppap-title-overlay { transition: 0.4s all ease-in-out; -webkit-transition: 0.4s all ease-in-out; z-index: 2; text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.41);}
+.wppap-main-wrapper .wppap-design-4 li .wppap-li-inner-wrap:hover .wppap-title-overlay { color: #393636; text-shadow: 0px 0px 0px transparent;}
+.wppap-main-wrapper .wppap-design-4 li .wppap-portfolio-bg .wppap-portfolio-bg-top {content: "";background: rgba(255, 255, 255, 0.65);top: -100%;left: 0px;bottom: 0px;position: absolute;height: 100%;width: 100%;z-index: 1; -webkit-transition: top .6s ease-in-out;transition: top .6s ease-in-out;}
+.wppap-main-wrapper .wppap-design-4 li .wppap-portfolio-bg .wppap-portfolio-bg-bottom {content: "";background: rgba(255, 255, 255, 0.65);right: -100%;top: 0px;bottom: 0px;position: absolute;height: 100%;width: 100%;z-index: 1; -webkit-transition: right .6s ease-in-out;transition: right .6s ease-in-out;}
+.wppap-main-wrapper .wppap-design-4 li .wppap-li-inner-wrap:hover .wppap-portfolio-bg .wppap-portfolio-bg-top{top: 0%;}
+.wppap-main-wrapper .wppap-design-4 li .wppap-li-inner-wrap:hover .wppap-portfolio-bg .wppap-portfolio-bg-bottom{right: 0%;}
+.wppap-main-wrapper .wppap-design-4 li .wppap-title-overlay .wppap-external-link-popup a.wppap-external-link:hover,
+.wppap-main-wrapper .wppap-design-4 li .wppap-title-overlay .wppap-external-link-popup a.wppap-popup-link:hover { border-color: #333; }
+.wppap-main-wrapper .wppap-design-4 li .wppap-title-overlay .wppap-external-link-popup a.wppap-external-link:hover { background: transparent url('../images/link-symbol-hover.png') center center no-repeat; }
+.wppap-main-wrapper .wppap-design-4 li .wppap-title-overlay .wppap-external-link-popup a.wppap-popup-link:hover { background: transparent url('../images/zoom-in-hover.png') center center no-repeat; }
+
+/************* desing 5 *************/
+.wppap-main-wrapper .wppap-design-5 li .wppap-title-overlay{ opacity: 0;transition: 0.4s all ease-in;-webkit-transition: 0.4s all ease-in; -webkit-transform: translate3d(0,0,0) rotateY(-90deg);-ms-transform: rotateY(-90deg);transform: translate3d(0,0,0) rotateY(-90deg);background-color: #2e1437;background-image: -webkit-linear-gradient(right, #948e99, #2e1437);background-image: linear-gradient(to left, #948e99, #2e1437);}
+.wppap-main-wrapper .wppap-design-5 li .wppap-li-inner-wrap:hover .wppap-title-overlay {opacity: 1;transition: 0.4s all ease-in;-webkit-transition: 0.4s all ease-in; -webkit-transform: translate3d(0,0,0) rotate(0deg);-ms-transform: rotate(0deg) scale(1);transform: translate3d(0,0,0) rotate(0deg);}
+
+/************* desing 6 *************/
+.wppap-main-wrapper .wppap-design-6 li .wppap-title-overlay{ opacity: 0;transition: 0.4s all ease-in;-webkit-transition: 0.4s all ease-in; background-color: rgba(41, 50, 60, 0.5); background-image: -webkit-linear-gradient(to left, rgba(72, 85, 99, 0.5), rgba(41, 50, 60, 0.5)); background-image: linear-gradient(to left, rgba(72, 85, 99, 0.5), rgba(41, 50, 60, 0.5));}
+.wppap-main-wrapper .wppap-design-6 li .wppap-li-inner-wrap:hover .wppap-title-overlay {opacity: 1;transition: 0.4s all ease-in;-webkit-transition: 0.4s all ease-in;}
+.wppap-main-wrapper .wppap-design-6 li .wppap-li-inner-wrap:hover .wppap-title-overlay::before, 
+.wppap-main-wrapper .wppap-design-6 li .wppap-li-inner-wrap:hover .wppap-title-overlay::after {opacity: 1;-webkit-transform: scale(1);transform: scale(1);}
+.wppap-main-wrapper .wppap-design-6 li .wppap-title-overlay::before, 
+.wppap-main-wrapper .wppap-design-6 li .wppap-title-overlay::after {-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;transition: opacity 0.35s, transform 0.35s;}
+.wppap-main-wrapper .wppap-design-6 li .wppap-title-overlay::before, 
+.wppap-main-wrapper .wppap-design-6 li .wppap-title-overlay::after {position: absolute;content: '';opacity: 0;}
+.wppap-main-wrapper .wppap-design-6 li .wppap-title-overlay::before { top: 20px; right: 8px; bottom: 20px; left: 8px; border-top: 2px solid #fff; border-bottom: 2px solid #fff; -webkit-transform: scale(0, 1); transform: scale(0, 1); -webkit-transform-origin: 0 0; transform-origin: 0 0;}
+.wppap-main-wrapper .wppap-design-6 li .wppap-title-overlay::after {top: 8px; right: 20px; bottom: 8px; left: 20px; border-right: 2px solid #fff; border-left: 2px solid #fff; -webkit-transform: scale(1, 0); transform: scale(1, 0); -webkit-transform-origin: 100% 0; transform-origin: 100% 0;}
+
+/************* desing 7 *************/
+.wppap-main-wrapper .wppap-design-7 li .wppap-title-overlay {background-image: -webkit-linear-gradient(-125deg, rgba(0, 0, 0, 1), rgba(255, 255, 255, 0)); background-image: linear-gradient(-125deg, rgba(0, 0, 0, 1), rgba(255, 255, 255, 0)); top: -200px;-ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";filter: alpha(opacity=0);opacity: 0;-webkit-transition: all 0.3s ease-out 0.5s;-moz-transition: all 0.3s ease-out 0.5s;-o-transition: all 0.3s ease-out 0.5s;-ms-transition: all 0.3s ease-out 0.5s;transition: all 0.3s ease-out 0.5s; left: 0;right: 0;}
+.wppap-main-wrapper .wppap-design-7 li .wppap-li-inner-wrap:hover .wppap-title-overlay {-ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=100)";filter: alpha(opacity=100);opacity: 1;top: 0px;-webkit-transition-delay: 0s;-moz-transition-delay: 0s;-o-transition-delay: 0s;-ms-transition-delay: 0s;transition-delay: 0s;-webkit-animation: bounceY 0.9s linear;-moz-animation: bounceY 0.9s linear;-ms-animation: bounceY 0.9s linear;animation: bounceY 0.9s linear;}
+.wppap-main-wrapper .wppap-design-7 li .wppap-description {-webkit-transform: translateY(-200px);-moz-transform: translateY(-200px);-o-transform: translateY(-200px);-ms-transform: translateY(-200px);transform: translateY(-200px);-webkit-transition: all 0.2s ease-in-out 0.1s;-moz-transition: all 0.2s ease-in-out 0.1s;-o-transition: all 0.2s ease-in-out 0.1s;-ms-transition: all 0.2s ease-in-out 0.1s;transition: all 0.2s ease-in-out 0.1s;}
+.wppap-main-wrapper .wppap-design-7 li .wppap-li-inner-wrap:hover .wppap-description {-webkit-transform: translateY(0px);-moz-transform: translateY(0px);-o-transform: translateY(0px);-ms-transform: translateY(0px);transform: translateY(0px);-webkit-transition-delay: 0.4s;-moz-transition-delay: 0.4s;-o-transition-delay: 0.4s;-ms-transition-delay: 0.4s;transition-delay: 0.4s;}
+.wppap-main-wrapper .wppap-design-7 li .wppap-cats {-webkit-transform: translateY(-200px);-moz-transform: translateY(-200px);-o-transform: translateY(-200px);-ms-transform: translateY(-200px);transform: translateY(-200px);-webkit-transition: all 0.2s ease-in-out 0.2s;-moz-transition: all 0.2s ease-in-out 0.2s;-o-transition: all 0.2s ease-in-out 0.2s;-ms-transition: all 0.2s ease-in-out 0.2s;transition: all 0.2s ease-in-out 0.2s;}
+.wppap-main-wrapper .wppap-design-7 li .wppap-li-inner-wrap:hover .wppap-cats {-webkit-transform: translateY(0px);-moz-transform: translateY(0px);-o-transform: translateY(0px);-ms-transform: translateY(0px);transform: translateY(0px);-webkit-transition-delay: 0.2s;-moz-transition-delay: 0.2s;-o-transition-delay: 0.2s;-ms-transition-delay: 0.2s;transition-delay: 0.2s;}
+
+/************* desing 8 *************/
+.wppap-main-wrapper .wppap-design-8 li .wppap-title-overlay { -webkit-transition: 0.3s all ease-in-out; transition: 0.3s all ease-in-out; overflow: hidden; background: -webkit-linear-gradient(-45deg, rgba(243, 207, 63, 0.4) 0%,rgba(243, 63, 88, 0.42) 100%); background: linear-gradient(-45deg, rgba(243, 207, 63, 0.4) 0%,rgba(243, 63, 88, 0.42) 100%); opacity: 0;}
+.wppap-main-wrapper .wppap-design-8 li .wppap-li-inner-wrap:hover .wppap-title-overlay { opacity: 1; }
+.wppap-main-wrapper .wppap-design-8 li .wppap-title-overlay::after { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-top: 1px solid #fff; border-bottom: 1px solid #fff; content: ''; opacity: 0; -webkit-transform: rotate3d(0,0,1,45deg) scale3d(1,0,1); transform: rotate3d(0,0,1,45deg) scale3d(1,0,1); -webkit-transform-origin: 50% 50%; transform-origin: 50% 50%; -webkit-transition: opacity 0.35s, -webkit-transform 0.35s; transition: opacity 0.35s, transform 0.35s; pointer-events: none;}
+.wppap-main-wrapper .wppap-design-8 li .wppap-li-inner-wrap:hover .wppap-title-overlay::after { opacity: 1; -webkit-transform: rotate3d(0,0,1,45deg) scale3d(1,1,1); transform: rotate3d(0,0,1,45deg) scale3d(1,1,1); }
+
+/************* desing 9 *************/
+.wppap-main-wrapper .wppap-design-9 li .wppap-title-overlay {-webkit-transition: 0.3s all ease-in-out; transition: 0.3s all ease-in-out; box-shadow: inset 0 0 10px 6px rgba(35, 82, 124, 0.80), 0 0 0 transparent; text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.7); background-color: transparent;}
+.wppap-main-wrapper .wppap-design-9 > li .wppap-li-inner-wrap:hover .wppap-title-overlay {background-color: rgba(35, 82, 124, 0.6);}
+
+/************* desing 10 *************/
+.wppap-main-wrapper .wppap-design-10 li .wppap-title-overlay { -webkit-transform: translate3d(0,0,0) rotateX(-90deg);-ms-transform: translate(0,0) rotateX(-90deg);transform: translate3d(0,0,0) rotateX(-90deg); transition: 0.4s all linear; -webkit-transition: 0.4s all linear; text-shadow: 0 0 2px rgba(0, 0, 0, 0.5); background: -webkit-linear-gradient(55deg, rgba(67, 198, 172, 0.6), rgba(25, 22, 84, 0.6)); background: linear-gradient(55deg, rgba(67, 198, 172, 0.6), rgba(25, 22, 84, 0.6));}
+.wppap-main-wrapper .wppap-design-10 li .wppap-li-inner-wrap:hover .wppap-title-overlay {-webkit-transform: translate3d(0,0,0) rotate(0deg) scale3d(1,1,1);-ms-transform: translate(0,0) rotate(0deg) scale(1);transform: translate3d(0,0,0) rotate(0deg) scale3d(1,1,1);transition: 0.4s all linear; -webkit-transition: 0.4s all linear;}
+
+/************* desing 11 *************/
+.wppap-main-wrapper .wppap-design-11 li .wppap-title-overlay { -webkit-transition: all .4s linear;transition: all .4s linear; text-shadow: 0px 0px 3px rgba(0, 0, 0, 0.55);}
+.wppap-main-wrapper .wppap-thumbs.wppap-design-11 li .wppap-li-inner-wrap:hover .wppap-title-overlay {-webkit-transition: all .4s linear;transition: all .4s linear;}
+
+.wppap-main-wrapper .wppap-thumbs.wppap-design-11 li:nth-child(6n+1) .wppap-title-overlay{background: -webkit-linear-gradient(to bottom, rgba(29, 43, 100, 0.6) 0%,rgba(29, 43, 100, 0) 100%); background: linear-gradient(to bottom, rgba(29, 43, 100, 0.6) 0%,rgba(29, 43, 100, 0) 100%);}
+.wppap-main-wrapper .wppap-thumbs.wppap-design-11 li:nth-child(6n+2) .wppap-title-overlay{background: -webkit-linear-gradient(to bottom, rgba(162, 206, 85, 0.5) 0%,rgba(162, 206, 85, 0) 100%);background: linear-gradient(to bottom, rgba(162, 206, 85, 0.5) 0%,rgba(162, 206, 85, 0) 100%);}
+.wppap-main-wrapper .wppap-thumbs.wppap-design-11 li:nth-child(6n+3) .wppap-title-overlay{background: -webkit-linear-gradient(to bottom, rgba(214, 80, 80, 0.5) 0%,rgba(214, 80, 80, 0) 100%);background: linear-gradient(to bottom, rgba(214, 80, 80, 0.5) 0%,rgba(214, 80, 80, 0) 100%);}
+.wppap-main-wrapper .wppap-thumbs.wppap-design-11 li:nth-child(6n+4) .wppap-title-overlay{background: -webkit-linear-gradient(to bottom, rgba(252, 103, 250, 0.5) 0%,rgba(252, 103, 250, 0) 100%);background: linear-gradient(to bottom, rgba(252, 103, 250, 0.5) 0%,rgba(252, 103, 250, 0) 100%);}
+.wppap-main-wrapper .wppap-thumbs.wppap-design-11 li:nth-child(6n+5) .wppap-title-overlay{background: -webkit-linear-gradient(to bottom, rgba(78, 205, 196, 0.5) 0%,rgba(78, 205, 196, 0) 100%);background: linear-gradient(to bottom, rgba(78, 205, 196, 0.5) 0%,rgba(78, 205, 196, 0) 100%);}
+.wppap-main-wrapper .wppap-thumbs.wppap-design-11 li:nth-child(6n+6) .wppap-title-overlay{background: -webkit-linear-gradient(to bottom, rgba(11, 72, 107, 0.6) 0%,rgba(11, 72, 107, 0) 100%);background: linear-gradient(to bottom, rgba(11, 72, 107, 0.6) 0%,rgba(11, 72, 107, 0) 100%);}
+
+.wppap-main-wrapper .wppap-thumbs.wppap-design-11 li:nth-child(6n+1) .wppap-li-inner-wrap:hover .wppap-title-overlay{background: rgba(29, 43, 100, 0.6);}
+.wppap-main-wrapper .wppap-thumbs.wppap-design-11 li:nth-child(6n+2) .wppap-li-inner-wrap:hover .wppap-title-overlay{background: rgba(162, 206, 85, 0.5);}
+.wppap-main-wrapper .wppap-thumbs.wppap-design-11 li:nth-child(6n+3) .wppap-li-inner-wrap:hover .wppap-title-overlay{background: rgba(214, 80, 80, 0.5);}
+.wppap-main-wrapper .wppap-thumbs.wppap-design-11 li:nth-child(6n+4) .wppap-li-inner-wrap:hover .wppap-title-overlay{background: rgba(252, 103, 250, 0.5);}
+.wppap-main-wrapper .wppap-thumbs.wppap-design-11 li:nth-child(6n+5) .wppap-li-inner-wrap:hover .wppap-title-overlay{background: rgba(78, 205, 196, 0.5);}
+.wppap-main-wrapper .wppap-thumbs.wppap-design-11 li:nth-child(6n+6) .wppap-li-inner-wrap:hover .wppap-title-overlay{background: rgba(11, 72, 107, 0.6);}
+
+/************* desing 12 *************/
+.wppap-main-wrapper .wppap-design-12 li .wppap-title-overlay { background: transparent; -webkit-transition: all .3s cubic-bezier(1,.99,0,.09);transition: all .3s cubic-bezier(1,.99,0,.09); text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.71);}
+.wppap-main-wrapper .wppap-design-12 li .wppap-li-inner-wrap:hover .wppap-title-overlay { background: rgba(158, 84, 6, 0.6);}
+.wppap-main-wrapper .wppap-design-12 li .wppap-title-overlay::before { border-top: 1px solid #fff; border-bottom: 1px solid #fff; -webkit-transform: scale(0,1); transform: scale(0,1); }
+.wppap-main-wrapper .wppap-design-12 li .wppap-title-overlay::after { border-right: 1px solid #fff; border-left: 1px solid #fff; -webkit-transform: scale(1,0); transform: scale(1,0); }
+.wppap-main-wrapper .wppap-design-12 li .wppap-title-overlay::before,
+.wppap-main-wrapper .wppap-design-12 li .wppap-title-overlay::after { position: absolute; top: 20px; right: 20px; bottom: 20px; left: 20px; content: ''; opacity: 0; -webkit-transition: opacity 0.35s, -webkit-transform 0.35s; transition: opacity 0.35s, transform 0.35s; }
+.wppap-main-wrapper .wppap-design-12 li .wppap-li-inner-wrap:hover .wppap-title-overlay::before,
+.wppap-main-wrapper .wppap-design-12 li .wppap-li-inner-wrap:hover .wppap-title-overlay::after { opacity: 1; -webkit-transform: scale(1); transform: scale(1);} 
+
+/************* desing 13 *************/
+.wppap-main-wrapper .wppap-design-13 li .wppap-title-overlay { background: rgba(0, 34, 62, 0.5); transform: scale(0.8);-webkit-transform: scale(0.8); opacity: 0;-webkit-transition: all 0.5s ease;-moz-transition: all 0.5s ease;-o-transition: all 0.5s ease;transition: all 0.5s ease; text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.75);}
+.wppap-main-wrapper .wppap-design-13 li .wppap-li-inner-wrap:hover .wppap-title-overlay {opacity: 1;transform: scale(1);-webkit-transform: scale(1);}
+
+.wppap-main-wrapper .wppap-design-13 li .wppap-title-overlay::before {content: '';width: 100%;transition: all 0.3s ease-in-out;height: 0;position: absolute;top: 50%;left: 0;border-left: 6px solid transparent;border-right: 6px solid transparent;z-index: 9;border-color: #00223e;box-sizing: border-box;}
+.wppap-main-wrapper .wppap-design-13 li .wppap-title-overlay::after {content: '';transition: all 0.3s ease-in-out;width: 0;height: 100%;position: absolute;top: 0;left: 50%;border-top: 6px solid transparent;border-bottom: 7px solid transparent;z-index: 9;border-color: #00223e;box-sizing: border-box;}
+.wppap-main-wrapper .wppap-design-13 li .wppap-li-inner-wrap:hover .wppap-title-overlay::before, 
+.wppap-main-wrapper .wppap-design-13 li .wppap-li-inner-wrap:hover .wppap-title-overlay::after {height: 100%;width: 100%;top: 0;left: 0;transition-delay: 0.2s;}
+.wppap-main-wrapper .wppap-design-13 .wppap-thumbnail { z-index: 11; }
+.wppap-main-wrapper .wppap-design-13 .wppap-external-link-popup { z-index: 111; }
+
+/************* desing 14 *************/
+.wppap-main-wrapper .wppap-thumbs.wppap-design-14 li .wppap-li-inner-wrap .wppap-title-overlay .wppap-description {position: relative; padding-bottom: 15px; margin:0;}
+.wppap-main-wrapper .wppap-thumbs.wppap-design-14 li .wppap-li-inner-wrap .wppap-title-overlay .wppap-description::after {opacity:1;position:absolute;background: #FFF;content: '';width: 80%;left:0;right: 0;margin: auto;height: 1px;bottom: 0px;-webkit-transition-delay: 0.5s all ease-in-out;transition-delay: 0.5s all ease-in-out;}
+.wppap-main-wrapper .wppap-thumbs.wppap-design-14 li .wppap-li-inner-wrap:hover .wppap-title-overlay .wppap-description::after {opacity: 0;}
+.wppap-main-wrapper .wppap-thumbs.wppap-design-14 li .wppap-title-overlay {-webkit-transition: all 0.5s ease-in-out;-moz-transition: all 0.5s ease-in-out;-o-transition: all 0.5s ease-in-out;transition: all 0.5s ease-in-out; text-shadow: 0px 0px 2px #000; background: rgba(48, 133, 163, 0.4);}
+.wppap-main-wrapper .wppap-thumbs.wppap-design-14 li .wppap-title-overlay::before,
+.wppap-main-wrapper .wppap-thumbs.wppap-design-14 li .wppap-title-overlay::after {opacity: 0;position: absolute;left:0; right:0; margin:auto; width: 0%; height: 1px; background: #fff; content: '';transition: 0.5s all ease-in-out; -webkit-transition: 0.5s all ease-in-out; -woz-transition: 0.5s all ease-in-out; -o-transition: 0.5s all ease-in-out;}
+.wppap-main-wrapper .wppap-thumbs.wppap-design-14 li .wppap-title-overlay::before { top: 90%; }
+.wppap-main-wrapper .wppap-thumbs.wppap-design-14 li .wppap-title-overlay::after { bottom: 90%; }
+.wppap-main-wrapper .wppap-thumbs.wppap-design-14 li .wppap-li-inner-wrap:hover .wppap-title-overlay::before {top: 90%; opacity: 1; width: 80%;}
+.wppap-main-wrapper .wppap-thumbs.wppap-design-14 li .wppap-li-inner-wrap:hover .wppap-title-overlay::after {bottom: 90%; opacity: 1; width: 80%;}
+.wppap-main-wrapper .wppap-thumbs.wppap-design-14 li .wppap-title-overlay .wppap-external-link-popup,
+.wppap-main-wrapper .wppap-thumbs.wppap-design-14 li .wppap-title-overlay .wppap-cats {margin-top: 25px;-webkit-transition: 0.3s all ease-in-out; transition: 0.3s all ease-in-out; -moz-transition: 0.3s all ease-in-out; -o-transition: 0.3s all ease-in-out;}
+.wppap-main-wrapper .wppap-thumbs.wppap-design-14 li .wppap-li-inner-wrap:hover .wppap-title-overlay .wppap-external-link-popup,
+.wppap-main-wrapper .wppap-thumbs.wppap-design-14 li .wppap-li-inner-wrap:hover .wppap-title-overlay .wppap-cats {margin-top: 5px;}
+
+/************* desing 15 *************/
+.wppap-main-wrapper .wppap-design-15 li .wppap-title-overlay { transition: 0.3s all linear; -webkit-transition: 0.3s all linear; background-color: rgba(86, 145, 200, 0.42); background-image: -webkit-linear-gradient(-45deg, rgba(69, 127, 202, 0.6), rgba(0, 0, 0, 0.67)); background-image: linear-gradient(-45deg, rgba(69, 127, 202, 0.6), rgba(0, 0, 0, 0.67));}
+.wppap-main-wrapper .wppap-design-15 li .wppap-li-inner-wrap:hover .wppap-title-overlay { background: transparent; text-shadow: 0px 0px 2px rgba(0,0,0,0.6); }
+
+/************** Magnific Popup CSS Starts **************/
+button.mfp-arrow,  button.wppap-mfp-close{background-color:transparent !important; background-image:none !important; box-shadow:none !important;}
+.mfp-container,
+.mfp-bg {opacity: 0;-webkit-backface-visibility: hidden;-webkit-transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -o-transition: all 0.3s ease-out; transition: all 0.3s ease-out;}
+.mfp-ready .mfp-container{opacity: 1;}
+.mfp-ready.mfp-bg{opacity: 0.8;}
+.mfp-removing .mfp-container, 
+.mfp-removing.mfp-bg {opacity: 0;}
+figcaption{padding: 0 !important;}
+
+/************** Magnific Popup CSS Ends **************/
+.wppap-popup-main-wrapper{max-width: 600px;margin: 50px auto;position: relative;background: #fff;}
+.wppap-img-grp{overflow:hidden;}
+.wp-pap-mfp-popup table{width:100%;}
+.wppap-popup-main-wrapper .wppap-popup-img-grp, .wppap-img-grp .wppap-popup-img-slick{height:400px;}
+.wppap-img-grp .wppap-popup-img-slick img{height:100%;width:100%;object-fit:cover;object-position:top center;}
+.wppap-pop-other-content{padding:15px;}
+.wppap-popup-main-wrapper .wppap-pop-other-content {clear: both;}
+.wppap-pop-other-content .wppap-popup-portfolio-title{font-size: 20px;font-weight: 600;text-transform: capitalize;margin-bottom: 10px; line-height: normal;}
+.wppap-popup-portfolio-content{width:100%;clear:both;display: block;margin-bottom: 10px;line-height: normal;}
+.wppap-popup-portfolio-content p{margin:0 !important;}
+.wppap-pop-other-content a.wppap-project-url-btn {display: inline-block;}
+.wppap-popup-main-wrapper .wp-pap-close-btn {background: rgba(0, 0, 0, 0) url("../images/close.png") no-repeat scroll top center;display: block;height: 35px;position: absolute;right: -12px;text-decoration: none !important;top: -12px;width: 35px;z-index: 2;opacity: 1;}

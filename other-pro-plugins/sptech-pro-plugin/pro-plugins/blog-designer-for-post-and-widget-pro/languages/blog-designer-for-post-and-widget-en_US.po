@@ -1,0 +1,1594 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog Designer - Post and Widget Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-02 13:06+0000\n"
+"PO-Revision-Date: 2016-12-02 13:06+0000\n"
+"Last-Translator: admin <pratikjain@sptechnolab.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: edd-wpspw-post-plugin.php:10
+msgid "Blog Designer Plugin License"
+msgstr ""
+
+#: edd-wpspw-post-plugin.php:10
+msgid "Blog Designer License"
+msgstr ""
+
+#: includes/class-wpspw-script.php:142
+msgid "Click OK to reset all options. All settings will be lost!"
+msgstr ""
+
+#: includes/wpspw-functions.php:271
+msgid "« Previous"
+msgstr ""
+
+#: includes/wpspw-functions.php:272
+msgid "Next »"
+msgstr ""
+
+#: includes/wpspw-functions.php:286
+msgid "Design 1"
+msgstr ""
+
+#: includes/wpspw-functions.php:287
+msgid "Design 2"
+msgstr ""
+
+#: includes/wpspw-functions.php:288
+msgid "Design 3"
+msgstr ""
+
+#: includes/wpspw-functions.php:289
+msgid "Design 4"
+msgstr ""
+
+#: includes/wpspw-functions.php:290
+msgid "Design 5"
+msgstr ""
+
+#: includes/wpspw-functions.php:291
+msgid "Design 6"
+msgstr ""
+
+#: includes/wpspw-functions.php:292
+msgid "Design 7"
+msgstr ""
+
+#: includes/wpspw-functions.php:293
+msgid "Design 8"
+msgstr ""
+
+#: includes/wpspw-functions.php:294
+msgid "Design 9"
+msgstr ""
+
+#: includes/wpspw-functions.php:295
+msgid "Design 10"
+msgstr ""
+
+#: includes/wpspw-functions.php:296
+msgid "Design 11"
+msgstr ""
+
+#: includes/wpspw-functions.php:297
+msgid "Design 12"
+msgstr ""
+
+#: includes/wpspw-functions.php:298
+msgid "Design 13"
+msgstr ""
+
+#: includes/wpspw-functions.php:299
+msgid "Design 14"
+msgstr ""
+
+#: includes/wpspw-functions.php:300
+msgid "Design 15"
+msgstr ""
+
+#: includes/wpspw-functions.php:301
+msgid "Design 32"
+msgstr ""
+
+#: includes/wpspw-functions.php:302
+msgid "Design 33"
+msgstr ""
+
+#: includes/wpspw-functions.php:303
+msgid "Design 38"
+msgstr ""
+
+#: includes/wpspw-functions.php:304
+msgid "Design 39"
+msgstr ""
+
+#: includes/wpspw-functions.php:305
+msgid "Design 40"
+msgstr ""
+
+#: includes/wpspw-functions.php:306
+msgid "Design 41"
+msgstr ""
+
+#: includes/wpspw-functions.php:307
+msgid "Design 43"
+msgstr ""
+
+#: includes/wpspw-functions.php:308
+msgid "Design 46"
+msgstr ""
+
+#: includes/wpspw-functions.php:321 includes/wpspw-functions.php:357
+msgid "Design 16"
+msgstr ""
+
+#: includes/wpspw-functions.php:322 includes/wpspw-functions.php:358
+msgid "Design 17"
+msgstr ""
+
+#: includes/wpspw-functions.php:323 includes/wpspw-functions.php:359
+msgid "Design 18"
+msgstr ""
+
+#: includes/wpspw-functions.php:324 includes/wpspw-functions.php:360
+msgid "Design 19"
+msgstr ""
+
+#: includes/wpspw-functions.php:325 includes/wpspw-functions.php:361
+msgid "Design 20"
+msgstr ""
+
+#: includes/wpspw-functions.php:326 includes/wpspw-functions.php:362
+msgid "Design 21"
+msgstr ""
+
+#: includes/wpspw-functions.php:327 includes/wpspw-functions.php:363
+msgid "Design 22"
+msgstr ""
+
+#: includes/wpspw-functions.php:328
+msgid "Design 23"
+msgstr ""
+
+#: includes/wpspw-functions.php:329 includes/wpspw-functions.php:365
+msgid "Design 25"
+msgstr ""
+
+#: includes/wpspw-functions.php:330 includes/wpspw-functions.php:366
+msgid "Design 26"
+msgstr ""
+
+#: includes/wpspw-functions.php:331 includes/wpspw-functions.php:367
+msgid "Design 27"
+msgstr ""
+
+#: includes/wpspw-functions.php:332
+msgid "Design 28"
+msgstr ""
+
+#: includes/wpspw-functions.php:333
+msgid "Design 29"
+msgstr ""
+
+#: includes/wpspw-functions.php:334
+msgid "Design 31"
+msgstr ""
+
+#: includes/wpspw-functions.php:335 includes/wpspw-functions.php:369
+msgid "Design 34"
+msgstr ""
+
+#: includes/wpspw-functions.php:336 includes/wpspw-functions.php:370
+msgid "Design 35"
+msgstr ""
+
+#: includes/wpspw-functions.php:337 includes/wpspw-functions.php:372
+msgid "Design 37"
+msgstr ""
+
+#: includes/wpspw-functions.php:338 includes/wpspw-functions.php:373
+msgid "Design 42"
+msgstr ""
+
+#: includes/wpspw-functions.php:339 includes/wpspw-functions.php:374
+msgid "Design 44"
+msgstr ""
+
+#: includes/wpspw-functions.php:340 includes/wpspw-functions.php:375
+msgid "Design 45"
+msgstr ""
+
+#: includes/wpspw-functions.php:341
+msgid "Design 47"
+msgstr ""
+
+#: includes/wpspw-functions.php:342 includes/wpspw-functions.php:376
+msgid "Design 48"
+msgstr ""
+
+#: includes/wpspw-functions.php:343
+msgid "Design 49"
+msgstr ""
+
+#: includes/wpspw-functions.php:344
+msgid "Design 50"
+msgstr ""
+
+#: includes/wpspw-functions.php:364
+msgid "Design 24"
+msgstr ""
+
+#: includes/wpspw-functions.php:368
+msgid "Design 30"
+msgstr ""
+
+#: includes/wpspw-functions.php:371
+msgid "Design 36"
+msgstr ""
+
+#: includes/admin/class-wpspw-admin.php:69
+msgid "Blog Designer Settings"
+msgstr ""
+
+#: includes/admin/class-wpspw-admin.php:69
+msgid "Blog Designer Setting"
+msgstr ""
+
+#: includes/admin/class-wpspw-admin.php:116
+msgid "Post Category Shortcode"
+msgstr ""
+
+#: includes/admin/class-wpspw-admin.php:151
+#: includes/admin/class-wpspw-vc.php:259 includes/admin/class-wpspw-vc.php:552
+#: includes/admin/class-wpspw-vc.php:835
+msgid "Order"
+msgstr ""
+
+#: includes/admin/class-wpspw-admin.php:191
+msgid "Sort Post"
+msgstr ""
+
+#: includes/admin/class-wpspw-admin.php:210
+msgid "Save Sort Order"
+msgstr ""
+
+#: includes/admin/class-wpspw-admin.php:226
+msgid "Sorry, Something happened wrong."
+msgstr ""
+
+#: includes/admin/class-wpspw-admin.php:253
+msgid "Post order saves successfully."
+msgstr ""
+
+#: includes/admin/class-wpspw-admin.php:272
+msgid "View Documentation"
+msgstr ""
+
+#: includes/admin/class-wpspw-admin.php:272
+msgid "Docs"
+msgstr ""
+
+#: includes/admin/class-wpspw-admin.php:273
+msgid "Visit Customer Support Forum"
+msgstr ""
+
+#: includes/admin/class-wpspw-admin.php:273
+msgid "Support"
+msgstr ""
+
+#: includes/admin/class-wpspw-admin.php:290
+msgid "Activate Plugin License"
+msgstr ""
+
+#: includes/admin/class-wpspw-admin.php:290
+msgid "License"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:37
+msgid "WPOS - Post Grid"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:41 includes/admin/class-wpspw-vc.php:102
+#: includes/admin/class-wpspw-vc.php:344 includes/admin/class-wpspw-vc.php:409
+#: includes/admin/class-wpspw-vc.php:648 includes/admin/class-wpspw-vc.php:710
+msgid "Content"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:42
+msgid "Display post grid."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:48 includes/admin/class-wpspw-vc.php:352
+#: includes/admin/class-wpspw-vc.php:655
+msgid "Design"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:51
+msgid "Grid Design 16"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:52
+msgid "Grid Design 17"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:53
+msgid "Grid Design 18"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:54
+msgid "Grid Design 19"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:55
+msgid "Grid Design 20"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:56
+msgid "Grid Design 21"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:57
+msgid "Grid Design 22"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:58
+msgid "Grid Design 23"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:59
+msgid "Grid Design 24"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:60
+msgid "Grid Design 25"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:61
+msgid "Grid Design 26"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:62
+msgid "Grid Design 27"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:63
+msgid "Grid Design 30"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:64
+msgid "Grid Design 34"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:65
+msgid "Grid Design 35"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:66
+msgid "Grid Design 36"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:67
+msgid "Grid Design 37"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:68
+msgid "Grid Design 42"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:69
+msgid "Grid Design 44"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:70
+msgid "Grid Design 45"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:71
+msgid "Grid Design 48"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:73
+msgid "Choose grid design."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:79 includes/admin/class-wpspw-vc.php:386
+#: includes/admin/class-wpspw-vc.php:688
+msgid "Author"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:82 includes/admin/class-wpspw-vc.php:93
+#: includes/admin/class-wpspw-vc.php:105 includes/admin/class-wpspw-vc.php:117
+#: includes/admin/class-wpspw-vc.php:135 includes/admin/class-wpspw-vc.php:146
+#: includes/admin/class-wpspw-vc.php:168 includes/admin/class-wpspw-vc.php:179
+#: includes/admin/class-wpspw-vc.php:283 includes/admin/class-wpspw-vc.php:389
+#: includes/admin/class-wpspw-vc.php:400 includes/admin/class-wpspw-vc.php:412
+#: includes/admin/class-wpspw-vc.php:424 includes/admin/class-wpspw-vc.php:434
+#: includes/admin/class-wpspw-vc.php:461 includes/admin/class-wpspw-vc.php:472
+#: includes/admin/class-wpspw-vc.php:576 includes/admin/class-wpspw-vc.php:691
+#: includes/admin/class-wpspw-vc.php:702 includes/admin/class-wpspw-vc.php:713
+#: includes/admin/class-wpspw-vc.php:725 includes/admin/class-wpspw-vc.php:735
+#: includes/admin/class-wpspw-vc.php:762 includes/admin/class-wpspw-vc.php:773
+#: includes/admin/class-wpspw-vc.php:859 includes/admin/class-wpspw-vc.php:900
+#: includes/admin/class-wpspw-vc.php:912 includes/admin/class-wpspw-vc.php:942
+#: includes/admin/class-wpspw-vc.php:954 includes/admin/class-wpspw-vc.php:989
+#: includes/widgets/class-wpspw-latest-post-list-slider-1.php:142
+#: includes/widgets/class-wpspw-latest-post-list-slider-1.php:151
+#: includes/widgets/class-wpspw-latest-post-list-slider-2.php:143
+#: includes/widgets/class-wpspw-latest-post-list-slider-2.php:152
+#: includes/widgets/class-wpspw-latest-post-list-slider.php:132
+#: includes/widgets/class-wpspw-latest-post-list-slider.php:141
+msgid "True"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:83 includes/admin/class-wpspw-vc.php:94
+#: includes/admin/class-wpspw-vc.php:106 includes/admin/class-wpspw-vc.php:116
+#: includes/admin/class-wpspw-vc.php:136 includes/admin/class-wpspw-vc.php:147
+#: includes/admin/class-wpspw-vc.php:169 includes/admin/class-wpspw-vc.php:180
+#: includes/admin/class-wpspw-vc.php:284 includes/admin/class-wpspw-vc.php:390
+#: includes/admin/class-wpspw-vc.php:401 includes/admin/class-wpspw-vc.php:413
+#: includes/admin/class-wpspw-vc.php:423 includes/admin/class-wpspw-vc.php:435
+#: includes/admin/class-wpspw-vc.php:462 includes/admin/class-wpspw-vc.php:473
+#: includes/admin/class-wpspw-vc.php:577 includes/admin/class-wpspw-vc.php:692
+#: includes/admin/class-wpspw-vc.php:703 includes/admin/class-wpspw-vc.php:714
+#: includes/admin/class-wpspw-vc.php:724 includes/admin/class-wpspw-vc.php:736
+#: includes/admin/class-wpspw-vc.php:763 includes/admin/class-wpspw-vc.php:774
+#: includes/admin/class-wpspw-vc.php:860 includes/admin/class-wpspw-vc.php:901
+#: includes/admin/class-wpspw-vc.php:913 includes/admin/class-wpspw-vc.php:943
+#: includes/admin/class-wpspw-vc.php:955 includes/admin/class-wpspw-vc.php:988
+#: includes/widgets/class-wpspw-latest-post-list-slider-1.php:143
+#: includes/widgets/class-wpspw-latest-post-list-slider-1.php:152
+#: includes/widgets/class-wpspw-latest-post-list-slider-2.php:144
+#: includes/widgets/class-wpspw-latest-post-list-slider-2.php:153
+#: includes/widgets/class-wpspw-latest-post-list-slider.php:133
+#: includes/widgets/class-wpspw-latest-post-list-slider.php:142
+msgid "False"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:85 includes/admin/class-wpspw-vc.php:392
+#: includes/admin/class-wpspw-vc.php:694
+msgid "Show Author."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:90 includes/admin/class-wpspw-vc.php:397
+#: includes/admin/class-wpspw-vc.php:699
+msgid "Date"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:96 includes/admin/class-wpspw-vc.php:403
+#: includes/admin/class-wpspw-vc.php:705
+msgid "Show Date."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:108 includes/admin/class-wpspw-vc.php:415
+#: includes/admin/class-wpspw-vc.php:716
+msgid "Show Content."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:113 includes/admin/class-wpspw-vc.php:420
+#: includes/admin/class-wpspw-vc.php:721
+msgid "Full Content"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:119 includes/admin/class-wpspw-vc.php:426
+#: includes/admin/class-wpspw-vc.php:727
+msgid "Show Full Content."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:124 includes/admin/class-wpspw-vc.php:442
+#: includes/admin/class-wpspw-vc.php:743
+msgid "Content Word Limit"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:127 includes/admin/class-wpspw-vc.php:445
+#: includes/admin/class-wpspw-vc.php:746
+msgid "Enter Content Word Limit"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:132 includes/admin/class-wpspw-vc.php:431
+#: includes/admin/class-wpspw-vc.php:732 includes/shortcodes/wpspw-post.php:42
+#: includes/shortcodes/wpspw-post.php:72
+#: includes/shortcodes/wpspw-recent-post-slider.php:44
+#: includes/shortcodes/wpspw-recent-post-slider.php:78
+#: includes/shortcodes/wpspw-recent-post.php:40
+#: includes/shortcodes/wpspw-recent-post.php:69
+msgid "Read More"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:138 includes/admin/class-wpspw-vc.php:437
+#: includes/admin/class-wpspw-vc.php:738
+msgid "Show Read More."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:143
+msgid "Pagination"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:149
+msgid "Pagination."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:154 includes/admin/class-wpspw-vc.php:160
+msgid "Pagination Type"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:157
+msgid "Numeric"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:158
+msgid "Next-Prev"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:165 includes/admin/class-wpspw-vc.php:458
+#: includes/admin/class-wpspw-vc.php:759
+msgid "Tags"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:171 includes/admin/class-wpspw-vc.php:464
+#: includes/admin/class-wpspw-vc.php:765
+msgid "Show Tags."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:176 includes/admin/class-wpspw-vc.php:469
+#: includes/admin/class-wpspw-vc.php:770
+msgid "Comments"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:182 includes/admin/class-wpspw-vc.php:475
+#: includes/admin/class-wpspw-vc.php:776
+msgid "Show Comments."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:187 includes/admin/class-wpspw-vc.php:480
+#: includes/admin/class-wpspw-vc.php:781
+msgid "Link Behavior"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:190 includes/admin/class-wpspw-vc.php:483
+#: includes/admin/class-wpspw-vc.php:784
+msgid "Self"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:191 includes/admin/class-wpspw-vc.php:484
+#: includes/admin/class-wpspw-vc.php:785
+msgid "blank"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:193 includes/admin/class-wpspw-vc.php:486
+#: includes/admin/class-wpspw-vc.php:787
+msgid "Link Target."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:198 includes/admin/class-wpspw-vc.php:450
+#: includes/admin/class-wpspw-vc.php:751
+msgid "Content Tail"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:201 includes/admin/class-wpspw-vc.php:453
+#: includes/admin/class-wpspw-vc.php:754
+msgid "Enter Content Tail to display"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:206 includes/admin/class-wpspw-vc.php:499
+#: includes/admin/class-wpspw-vc.php:792
+msgid "Image Height"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:209 includes/admin/class-wpspw-vc.php:502
+#: includes/admin/class-wpspw-vc.php:795
+msgid "Enter Image Height"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:214 includes/admin/class-wpspw-vc.php:491
+#: includes/admin/class-wpspw-vc.php:507 includes/admin/class-wpspw-vc.php:800
+msgid "Read More Text"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:217 includes/admin/class-wpspw-vc.php:494
+#: includes/admin/class-wpspw-vc.php:510 includes/admin/class-wpspw-vc.php:803
+msgid "Enter Read More Text"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:224 includes/admin/class-wpspw-vc.php:517
+msgid "Total Items"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:227 includes/admin/class-wpspw-vc.php:520
+#: includes/admin/class-wpspw-vc.php:812
+msgid "Enter number to be displayed. Enter -1 to display all."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:228 includes/admin/class-wpspw-vc.php:237
+#: includes/admin/class-wpspw-vc.php:254 includes/admin/class-wpspw-vc.php:266
+#: includes/admin/class-wpspw-vc.php:275 includes/admin/class-wpspw-vc.php:287
+#: includes/admin/class-wpspw-vc.php:296 includes/admin/class-wpspw-vc.php:305
+#: includes/admin/class-wpspw-vc.php:314 includes/admin/class-wpspw-vc.php:323
+#: includes/admin/class-wpspw-vc.php:521 includes/admin/class-wpspw-vc.php:530
+#: includes/admin/class-wpspw-vc.php:547 includes/admin/class-wpspw-vc.php:559
+#: includes/admin/class-wpspw-vc.php:568 includes/admin/class-wpspw-vc.php:580
+#: includes/admin/class-wpspw-vc.php:589 includes/admin/class-wpspw-vc.php:598
+#: includes/admin/class-wpspw-vc.php:607 includes/admin/class-wpspw-vc.php:616
+#: includes/admin/class-wpspw-vc.php:625 includes/admin/class-wpspw-vc.php:813
+#: includes/admin/class-wpspw-vc.php:830 includes/admin/class-wpspw-vc.php:842
+#: includes/admin/class-wpspw-vc.php:851 includes/admin/class-wpspw-vc.php:863
+#: includes/admin/class-wpspw-vc.php:872 includes/admin/class-wpspw-vc.php:881
+#: includes/admin/class-wpspw-vc.php:890
+msgid "Data Settings"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:233 includes/admin/class-wpspw-vc.php:526
+msgid "Grid"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:236 includes/admin/class-wpspw-vc.php:529
+msgid "Enter number to be displayed post per row."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:242 includes/admin/class-wpspw-vc.php:535
+#: includes/admin/class-wpspw-vc.php:818
+msgid "Post Order By"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:245 includes/admin/class-wpspw-vc.php:538
+#: includes/admin/class-wpspw-vc.php:821
+msgid "Post Date"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:246 includes/admin/class-wpspw-vc.php:539
+#: includes/admin/class-wpspw-vc.php:822
+msgid "Post ID"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:247 includes/admin/class-wpspw-vc.php:540
+#: includes/admin/class-wpspw-vc.php:823
+msgid "Post Author"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:248 includes/admin/class-wpspw-vc.php:541
+#: includes/admin/class-wpspw-vc.php:824
+msgid "Post Title"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:249 includes/admin/class-wpspw-vc.php:542
+#: includes/admin/class-wpspw-vc.php:825
+msgid "Post Modified Date"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:250 includes/admin/class-wpspw-vc.php:543
+#: includes/admin/class-wpspw-vc.php:826
+msgid "Random"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:251 includes/admin/class-wpspw-vc.php:544
+#: includes/admin/class-wpspw-vc.php:827
+msgid "Menu Order"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:253 includes/admin/class-wpspw-vc.php:546
+#: includes/admin/class-wpspw-vc.php:829
+msgid "Select order type."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:262 includes/admin/class-wpspw-vc.php:555
+#: includes/admin/class-wpspw-vc.php:838
+msgid "Descending"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:263 includes/admin/class-wpspw-vc.php:556
+#: includes/admin/class-wpspw-vc.php:839
+msgid "Ascending"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:265 includes/admin/class-wpspw-vc.php:558
+#: includes/admin/class-wpspw-vc.php:841
+msgid "Post Order."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:271 includes/admin/class-wpspw-vc.php:564
+#: includes/admin/class-wpspw-vc.php:847
+msgid "Category"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:274 includes/admin/class-wpspw-vc.php:567
+#: includes/admin/class-wpspw-vc.php:850
+msgid "Enter category id to display Posts categories wise."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:280 includes/admin/class-wpspw-vc.php:573
+msgid "Show Category Name"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:286 includes/admin/class-wpspw-vc.php:579
+msgid "Show Category Name."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:292 includes/admin/class-wpspw-vc.php:585
+#: includes/admin/class-wpspw-vc.php:856
+msgid "Category Name"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:295 includes/admin/class-wpspw-vc.php:588
+msgid "Category Name."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:301 includes/admin/class-wpspw-vc.php:594
+#: includes/admin/class-wpspw-vc.php:868
+msgid "Exclude Category"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:304
+msgid "Exclude post category. Works only if `Category` field is empty."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:310 includes/admin/class-wpspw-vc.php:603
+msgid "Display Specific Posts"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:313 includes/admin/class-wpspw-vc.php:606
+#: includes/admin/class-wpspw-vc.php:880
+msgid "Enter post id which you only want to display."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:319 includes/admin/class-wpspw-vc.php:612
+#: includes/admin/class-wpspw-vc.php:886
+msgid "Exclude Post"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:322 includes/admin/class-wpspw-vc.php:615
+#: includes/admin/class-wpspw-vc.php:889
+msgid "Enter post id which you do not want to display."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:340
+msgid "WPOS - Recent Post Grid"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:345
+msgid "Display recent post grid."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:355
+msgid "Recent Design 16"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:356
+msgid "Recent Design 17"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:357
+msgid "Recent Design 18"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:358
+msgid "Recent Design 19"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:359
+msgid "Recent Design 20"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:360
+msgid "Recent Design 21"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:361
+msgid "Recent Design 22"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:362
+msgid "Recent Design 23"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:363
+msgid "Recent Design 25"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:364
+msgid "Recent Design 26"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:365
+msgid "Recent Design 27"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:366
+msgid "Recent Design 28"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:367
+msgid "Recent Design 29"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:368
+msgid "Recent Design 31"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:369
+msgid "Recent Design 34"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:370
+msgid "Recent Design 35"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:371
+msgid "Recent Design 37"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:372
+msgid "Recent Design 42"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:373
+msgid "Recent Design 44"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:374
+msgid "Recent Design 45"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:375
+msgid "Recent Design 47"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:376
+msgid "Recent Design 48"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:377
+msgid "Recent Design 49"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:378
+msgid "Recent Design 50"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:380
+msgid "Choose recent grid design."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:597
+msgid "Exclude Post category. Works only if `Category` field is empty."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:621
+msgid "Query Offset"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:624
+msgid "Enter number of post that you want to skip"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:644
+msgid "WPOS - Post Slider"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:649
+msgid "Display Post slider."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:658
+msgid "Slider Design 1"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:659
+msgid "Slider Design 2"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:660
+msgid "Slider Design 3"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:661
+msgid "Slider Design 4"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:662
+msgid "Slider Design 5"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:663
+msgid "Slider Design 6"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:664
+msgid "Slider Design 7"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:665
+msgid "Slider Design 8"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:666
+msgid "Slider Design 9"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:667
+msgid "Slider Design 10"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:668
+msgid "Slider Design 11"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:669
+msgid "Slider Design 12"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:670
+msgid "Slider Design 13"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:671
+msgid "Slider Design 14"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:672
+msgid "Slider Design 15"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:673
+msgid "Slider Design 32"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:674
+msgid "Slider Design 33"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:675
+msgid "Slider Design 38"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:676
+msgid "Slider Design 39"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:677
+msgid "Slider Design 40"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:678
+msgid "Slider Design 41"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:679
+msgid "Slider Design 43"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:680
+msgid "Slider Design 46"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:682
+msgid "Choose Slider design."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:809
+msgid "Total items"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:862
+msgid "Show Category Name or Not"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:871
+msgid "Exclude slides category. Works only if `Category` field is empty."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:877
+msgid "Display Specific Post"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:897
+msgid "Dots"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:903
+msgid "Show pagination dots."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:904 includes/admin/class-wpspw-vc.php:916
+#: includes/admin/class-wpspw-vc.php:925 includes/admin/class-wpspw-vc.php:934
+#: includes/admin/class-wpspw-vc.php:946 includes/admin/class-wpspw-vc.php:958
+#: includes/admin/class-wpspw-vc.php:967 includes/admin/class-wpspw-vc.php:980
+#: includes/admin/class-wpspw-vc.php:992
+msgid "Slider Settings"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:909
+msgid "Arrows"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:915
+msgid "Show Prev - Next arrows."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:921
+msgid "Slide To Show"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:924
+msgid "Enter Slide to show."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:930
+msgid "Slide To Scroll"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:933
+msgid "Enter slide to scroll."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:939
+msgid "Autoplay"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:945
+msgid "Enable autoplay."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:951
+msgid "Loop"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:957
+msgid "Enable loop."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:963
+msgid "Autoplay Interval"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:966
+msgid "Enter autoplay speed."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:976
+msgid "Speed"
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:979
+msgid "Enter slide speed."
+msgstr ""
+
+#: includes/admin/class-wpspw-vc.php:985 includes/admin/class-wpspw-vc.php:991
+msgid "RTL"
+msgstr ""
+
+#: includes/admin/wpspw-how-it-work.php:22
+msgid "How it works, our plugins and offers"
+msgstr ""
+
+#: includes/admin/wpspw-how-it-work.php:22
+msgid "Blog Designer - How It Works"
+msgstr ""
+
+#: includes/admin/wpspw-how-it-work.php:103
+msgid ""
+"There was an error retrieving the data from the server. Please try again "
+"later."
+msgstr ""
+
+#: includes/admin/wpspw-how-it-work.php:118
+msgid "How It Works"
+msgstr ""
+
+#: includes/admin/wpspw-how-it-work.php:121
+msgid "Our Plugins"
+msgstr ""
+
+#: includes/admin/wpspw-how-it-work.php:127
+msgid "WPOS Offers"
+msgstr ""
+
+#: includes/admin/wpspw-how-it-work.php:163
+msgid "How It Works - Display and shortcode"
+msgstr ""
+
+#: includes/admin/wpspw-how-it-work.php:171
+msgid "Getting Started with Blog Designer Pro"
+msgstr ""
+
+#: includes/admin/wpspw-how-it-work.php:175
+msgid "Step-1: This plugin works with wordpress post."
+msgstr ""
+
+#: includes/admin/wpspw-how-it-work.php:176
+msgid "Step-2: Go to \"Posts --> Add new\"."
+msgstr ""
+
+#: includes/admin/wpspw-how-it-work.php:177
+msgid ""
+"Step-3: Add post title, description, category, and images as featured image."
+msgstr ""
+
+#: includes/admin/wpspw-how-it-work.php:178
+msgid "Step-4: Repeat this process and add multiple post item"
+msgstr ""
+
+#: includes/admin/wpspw-how-it-work.php:179
+msgid ""
+"Step-4: To display post category wise you can use category shortcode under "
+"\"Posts --> categories\""
+msgstr ""
+
+#: includes/admin/wpspw-how-it-work.php:186
+msgid "How Shortcode Works"
+msgstr ""
+
+#: includes/admin/wpspw-how-it-work.php:190
+msgid "Step-1. Create a page like Our Blog OR Latest Blog."
+msgstr ""
+
+#: includes/admin/wpspw-how-it-work.php:191
+msgid "Step-2. Put below shortcode as per your need."
+msgstr ""
+
+#: includes/admin/wpspw-how-it-work.php:198
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/admin/wpspw-how-it-work.php:201
+msgid "Display latest 10 post and then pagination"
+msgstr ""
+
+#: includes/admin/wpspw-how-it-work.php:202
+msgid "Recent Blog with Grid View"
+msgstr ""
+
+#: includes/admin/wpspw-how-it-work.php:203
+msgid "Display Post in Slider View"
+msgstr ""
+
+#: includes/admin/wpspw-how-it-work.php:221
+msgid "Need Support?"
+msgstr ""
+
+#: includes/admin/wpspw-how-it-work.php:224
+msgid "Check plugin document for shortcode parameters and demo for designs."
+msgstr ""
+
+#: includes/admin/wpspw-how-it-work.php:225
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/wpspw-how-it-work.php:226
+msgid "View PRO Designs "
+msgstr ""
+
+#: includes/admin/wpspw-how-it-work.php:237
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/shortcodes/wpspw-post-ticker.php:17
+#: includes/widgets/class-wpspw-latest-post-list-slider-2.php:62
+#: includes/widgets/class-wpspw-latest-post-list-slider-2.php:181
+msgid "Latest Post"
+msgstr ""
+
+#: includes/shortcodes/wpspw-recent-post-slider.php:170
+#: includes/shortcodes/wpspw-recent-post.php:170
+msgid "Reply"
+msgstr ""
+
+#: includes/shortcodes/wpspw-recent-post-slider.php:170
+#: includes/shortcodes/wpspw-recent-post.php:170
+msgid "Replies"
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-list-slider-1.php:21
+msgid "Display Latest WP Post in a list view OR in a Slider view."
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-list-slider-1.php:22
+msgid "Latest WP Post List/Slider 1"
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-list-slider-1.php:60
+#: includes/widgets/class-wpspw-latest-post-list-slider-1.php:180
+#: includes/widgets/class-wpspw-latest-post-list-slider.php:59
+#: includes/widgets/class-wpspw-latest-post-list-slider.php:171
+#: includes/widgets/class-wpspw-latest-post-scrolling-widget.php:59
+#: includes/widgets/class-wpspw-latest-post-scrolling-widget.php:164
+#: includes/widgets/class-wpspw-latest-post.php:54
+#: includes/widgets/class-wpspw-latest-post.php:131
+msgid "Latest Posts"
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-list-slider-1.php:77
+#: includes/widgets/class-wpspw-latest-post-list-slider-2.php:79
+#: includes/widgets/class-wpspw-latest-post-list-slider.php:76
+#: includes/widgets/class-wpspw-latest-post-scrolling-widget.php:75
+#: includes/widgets/class-wpspw-latest-post.php:67
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-list-slider-1.php:83
+#: includes/widgets/class-wpspw-latest-post-list-slider-2.php:85
+#: includes/widgets/class-wpspw-latest-post-list-slider.php:82
+#: includes/widgets/class-wpspw-latest-post-scrolling-widget.php:81
+#: includes/widgets/class-wpspw-latest-post.php:79
+msgid "Category:"
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-list-slider-1.php:88
+#: includes/widgets/class-wpspw-latest-post-list-slider-2.php:90
+#: includes/widgets/class-wpspw-latest-post-list-slider.php:87
+#: includes/widgets/class-wpspw-latest-post-scrolling-widget.php:86
+#: includes/widgets/class-wpspw-latest-post.php:84
+msgid "All"
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-list-slider-1.php:99
+#: includes/widgets/class-wpspw-latest-post-list-slider-2.php:101
+#: includes/widgets/class-wpspw-latest-post-list-slider.php:98
+#: includes/widgets/class-wpspw-latest-post-scrolling-widget.php:97
+#: includes/widgets/class-wpspw-latest-post.php:73
+msgid "Number of Items:"
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-list-slider-1.php:105
+#: includes/widgets/class-wpspw-latest-post-list-slider-2.php:107
+#: includes/widgets/class-wpspw-latest-post-list-slider.php:104
+#: includes/widgets/class-wpspw-latest-post-scrolling-widget.php:103
+#: includes/widgets/class-wpspw-latest-post.php:95
+msgid "Query Offset:"
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-list-slider-1.php:107
+#: includes/widgets/class-wpspw-latest-post-list-slider-2.php:109
+#: includes/widgets/class-wpspw-latest-post-list-slider.php:106
+#: includes/widgets/class-wpspw-latest-post-scrolling-widget.php:105
+#: includes/widgets/class-wpspw-latest-post.php:97
+msgid ""
+"Query `offset` parameter to exclude number of post. Leave empty for default."
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-list-slider-1.php:108
+#: includes/widgets/class-wpspw-latest-post-list-slider-2.php:110
+#: includes/widgets/class-wpspw-latest-post-list-slider.php:107
+#: includes/widgets/class-wpspw-latest-post-scrolling-widget.php:106
+#: includes/widgets/class-wpspw-latest-post.php:98
+msgid "Note: This parameter will not work when Number of Items is set to -1."
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-list-slider-1.php:114
+#: includes/widgets/class-wpspw-latest-post-list-slider-2.php:116
+#: includes/widgets/class-wpspw-latest-post-list-slider.php:113
+#: includes/widgets/class-wpspw-latest-post-scrolling-widget.php:112
+#: includes/widgets/class-wpspw-latest-post.php:104
+msgid "Display Date"
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-list-slider-1.php:120
+#: includes/widgets/class-wpspw-latest-post-list-slider-2.php:122
+#: includes/widgets/class-wpspw-latest-post-list-slider.php:119
+#: includes/widgets/class-wpspw-latest-post-scrolling-widget.php:118
+#: includes/widgets/class-wpspw-latest-post.php:110
+msgid "Display Category"
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-list-slider-1.php:126
+#: includes/widgets/class-wpspw-latest-post-list-slider-2.php:128
+#: includes/widgets/class-wpspw-latest-post-list-slider.php:125
+#: includes/widgets/class-wpspw-latest-post-scrolling-widget.php:130
+#: includes/widgets/class-wpspw-latest-post.php:116
+msgid "Open Link in a New Tab"
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-list-slider-1.php:131
+#: includes/widgets/class-wpspw-latest-post-list-slider-2.php:133
+msgid "Post Slider Setting:"
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-list-slider-1.php:134
+msgid "Check this box to Display Post in Slider View."
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-list-slider-1.php:135
+msgid "By default Post Display in List View"
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-list-slider-1.php:140
+#: includes/widgets/class-wpspw-latest-post-list-slider-2.php:141
+msgid "Dots:"
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-list-slider-1.php:149
+#: includes/widgets/class-wpspw-latest-post-list-slider-2.php:150
+#: includes/widgets/class-wpspw-latest-post-list-slider.php:139
+msgid "Auto Play:"
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-list-slider-1.php:158
+#: includes/widgets/class-wpspw-latest-post-list-slider-2.php:159
+#: includes/widgets/class-wpspw-latest-post-list-slider.php:148
+msgid "Autoplay Interval:"
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-list-slider-1.php:164
+#: includes/widgets/class-wpspw-latest-post-list-slider-2.php:165
+#: includes/widgets/class-wpspw-latest-post-list-slider.php:154
+#: includes/widgets/class-wpspw-latest-post-scrolling-widget.php:147
+msgid "Speed:"
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-list-slider-2.php:22
+msgid "Display Latest WP Post in a list view or in a Slider view."
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-list-slider-2.php:23
+msgid "Latest WP Post List/Slider 2"
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-list-slider-2.php:136
+msgid "Check this box to Display Posts in Slider View."
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-list-slider.php:19
+msgid "Display Latest WP Post with slider."
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-list-slider.php:20
+msgid "Latest WP Post Slider Widget"
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-list-slider.php:130
+msgid "Arrows:"
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-list-slider.php:254
+msgid "Post Image"
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-scrolling-widget.php:20
+msgid "Display Latest WP Post in a sidebar with vertical slider."
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-scrolling-widget.php:21
+msgid "Latest WP Post Scrolling Widget"
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-scrolling-widget.php:124
+msgid "Display Thumbnail in left side"
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-scrolling-widget.php:135
+msgid "Height:"
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post-scrolling-widget.php:141
+msgid "Pause:"
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post.php:19
+msgid "Display Latest WP Post in a sidebar."
+msgstr ""
+
+#: includes/widgets/class-wpspw-latest-post.php:20
+msgid "Latest WP Post Widget"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:18
+msgid "Blog Designer - Post and Widget Pro Settings"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:27
+msgid "All settings reset successfully."
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:31
+msgid "Your changes saved successfully."
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:38
+msgid "Reset All Settings"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:59
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:68
+msgid "Default Featured Image"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:72
+msgid "Upload Image"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:72
+msgid "Choose Logo"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:72
+msgid "Insert Logo"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:72
+msgid "Clear"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:73
+msgid ""
+"Upload default featured image or provide an external URL of image. If your "
+"post does not have featured image then this will be displayed instead of "
+"grey blank box."
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:85
+#: includes/admin/settings/wpspw-settings.php:317
+#: includes/admin/settings/wpspw-settings.php:357
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:108
+msgid "Layout Settings"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:115
+msgid "Post Title Settings"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:119
+msgid "Post Title Color"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:127
+#: includes/admin/settings/wpspw-settings.php:158
+#: includes/admin/settings/wpspw-settings.php:176
+#: includes/admin/settings/wpspw-settings.php:194
+#: includes/admin/settings/wpspw-settings.php:212
+#: includes/admin/settings/wpspw-settings.php:243
+#: includes/admin/settings/wpspw-settings.php:261
+#: includes/admin/settings/wpspw-settings.php:279
+#: includes/admin/settings/wpspw-settings.php:297
+msgid "Select Color"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:131
+msgid "Select post title color. Leave empty for default color."
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:137
+msgid "Post Title Font Size"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:140
+#: includes/admin/settings/wpspw-settings.php:225
+#: includes/admin/settings/wpspw-settings.php:310
+msgid "Px"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:141
+msgid "Enter post title font size. Leave empty for default font size."
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:146
+msgid "Post Category Settings"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:150
+msgid "Post Category Background Color"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:162
+msgid "Select post category background color. Leave empty for default color."
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:168
+msgid "Post Category Hover Background Color"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:180
+msgid ""
+"Select post category hover background color. Leave empty for default color."
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:186
+msgid "Post Category Font Color"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:198
+msgid "Select post category font color. Leave empty for default color."
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:204
+msgid "Post Category Hover Font Color"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:216
+msgid "Select post category hover font color. Leave empty for default color."
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:222
+msgid "Post Category Font Size"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:226
+msgid "Enter post category font size. Leave empty for default font size."
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:231
+msgid "Read More Button Settings"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:235
+msgid "Read More Button Background Color"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:247
+msgid ""
+"Select Read More button background color. Leave empty for default color."
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:253
+msgid "Read More Button Hover Background Color"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:265
+msgid ""
+"Select Read More button hover background color. Leave empty for default "
+"color."
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:271
+msgid "Read More Button Text Color"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:283
+msgid "Select Read More button text color. Leave empty for default color."
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:289
+msgid "Read More Button Hover Text Color"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:301
+msgid ""
+"Select Read More button hover text color. Leave empty for default color."
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:307
+msgid "Read More Button Font Size"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:311
+msgid "Enter Read More button font size. Leave empty for default font size."
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:339
+msgid "Custom CSS Settings"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:348
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/admin/settings/wpspw-settings.php:352
+msgid "Enter custom CSS to override plugin CSS. Sometime !important will work."
+msgstr ""
+
+#. Name of the plugin
+msgid "Blog Designer - Post and Widget Pro"
+msgstr ""
+
+#. Description of the plugin
+msgid "Display Post on your website with PRO designs."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wponlinesupport.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP Online Support"
+msgstr ""

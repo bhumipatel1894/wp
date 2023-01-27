@@ -1,0 +1,18 @@
+/********* public CSS for Admin Side *******/
+.wpcdt-post-sett-table .wp-picker-container{margin-top: 10px;}
+.wpcdt-post-sett-table td{vertical-align: top;}
+
+/***** MetaBox Tabs Starts *****/
+.wpcdt-mb-tabs-wrp ul, .wpcdt-mb-tabs-wrp li {list-style: none !important;}
+.wpcdt-mb-tabs-wrp ul.wpcdt-mb-tabs li {display: inline;}
+.wpcdt-mb-tabs-wrp ul.wpcdt-mb-tabs {margin: 12px 0 3px 0;}
+.wpcdt-mb-tabs-wrp ul.wpcdt-mb-tabs li.wpcdt-active, div.wpcdt-tab-cnt {border-color: #dfdfdf;}
+.wpcdt-mb-tabs-wrp ul.wpcdt-mb-tabs li {border-top-left-radius: 3px;border-top-right-radius: 3px;padding: 5px;}
+.wpcdt-mb-tabs-wrp .wpcdt-tab-cnt {background: #fff none repeat scroll 0 0;border-style: solid;border-width: 1px;padding: 0.5em 0.9em;display: none;}
+.wpcdt-mb-tabs-wrp .wpcdt-mb-tabs a,
+.wpcdt-mb-tabs-wrp .wpcdt-mb-tabs a:focus, .wpcdt-mb-tabs-wrp .wpcdt-mb-tabs a:active{text-decoration: none;outline: 0 !important;box-shadow: none;}
+.wpcdt-mb-tabs-wrp ul.wpcdt-mb-tabs .wpcdt-active a {color: #333;}
+.wpcdt-mb-tabs-wrp ul.wpcdt-mb-tabs li.wpcdt-active {border-style: solid solid none;border-width: 1px 1px 0 1px;background-color: #fff;}
+/***** MetaBox Tabs Ends *****/
+
+th.wp-tsasp-sdrag{width: 40px;text-align: center;cursor: move;}
